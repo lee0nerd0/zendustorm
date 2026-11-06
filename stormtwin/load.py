@@ -66,7 +66,7 @@ class AuthError(LoadError):
 
 
 # =============================================================================
-# HTTP layer: one GET with timeout, retries and exponential backoff
+# HTTP layer: one GET with timeout, retries and exponential backoff (shared with weather.py)
 # =============================================================================
 def build_url(base_url, entity, params):
     """Join base URL, entity path and query string. `params` with None values are dropped."""
@@ -76,8 +76,20 @@ def build_url(base_url, entity, params):
 
 
 def http_get_json(url, api_key, settings):
-    """GET a URL and parse JSON. Retries transient failures; raises LoadError/AuthError otherwise."""
+    """GET a fleet API URL (key in header) and parse JSON."""
     headers = {settings["api_key_header"]: api_key, "Accept": "application/json"}
+    body = http_get_bytes(url, headers, settings)
+    try:
+        return json.loads(body.decode("utf-8"))
+    except (UnicodeDecodeError, json.JSONDecodeError) as exc:
+        raise LoadError(f"Invalid JSON from {_redact(url)}: {exc}") from exc
+
+
+def http_get_bytes(url, headers, settings):
+    """GET a URL and return the body. Retries transient failures; raises LoadError/AuthError otherwise.
+
+    Shared by the fleet API loader and the weather downloader.
+    """
     max_retries = int(settings["http_max_retries"])
     backoff = float(settings["http_backoff_base_s"])
     timeout = float(settings["http_timeout_s"])
@@ -86,7 +98,7 @@ def http_get_json(url, api_key, settings):
         try:
             req = urllib.request.Request(url, headers=headers, method="GET")
             with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return json.loads(resp.read().decode("utf-8"))
+                return resp.read()
 
         except urllib.error.HTTPError as exc:
             # --- Non-retryable: tell the user what to fix ---
@@ -102,11 +114,6 @@ def http_get_json(url, api_key, settings):
             # Network-level failure (DNS, reset, timeout): retry with backoff.
             wait = backoff * (2 ** attempt)
             reason = f"network error: {getattr(exc, 'reason', exc)}"
-
-        except json.JSONDecodeError as exc:
-            # A 200 with non-JSON body is a server problem; one retry is reasonable, more is not useful.
-            wait = backoff * (2 ** attempt)
-            reason = f"invalid JSON: {exc}"
 
         if attempt == max_retries:
             raise LoadError(f"Giving up on {_redact(url)} after {max_retries + 1} attempts ({reason})")

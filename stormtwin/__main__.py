@@ -3,6 +3,7 @@
 Commands
 --------
     load    Download the fleet API into data/raw/ (needs the FLEET_API_KEY env var).
+    weather Download Environment Canada weather into data/weather/ (no key needed).
     replay  Predict ok / no_start / hydraulic per truck for a replay input file (offline).
     (whatif is added in a later step.)
 """
@@ -17,6 +18,7 @@ import sys
 from .config import ConfigError, load_settings
 from .load import LoadError, run_load
 from .replay import ReplayError, run_replay
+from .weather import run_weather
 
 
 # =============================================================================
@@ -31,6 +33,8 @@ def build_parser():
     p_load = sub.add_parser("load", help="Download the fleet API into data/raw/")
     p_load.add_argument("--only", nargs="+", metavar="ENTITY", help="Fetch only these entities, e.g. --only Vehicle WorkOrder")
 
+    sub.add_parser("weather", help="Download historical weather into data/weather/")
+
     p_replay = sub.add_parser("replay", help="Predict per-truck outcome for a replay input (offline)")
     p_replay.add_argument("--input", required=True, help="Replay input JSON (maintenance_input.json)")
     p_replay.add_argument("--output", required=True, help="Where to write the prediction JSON")
@@ -44,12 +48,17 @@ def cmd_load(args, settings):
     return 0 if run_load(settings, only=args.only) else 1
 
 
+def cmd_weather(args, settings):
+    run_weather(settings)
+    return 0
+
+
 def cmd_replay(args, settings):
     run_replay(args.input, args.output, settings)
     return 0
 
 
-COMMANDS = {"load": cmd_load, "replay": cmd_replay}
+COMMANDS = {"load": cmd_load, "weather": cmd_weather, "replay": cmd_replay}
 
 
 # =============================================================================

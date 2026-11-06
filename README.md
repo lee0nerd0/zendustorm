@@ -14,6 +14,10 @@ python -m stormtwin load --only WorkOrder      # re-fetch a subset
 #    -> data/raw/<Entity>.json + data/raw/_manifest.json (row counts, sha256, warnings)
 #    Settings (URL, page size, timeouts, retries) are in config/settings.json.
 
+# 2b. weather: Environment Canada hourly + daily obs (TORONTO INTL A) -> data/weather/ (no key)
+python -m stormtwin weather
+#    -> daily.json, hourly.json, callout_nights.json (low before / around each callout), raw/*.csv
+
 # 3. replay: works offline from data/ (command is in REPLAY_COMMAND)
 python -m stormtwin replay --input replay/input.json --output replay/output.json
 

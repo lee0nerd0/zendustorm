@@ -1,19 +1,15 @@
 {
   "_readme": "Committed settings (no secrets). The API key is read from the env var named in api_key_env.",
-
   "api_base_url": "https://storm-hackathon.vercel.app/api/v1",
   "api_key_env": "FLEET_API_KEY",
   "api_key_header": "X-Api-Key",
-
   "data_dir": "data",
   "raw_subdir": "raw",
-
   "page_size": 1000,
   "http_timeout_s": 30,
   "http_max_retries": 4,
   "http_backoff_base_s": 2,
   "max_pages_per_entity": 100,
-
   "_entities_readme": "Entity name -> row count the API docs advertise. Used only to warn on mismatch.",
   "entities": {
     "Yard": 2,
@@ -31,5 +27,21 @@
     "DispatchAssignment": 446,
     "DispatchPlan": 30,
     "WorkOrder": 132
+  },
+  "weather": {
+    "_readme": "Environment Canada historical climate data (no key). TORONTO INTL A is ~10 km from both yards.",
+    "base_url": "https://climate.weather.gc.ca/climate_data/bulk_data_e.html",
+    "station_id": 51459,
+    "station_name": "TORONTO INTL A",
+    "climate_id": "6158731",
+    "dir": "weather",
+    "months": [
+      "2025-12",
+      "2026-01",
+      "2026-11",
+      "2026-12"
+    ],
+    "hours_before_callout": 12,
+    "hours_after_callout": 12
   }
 }
