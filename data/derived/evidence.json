@@ -1,0 +1,245 @@
+{
+ "rules": {
+  "_readme": "Thresholds sit between the closest failure and the closest non-failure in history (see data/derived/evidence.json).",
+  "no_start": {
+   "max_voltage_v": 12.25,
+   "night_low_max_c": -10.0
+  },
+  "hydraulic": {
+   "min_pto_hours_since_service": 181.0,
+   "min_snow_cm": 7.5
+  }
+ },
+ "in_sample_warning": "Thresholds were chosen on this history; this is in-sample accuracy.",
+ "events_on_record": {
+  "no_start": 11,
+  "hydraulic": 6
+ },
+ "no_start_daily": {
+  "counts": {
+   "TN": 1639,
+   "TP": 11
+  },
+  "margins": {
+   "fail_max_voltage": 12.24,
+   "fail_max_low": -10.5,
+   "ok_cold_min_voltage": 12.25,
+   "ok_lowvolt_min_low": -9.2
+  },
+  "flagged_or_failed": [
+   {
+    "truck": "T-101",
+    "morning": "2025-12-05",
+    "voltage_v": 12.24,
+    "night_low_c": -11.0,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-118",
+    "morning": "2025-12-08",
+    "voltage_v": 12.22,
+    "night_low_c": -12.3,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-104",
+    "morning": "2026-01-01",
+    "voltage_v": 11.97,
+    "night_low_c": -14.0,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-109",
+    "morning": "2026-01-01",
+    "voltage_v": 12.03,
+    "night_low_c": -14.0,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-114",
+    "morning": "2026-01-01",
+    "voltage_v": 11.65,
+    "night_low_c": -14.0,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-121",
+    "morning": "2026-01-01",
+    "voltage_v": 12.15,
+    "night_low_c": -14.0,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-111",
+    "morning": "2026-01-15",
+    "voltage_v": 12.14,
+    "night_low_c": -14.1,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-112",
+    "morning": "2026-01-15",
+    "voltage_v": 12.11,
+    "night_low_c": -14.1,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-119",
+    "morning": "2026-01-15",
+    "voltage_v": 12.24,
+    "night_low_c": -14.1,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-129",
+    "morning": "2026-01-18",
+    "voltage_v": 12.23,
+    "night_low_c": -10.5,
+    "predicted": true,
+    "actual": true
+   },
+   {
+    "truck": "T-106",
+    "morning": "2026-01-20",
+    "voltage_v": 12.24,
+    "night_low_c": -15.0,
+    "predicted": true,
+    "actual": true
+   }
+  ]
+ },
+ "hydraulic_margins": {
+  "fail_min_pto_h": 181.8,
+  "ok_heavy_snow_max_pto_h": 180.0,
+  "ok_light_snow_max_pto_h": 189.2
+ },
+ "callout_backtest": {
+  "nights": [
+   {
+    "callout": "2025-12-02T00:00:00",
+    "night_low_c": -3.1,
+    "snow_cm": 2.0,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {},
+    "mistakes": []
+   },
+   {
+    "callout": "2025-12-10T03:00:00",
+    "night_low_c": -1.8,
+    "snow_cm": 10.0,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {},
+    "mistakes": []
+   },
+   {
+    "callout": "2025-12-23T00:00:00",
+    "night_low_c": 0.0,
+    "snow_cm": 9.8,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {
+     "T-107": "hydraulic",
+     "T-116": "hydraulic"
+    },
+    "mistakes": []
+   },
+   {
+    "callout": "2025-12-26T08:00:00",
+    "night_low_c": -7.7,
+    "snow_cm": 12.0,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {
+     "T-114": "hydraulic"
+    },
+    "mistakes": []
+   },
+   {
+    "callout": "2025-12-29T09:00:00",
+    "night_low_c": 0.4,
+    "snow_cm": 2.0,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {},
+    "mistakes": []
+   },
+   {
+    "callout": "2026-01-05T06:00:00",
+    "night_low_c": -4.7,
+    "snow_cm": 3.2,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {},
+    "mistakes": []
+   },
+   {
+    "callout": "2026-01-14T03:00:00",
+    "night_low_c": 3.7,
+    "snow_cm": 2.6,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {},
+    "mistakes": []
+   },
+   {
+    "callout": "2026-01-15T00:00:00",
+    "night_low_c": -14.1,
+    "snow_cm": 20.2,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {
+     "T-108": "hydraulic",
+     "T-111": "no_start",
+     "T-112": "no_start",
+     "T-119": "no_start",
+     "T-120": "hydraulic",
+     "T-125": "hydraulic"
+    },
+    "mistakes": []
+   },
+   {
+    "callout": "2026-01-16T03:00:00",
+    "night_low_c": -12.0,
+    "snow_cm": 2.8,
+    "trucks": 27,
+    "correct": 27,
+    "flagged": {},
+    "mistakes": []
+   },
+   {
+    "callout": "2026-01-21T07:00:00",
+    "night_low_c": -12.2,
+    "snow_cm": 4.8,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {},
+    "mistakes": []
+   },
+   {
+    "callout": "2026-01-22T00:00:00",
+    "night_low_c": -4.0,
+    "snow_cm": 2.4,
+    "trucks": 30,
+    "correct": 30,
+    "flagged": {},
+    "mistakes": []
+   }
+  ],
+  "confusion_actual_to_predicted": {
+   "hydraulic->hydraulic": 6,
+   "no_start->no_start": 3,
+   "ok->ok": 318
+  }
+ }
+}

@@ -43,5 +43,34 @@
     ],
     "hours_before_callout": 12,
     "hours_after_callout": 12
+  },
+  "model": {
+    "_readme": "Fixed UTC offset for telematics timestamps. All modelled dates are EST (no DST).",
+    "utc_offset_hours": -5
+  },
+  "night": {
+    "_readme": "Night low = coldest hour from start_hour the evening before the callout morning to end_hour that morning.",
+    "night_window_start_hour": 18,
+    "night_window_end_hour": 8,
+    "min_hours_for_hourly_low": 8
+  },
+  "rules": {
+    "_readme": "Thresholds sit between the closest failure and the closest non-failure in history (see data/derived/evidence.json).",
+    "no_start": {
+      "max_voltage_v": 12.25,
+      "night_low_max_c": -10.0
+    },
+    "hydraulic": {
+      "min_pto_hours_since_service": 181.0,
+      "min_snow_cm": 7.5
+    }
+  },
+  "evidence": {
+    "daily_start_hour": 5,
+    "months": [
+      "2025-12",
+      "2026-01"
+    ],
+    "out_dir": "derived"
   }
 }

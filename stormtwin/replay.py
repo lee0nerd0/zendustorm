@@ -9,7 +9,7 @@ Pipeline
 --------
     raw   = read input JSON
     night = parse_input(raw)                  # tolerant of field-shape variations, fails loudly if unusable
-    preds = predict(night, settings)          # one label per truck (baseline: all "ok")
+    preds = predict(night, settings)          # one label per truck via the hidden rules
     write {"persona": "maintenance", "trucks": preds} with sorted keys (byte-identical re-runs)
 
 Reproducibility rules
@@ -25,6 +25,10 @@ import json
 import logging
 from collections import Counter
 from pathlib import Path
+
+from .history import load_history, parse_local
+from .night import night_conditions, weather_from_block, weather_from_history
+from .rules import assess_fleet
 
 log = logging.getLogger("stormtwin.replay")
 
@@ -103,8 +107,38 @@ def _fleet_roster(settings):
 # Prediction
 # =============================================================================
 def predict(night, settings):
-    """Return {truck: label}. Baseline: everything "ok". Rule-based predictors plug in here later."""
-    return {truck: DEFAULT_LABEL for truck in night["trucks"]}
+    """Return {truck: label} by applying the hidden rules (stormtwin/rules.py) to this night.
+
+    History (data/raw) is extended with the input's day-before records; committed weather is
+    overridden by the input's weather block where both cover the same hours/days.
+    """
+    assessed = assess_night(night, settings)
+    for truck, a in sorted(assessed.items()):
+        if a["label"] != DEFAULT_LABEL:
+            log.info("  %s -> %s: %s", truck, a["label"], "; ".join(a["reasons"]))
+    return {truck: a["label"] for truck, a in assessed.items()}
+
+
+def assess_night(night, settings):
+    """Full per-truck assessment (label, reasons, features). Shared with the what-if command."""
+    callout = _callout_time(night)
+    hist = load_history(settings)
+    hist.add_records(night["records"])
+    weather = weather_from_history(settings).merged_with(weather_from_block(night["weather"]))
+    cond = night_conditions(callout, weather, settings["night"])
+    log.info("Night conditions at %s: low %s °C (%s), snow %s cm",
+             callout, cond["night_low_c"], cond["low_source"], cond["snow_cm"])
+    return assess_fleet(hist, night["trucks"], callout, cond, settings["rules"])
+
+
+def _callout_time(night):
+    """callout_local if present, else midnight of `night` (logged, since the window depends on it)."""
+    if night.get("callout_local"):
+        return parse_local(night["callout_local"])
+    if night.get("night"):
+        log.warning("No callout_local in input; assuming %sT00:00:00", night["night"])
+        return parse_local(f"{str(night['night'])[:10]}T00:00:00")
+    raise ReplayError("Input has neither callout_local nor night")
 
 
 def sanitize(preds, trucks):

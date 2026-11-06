@@ -18,6 +18,9 @@ python -m stormtwin load --only WorkOrder      # re-fetch a subset
 python -m stormtwin weather
 #    -> daily.json, hourly.json, callout_nights.json (low before / around each callout), raw/*.csv
 
+# 2c. evidence: re-derive the hidden rules + backtest all 11 callouts (offline)
+python -m stormtwin evidence
+
 # 3. replay: works offline from data/ (command is in REPLAY_COMMAND)
 python -m stormtwin replay --input replay/input.json --output replay/output.json
 
