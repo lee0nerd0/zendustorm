@@ -1,0 +1,753 @@
+{
+ "scenario": {
+  "_readme": "Tonight per TONIGHT_BULLETIN.md. Override with --low/--snow/--callout or --forecast file.",
+  "plan_date": "2026-12-15",
+  "callout_local": "2026-12-16T02:00:00",
+  "night_low_c": -14.0,
+  "snow_cm": 20.0
+ },
+ "fixes": {},
+ "available": 23,
+ "fleet": 30,
+ "fix_first": [
+  "T-109",
+  "T-110",
+  "T-119",
+  "T-111",
+  "T-114",
+  "T-128",
+  "T-116"
+ ],
+ "routes_at_risk": [
+  {
+   "route": "R-35",
+   "class": 1,
+   "km": 19.3,
+   "tandem_required": false,
+   "truck": "T-109",
+   "failure": "no_start"
+  },
+  {
+   "route": "R-01",
+   "class": 2,
+   "km": 22.5,
+   "tandem_required": false,
+   "truck": "T-111",
+   "failure": "hydraulic"
+  },
+  {
+   "route": "R-20",
+   "class": 2,
+   "km": 24.5,
+   "tandem_required": true,
+   "truck": "T-110",
+   "failure": "no_start"
+  },
+  {
+   "route": "R-37",
+   "class": 2,
+   "km": 26.2,
+   "tandem_required": false,
+   "truck": "T-119",
+   "failure": "hydraulic"
+  },
+  {
+   "route": "R-13",
+   "class": 3,
+   "km": 23.9,
+   "tandem_required": false,
+   "truck": "T-128",
+   "failure": "hydraulic"
+  },
+  {
+   "route": "R-32",
+   "class": 3,
+   "km": 25.5,
+   "tandem_required": false,
+   "truck": "T-114",
+   "failure": "hydraulic"
+  },
+  {
+   "route": "R-11",
+   "class": 4,
+   "km": 30.2,
+   "tandem_required": false,
+   "truck": "T-109",
+   "failure": "no_start"
+  },
+  {
+   "route": "R-30",
+   "class": 4,
+   "km": 31.9,
+   "tandem_required": false,
+   "truck": "T-116",
+   "failure": "no_start"
+  },
+  {
+   "route": "R-34",
+   "class": 5,
+   "km": 27,
+   "tandem_required": false,
+   "truck": "T-110",
+   "failure": "no_start"
+  }
+ ],
+ "watch": [
+  {
+   "truck": "T-108",
+   "notes": [
+    "171.0 PTO h since service, 10.0 h below limit"
+   ]
+  },
+  {
+   "truck": "T-122",
+   "notes": [
+    "battery 12.33 V within 0.1 V of 12.25 V"
+   ]
+  },
+  {
+   "truck": "T-127",
+   "notes": [
+    "176.5 PTO h since service, 4.5 h below limit"
+   ]
+  },
+  {
+   "truck": "T-129",
+   "notes": [
+    "battery 12.31 V within 0.1 V of 12.25 V"
+   ]
+  },
+  {
+   "truck": "T-130",
+   "notes": [
+    "battery 12.29 V within 0.1 V of 12.25 V"
+   ]
+  }
+ ],
+ "trucks": [
+  {
+   "truck": "T-101",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-17",
+     "class": 2,
+     "km": 26.6,
+     "tandem_required": true
+    }
+   ],
+   "voltage_v": 12.69,
+   "pto_since_service_h": 11.0
+  },
+  {
+   "truck": "T-102",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-24",
+     "class": 1,
+     "km": 24.4,
+     "tandem_required": false
+    },
+    {
+     "route": "R-04",
+     "class": 4,
+     "km": 28.9,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.7,
+   "pto_since_service_h": 9.4
+  },
+  {
+   "truck": "T-103",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-19",
+     "class": 2,
+     "km": 26.7,
+     "tandem_required": true
+    }
+   ],
+   "voltage_v": 12.71,
+   "pto_since_service_h": 15.3
+  },
+  {
+   "truck": "T-104",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-10",
+     "class": 2,
+     "km": 24.4,
+     "tandem_required": true
+    },
+    {
+     "route": "R-06",
+     "class": 5,
+     "km": 36.4,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.63,
+   "pto_since_service_h": 15.3
+  },
+  {
+   "truck": "T-105",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-29",
+     "class": 1,
+     "km": 21.8,
+     "tandem_required": true
+    },
+    {
+     "route": "R-15",
+     "class": 4,
+     "km": 29.1,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.64,
+   "pto_since_service_h": 10.7
+  },
+  {
+   "truck": "T-106",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-36",
+     "class": 3,
+     "km": 26.2,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.4,
+   "pto_since_service_h": 0.3
+  },
+  {
+   "truck": "T-107",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-33",
+     "class": 1,
+     "km": 22.1,
+     "tandem_required": true
+    },
+    {
+     "route": "R-25",
+     "class": 5,
+     "km": 36.9,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.73,
+   "pto_since_service_h": 16.2
+  },
+  {
+   "truck": "T-108",
+   "label": "ok",
+   "reasons": [],
+   "watch": [
+    "171.0 PTO h since service, 10.0 h below limit"
+   ],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-26",
+     "class": 2,
+     "km": 29.6,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.58,
+   "pto_since_service_h": 171.0
+  },
+  {
+   "truck": "T-109",
+   "label": "no_start",
+   "reasons": [
+    "battery 12.19 V < 12.25 V and night low -14.0 \u00b0C <= -10.0 \u00b0C"
+   ],
+   "watch": [],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-35",
+     "class": 1,
+     "km": 19.3,
+     "tandem_required": false
+    },
+    {
+     "route": "R-11",
+     "class": 4,
+     "km": 30.2,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.19,
+   "pto_since_service_h": 1.1
+  },
+  {
+   "truck": "T-110",
+   "label": "no_start",
+   "reasons": [
+    "battery 12.16 V < 12.25 V and night low -14.0 \u00b0C <= -10.0 \u00b0C"
+   ],
+   "watch": [],
+   "fixed": [],
+   "tandem": true,
+   "planned_routes": [
+    {
+     "route": "R-20",
+     "class": 2,
+     "km": 24.5,
+     "tandem_required": true
+    },
+    {
+     "route": "R-34",
+     "class": 5,
+     "km": 27,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.16,
+   "pto_since_service_h": 1.0
+  },
+  {
+   "truck": "T-111",
+   "label": "hydraulic",
+   "reasons": [
+    "184.0 PTO h since hydraulic service >= 181.0 h and 20.0 cm snow >= 7.5 cm"
+   ],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-01",
+     "class": 2,
+     "km": 22.5,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.59,
+   "pto_since_service_h": 184.0
+  },
+  {
+   "truck": "T-112",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-22",
+     "class": 3,
+     "km": 25.4,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.59,
+   "pto_since_service_h": 1.9
+  },
+  {
+   "truck": "T-113",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-03",
+     "class": 2,
+     "km": 23.8,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.64,
+   "pto_since_service_h": 5.4
+  },
+  {
+   "truck": "T-114",
+   "label": "hydraulic",
+   "reasons": [
+    "206.5 PTO h since hydraulic service >= 181.0 h and 20.0 cm snow >= 7.5 cm"
+   ],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-32",
+     "class": 3,
+     "km": 25.5,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.75,
+   "pto_since_service_h": 206.5
+  },
+  {
+   "truck": "T-115",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-27",
+     "class": 3,
+     "km": 30,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.68,
+   "pto_since_service_h": 10.1
+  },
+  {
+   "truck": "T-116",
+   "label": "no_start",
+   "reasons": [
+    "battery 12.22 V < 12.25 V and night low -14.0 \u00b0C <= -10.0 \u00b0C"
+   ],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-30",
+     "class": 4,
+     "km": 31.9,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.22,
+   "pto_since_service_h": 2.2
+  },
+  {
+   "truck": "T-117",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-39",
+     "class": 3,
+     "km": 30.3,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.67,
+   "pto_since_service_h": 2.1
+  },
+  {
+   "truck": "T-118",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-12",
+     "class": 3,
+     "km": 30.2,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.63,
+   "pto_since_service_h": 1.2
+  },
+  {
+   "truck": "T-119",
+   "label": "hydraulic",
+   "reasons": [
+    "197.0 PTO h since hydraulic service >= 181.0 h and 20.0 cm snow >= 7.5 cm"
+   ],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-37",
+     "class": 2,
+     "km": 26.2,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.56,
+   "pto_since_service_h": 197.0
+  },
+  {
+   "truck": "T-120",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-18",
+     "class": 3,
+     "km": 24.7,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.59,
+   "pto_since_service_h": 0.9
+  },
+  {
+   "truck": "T-121",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-21",
+     "class": 3,
+     "km": 24.3,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.42,
+   "pto_since_service_h": 1.1
+  },
+  {
+   "truck": "T-122",
+   "label": "ok",
+   "reasons": [],
+   "watch": [
+    "battery 12.33 V within 0.1 V of 12.25 V"
+   ],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-16",
+     "class": 2,
+     "km": 24,
+     "tandem_required": false
+    },
+    {
+     "route": "R-02",
+     "class": 4,
+     "km": 28.3,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.33,
+   "pto_since_service_h": 3.8
+  },
+  {
+   "truck": "T-123",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-05",
+     "class": 3,
+     "km": 33.7,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.55,
+   "pto_since_service_h": 8.2
+  },
+  {
+   "truck": "T-124",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-40",
+     "class": 4,
+     "km": 33.7,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.57,
+   "pto_since_service_h": 2.1
+  },
+  {
+   "truck": "T-125",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-23",
+     "class": 3,
+     "km": 24.6,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.56,
+   "pto_since_service_h": 2.9
+  },
+  {
+   "truck": "T-126",
+   "label": "ok",
+   "reasons": [],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-14",
+     "class": 2,
+     "km": 23.5,
+     "tandem_required": false
+    },
+    {
+     "route": "R-28",
+     "class": 4,
+     "km": 26.2,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.37,
+   "pto_since_service_h": 1.7
+  },
+  {
+   "truck": "T-127",
+   "label": "ok",
+   "reasons": [],
+   "watch": [
+    "176.5 PTO h since service, 4.5 h below limit"
+   ],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-09",
+     "class": 3,
+     "km": 31.2,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.65,
+   "pto_since_service_h": 176.5
+  },
+  {
+   "truck": "T-128",
+   "label": "hydraulic",
+   "reasons": [
+    "191.5 PTO h since hydraulic service >= 181.0 h and 20.0 cm snow >= 7.5 cm"
+   ],
+   "watch": [],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-13",
+     "class": 3,
+     "km": 23.9,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.53,
+   "pto_since_service_h": 191.5
+  },
+  {
+   "truck": "T-129",
+   "label": "ok",
+   "reasons": [],
+   "watch": [
+    "battery 12.31 V within 0.1 V of 12.25 V"
+   ],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-07",
+     "class": 1,
+     "km": 21.7,
+     "tandem_required": false
+    },
+    {
+     "route": "R-31",
+     "class": 5,
+     "km": 26.4,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.31,
+   "pto_since_service_h": 1.7
+  },
+  {
+   "truck": "T-130",
+   "label": "ok",
+   "reasons": [],
+   "watch": [
+    "battery 12.29 V within 0.1 V of 12.25 V"
+   ],
+   "fixed": [],
+   "tandem": false,
+   "planned_routes": [
+    {
+     "route": "R-08",
+     "class": 1,
+     "km": 18.3,
+     "tandem_required": false
+    },
+    {
+     "route": "R-38",
+     "class": 4,
+     "km": 29,
+     "tandem_required": false
+    }
+   ],
+   "voltage_v": 12.29,
+   "pto_since_service_h": 2.9
+  }
+ ]
+}

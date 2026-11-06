@@ -1,0 +1,36 @@
+WHAT-IF  callout 2026-12-16T02:00:00  night low -14.0 °C  snow 20.0 cm
+Trucks ready: 23/30
+
+FIX FIRST (ordered by most urgent planned road class, then km):
+  1. T-109  NO_START  battery 12.19 V < 12.25 V and night low -14.0 °C <= -10.0 °C
+     planned: R-35 (class 1), R-11 (class 4)
+  2. T-110  NO_START  battery 12.16 V < 12.25 V and night low -14.0 °C <= -10.0 °C
+     planned: R-20 (class 2, tandem), R-34 (class 5)
+  3. T-119  HYDRAULIC 197.0 PTO h since hydraulic service >= 181.0 h and 20.0 cm snow >= 7.5 cm
+     planned: R-37 (class 2)
+  4. T-111  HYDRAULIC 184.0 PTO h since hydraulic service >= 181.0 h and 20.0 cm snow >= 7.5 cm
+     planned: R-01 (class 2)
+  5. T-114  HYDRAULIC 206.5 PTO h since hydraulic service >= 181.0 h and 20.0 cm snow >= 7.5 cm
+     planned: R-32 (class 3)
+  6. T-128  HYDRAULIC 191.5 PTO h since hydraulic service >= 181.0 h and 20.0 cm snow >= 7.5 cm
+     planned: R-13 (class 3)
+  7. T-116  NO_START  battery 12.22 V < 12.25 V and night low -14.0 °C <= -10.0 °C
+     planned: R-30 (class 4)
+
+ROUTES THAT NEED ANOTHER TRUCK:
+  R-35  class 1 (clear within 4 h)  19.3 km  was T-109 (no_start)
+  R-01  class 2 (clear within 6 h)  22.5 km  was T-111 (hydraulic)
+  R-20  class 2 (clear within 6 h)  tandem required  24.5 km  was T-110 (no_start)
+  R-37  class 2 (clear within 6 h)  26.2 km  was T-119 (hydraulic)
+  R-13  class 3 (clear within 12 h)  23.9 km  was T-128 (hydraulic)
+  R-32  class 3 (clear within 12 h)  25.5 km  was T-114 (hydraulic)
+  R-11  class 4 (clear within 16 h)  30.2 km  was T-109 (no_start)
+  R-30  class 4 (clear within 16 h)  31.9 km  was T-116 (no_start)
+  R-34  class 5 (clear within 24 h)  27 km  was T-110 (no_start)
+
+WATCH (ok tonight, close to a limit or would fail under other weather):
+  T-108  171.0 PTO h since service, 10.0 h below limit
+  T-122  battery 12.33 V within 0.1 V of 12.25 V
+  T-127  176.5 PTO h since service, 4.5 h below limit
+  T-129  battery 12.31 V within 0.1 V of 12.25 V
+  T-130  battery 12.29 V within 0.1 V of 12.25 V

@@ -1,0 +1,25 @@
+WHAT-IF  callout 2026-12-16T00:30:00  night low -19.0 °C  snow 25.0 cm  fixes {'T-109': ['battery'], 'T-110': ['battery'], 'T-116': ['battery']}
+Trucks ready: 26/30
+
+FIX FIRST (ordered by most urgent planned road class, then km):
+  1. T-119  HYDRAULIC 197.0 PTO h since hydraulic service >= 181.0 h and 25.0 cm snow >= 7.5 cm
+     planned: R-37 (class 2)
+  2. T-111  HYDRAULIC 184.0 PTO h since hydraulic service >= 181.0 h and 25.0 cm snow >= 7.5 cm
+     planned: R-01 (class 2)
+  3. T-114  HYDRAULIC 206.5 PTO h since hydraulic service >= 181.0 h and 25.0 cm snow >= 7.5 cm
+     planned: R-32 (class 3)
+  4. T-128  HYDRAULIC 191.5 PTO h since hydraulic service >= 181.0 h and 25.0 cm snow >= 7.5 cm
+     planned: R-13 (class 3)
+
+ROUTES THAT NEED ANOTHER TRUCK:
+  R-01  class 2 (clear within 6 h)  22.5 km  was T-111 (hydraulic)
+  R-37  class 2 (clear within 6 h)  26.2 km  was T-119 (hydraulic)
+  R-13  class 3 (clear within 12 h)  23.9 km  was T-128 (hydraulic)
+  R-32  class 3 (clear within 12 h)  25.5 km  was T-114 (hydraulic)
+
+WATCH (ok tonight, close to a limit or would fail under other weather):
+  T-108  171.0 PTO h since service, 10.0 h below limit
+  T-122  battery 12.33 V within 0.1 V of 12.25 V
+  T-127  176.5 PTO h since service, 4.5 h below limit
+  T-129  battery 12.31 V within 0.1 V of 12.25 V
+  T-130  battery 12.29 V within 0.1 V of 12.25 V
