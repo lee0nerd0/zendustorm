@@ -1,0 +1,1 @@
+python -m yourpackage replay --input {input} --output {output}

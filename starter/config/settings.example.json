@@ -1,0 +1,7 @@
+{
+  "_readme": "Copy to settings.json. Put your API key in the FLEET_API_KEY environment variable, not in git.",
+  "api_base_url": "https://storm-hackathon.vercel.app/api/v1",
+  "api_key_env": "FLEET_API_KEY",
+  "data_dir": "data",
+  "page_size": 1000
+}
