@@ -37,7 +37,7 @@ class MockApi(BaseHTTPRequestHandler):
         if self.headers.get("X-Api-Key") != GOOD_KEY:
             return self._send(401, {"error": "bad key"})
         if entity == "v1":
-            return self._send(200, {"data": ["Vehicle", "Flaky", "Looping"]})
+            return self._send(200, {"entities": ["Vehicle", "Flaky", "Looping"], "meta": {}, "docs": "x"})
         if entity in MockApi.fail_once:
             MockApi.fail_once.discard(entity)
             return self._send(503, {"error": "try later"})

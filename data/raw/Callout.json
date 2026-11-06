@@ -1,0 +1,79 @@
+[
+ {
+  "id": "ca000160",
+  "date": "2025-12-02",
+  "calloutLocal": "2025-12-02T00:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 30
+ },
+ {
+  "id": "ca001512",
+  "date": "2025-12-10",
+  "calloutLocal": "2025-12-10T03:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 30
+ },
+ {
+  "id": "ca003521",
+  "date": "2025-12-23",
+  "calloutLocal": "2025-12-23T00:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 30
+ },
+ {
+  "id": "ca004283",
+  "date": "2025-12-26",
+  "calloutLocal": "2025-12-26T08:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 30
+ },
+ {
+  "id": "ca004960",
+  "date": "2025-12-29",
+  "calloutLocal": "2025-12-29T09:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 30
+ },
+ {
+  "id": "ca006117",
+  "date": "2026-01-05",
+  "calloutLocal": "2026-01-05T06:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 30
+ },
+ {
+  "id": "ca007559",
+  "date": "2026-01-14",
+  "calloutLocal": "2026-01-14T03:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 30
+ },
+ {
+  "id": "ca008042",
+  "date": "2026-01-15",
+  "calloutLocal": "2026-01-15T00:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 27
+ },
+ {
+  "id": "ca008600",
+  "date": "2026-01-16",
+  "calloutLocal": "2026-01-16T03:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 27
+ },
+ {
+  "id": "ca009554",
+  "date": "2026-01-21",
+  "calloutLocal": "2026-01-21T07:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 30
+ },
+ {
+  "id": "ca009969",
+  "date": "2026-01-22",
+  "calloutLocal": "2026-01-22T00:00:00",
+  "reason": "Snow event",
+  "trucksCalledOut": 30
+ }
+]

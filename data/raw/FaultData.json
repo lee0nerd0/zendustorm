@@ -1,0 +1,4154 @@
+[
+ {
+  "id": "fa000032",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-01T13:21:00Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000031",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2025-12-01T18:04:19Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa000033",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-01T19:18:00Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000039",
+  "device": {
+   "id": "b44"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2025-12-01T20:02:04Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa000036",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2025-12-01T20:38:00Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa000034",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-01T21:30:32Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000037",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-01T22:53:53Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000035",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-01T23:13:58Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000038",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-02T02:17:33Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000510",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-02T16:22:18Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000509",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-02T16:54:56Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000511",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-02T20:00:38Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000511d",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-02T20:00:38Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000632",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-03T12:23:59Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000634",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-03T19:05:41Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000635",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-03T19:52:22Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000633",
+  "device": {
+   "id": "b37"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-03T21:45:02Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000760",
+  "device": {
+   "id": "b41"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2025-12-04T11:15:46Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa000758",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-04T11:52:07Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000759",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-04T18:50:13Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000761",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-04T19:58:05Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000757",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-04T21:51:56Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000756",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-05T01:39:08Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000891",
+  "device": {
+   "id": "b3F"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2025-12-05T12:07:30Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa000888",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-05T12:38:22Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000890",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-05T13:14:00Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000884",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2025-12-05T14:00:36Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa000893",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-05T15:45:45Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000885",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-05T16:14:55Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000886",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-05T17:27:14Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000887",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-05T20:44:16Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa000889",
+  "device": {
+   "id": "b3A"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-06T01:25:03Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa000889d",
+  "device": {
+   "id": "b3A"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-06T01:25:03Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa000892",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-06T02:46:08Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001016",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-06T14:05:00Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001014",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-06T18:51:01Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001017",
+  "device": {
+   "id": "b43"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-06T21:49:13Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001018",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-06T21:52:21Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001015",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-06T23:37:29Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001140",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-07T22:29:26Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001141",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-07T22:46:26Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001139",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-07T23:17:09Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001142",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-08T02:24:15Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001266",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-08T11:14:19Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001265",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-08T16:01:57Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001271",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-08T19:32:59Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001269",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-08T20:41:01Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001273",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-08T22:12:44Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001267",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2025-12-08T22:29:41Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa001268",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-08T23:04:48Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001270",
+  "device": {
+   "id": "b43"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-09T01:02:08Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001272",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-09T01:39:53Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001272d",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-09T01:39:53Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001397",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-09T14:19:46Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001399",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-09T16:24:34Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001396",
+  "device": {
+   "id": "b37"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-09T17:41:02Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa001398",
+  "device": {
+   "id": "b41"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-09T21:17:49Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa001395",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2025-12-09T21:45:58Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa001885",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-10T11:25:15Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001888",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-10T13:21:53Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001887",
+  "device": {
+   "id": "b43"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-10T16:07:58Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa001883",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-10T18:52:04Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001886",
+  "device": {
+   "id": "b37"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-10T19:00:13Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001884",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-10T23:43:27Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa001889",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-11T00:43:56Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002011",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-11T13:38:40Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002014",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-11T19:55:43Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002012",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T01:02:35Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002010",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T01:11:05Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002010d",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T01:11:05Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002013",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T01:58:16Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002145",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2025-12-12T14:46:30Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa002142",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T16:25:50Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002138",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T17:28:17Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002141",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-12T19:36:45Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa002144",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T19:42:06Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002143",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T21:28:36Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002140",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T21:30:23Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002140d",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T21:30:23Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002139",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-12T23:20:04Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002137",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-13T02:44:35Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002136",
+  "device": {
+   "id": "b2C"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-13T02:56:36Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa002272",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-13T11:32:25Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002271",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-13T14:09:05Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002273",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-13T14:35:58Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002267",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2025-12-13T15:37:27Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa002266",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-13T15:46:09Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002268",
+  "device": {
+   "id": "b37"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-14T00:11:02Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002269",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-14T00:41:03Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002270",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-14T02:32:52Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002270d",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-14T02:32:52Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002274",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-14T02:44:52Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa002398",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-14T12:31:58Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002400",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-14T12:35:50Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002397",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-14T15:57:06Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002395",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-14T18:43:29Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002399",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-15T00:43:07Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002396",
+  "device": {
+   "id": "b3A"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-15T02:10:30Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa002525",
+  "device": {
+   "id": "b44"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-15T11:47:06Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa002525d",
+  "device": {
+   "id": "b44"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-15T11:47:06Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa002524",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-15T13:06:59Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002526",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-15T18:41:17Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002521",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2025-12-15T19:05:10Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa002523",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2025-12-15T19:53:48Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa002527",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-15T23:16:10Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002522",
+  "device": {
+   "id": "b3C"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-16T00:36:46Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa002650",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-16T14:05:39Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002651",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-16T14:15:52Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002649",
+  "device": {
+   "id": "b37"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-16T18:37:45Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002653",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-16T19:23:23Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002652",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-16T20:08:38Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002648",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-16T23:51:02Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002774",
+  "device": {
+   "id": "b2F"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2025-12-17T14:38:32Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa002779",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-17T17:17:24Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002776",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2025-12-17T21:05:51Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa002775",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-17T21:26:01Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002777",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-17T23:56:49Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002778",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-18T00:11:04Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002903",
+  "device": {
+   "id": "b44"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-18T14:00:11Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa002900",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-18T16:29:13Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002901",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2025-12-18T21:59:06Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa002904",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-18T22:36:48Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa002902",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2025-12-19T02:07:49Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa003028",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2025-12-19T14:12:21Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa003027",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-19T15:33:13Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003026",
+  "device": {
+   "id": "b37"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-19T22:11:24Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003025",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-19T22:58:24Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003029",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-20T00:30:14Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003147",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-20T13:04:21Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa003146",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-20T13:42:59Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003148",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-20T15:44:03Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003150",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-20T22:40:57Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003149",
+  "device": {
+   "id": "b3B"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2025-12-21T01:37:07Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa003273",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-21T14:02:23Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003272",
+  "device": {
+   "id": "b37"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-21T15:24:21Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003271",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-21T18:57:46Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003274",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-21T19:42:40Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003397",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-22T11:32:07Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003396",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-22T17:55:03Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003398",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-22T20:54:12Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003400",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-22T21:55:35Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003399",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-22T23:56:28Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003910",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-23T17:32:27Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003911",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-23T19:52:59Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003911d",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-23T19:52:59Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa003908",
+  "device": {
+   "id": "b2A"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2025-12-23T20:35:45Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa003909",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-23T22:58:38Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa003912",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-24T00:00:09Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004037",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-24T12:03:17Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa004033",
+  "device": {
+   "id": "b2F"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-24T14:28:59Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa004038",
+  "device": {
+   "id": "b3F"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-24T15:24:13Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa004034",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-24T18:07:35Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004035",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-24T22:09:47Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004039",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-24T22:29:20Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004036",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-25T02:06:43Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004160",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2025-12-25T13:46:05Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa004161",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-25T19:47:51Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004162",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-26T00:03:16Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa004588",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-26T11:23:55Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004587",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2025-12-26T11:29:54Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa004590",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-26T13:37:47Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004590d",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-26T13:37:47Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004589",
+  "device": {
+   "id": "b3C"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2025-12-26T21:45:38Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa004589d",
+  "device": {
+   "id": "b3C"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2025-12-26T21:45:38Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa004586",
+  "device": {
+   "id": "b2E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-27T02:43:20Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004712",
+  "device": {
+   "id": "b2A"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-27T11:29:49Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa004713",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-27T17:59:01Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004714",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-27T20:36:19Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004838",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-28T11:27:39Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004838d",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-28T11:27:39Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004839",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-28T11:27:43Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004835",
+  "device": {
+   "id": "b2E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-28T19:00:59Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004836",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-28T22:52:39Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004837",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-29T02:17:46Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa004837d",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-29T02:17:46Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005215",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-29T14:29:19Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005219",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-29T18:02:52Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005216",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2025-12-29T19:43:28Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa005216d",
+  "device": {
+   "id": "b39"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2025-12-29T19:43:28Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa005218",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-29T20:50:28Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005217",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-29T21:09:12Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005220",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-29T23:27:16Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005344",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-30T13:20:04Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005345",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2025-12-30T15:15:41Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa005349",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-30T15:57:15Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005350",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2025-12-30T20:03:28Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa005347",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-30T20:35:03Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005341",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-30T21:07:20Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005346",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-30T23:54:51Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005348",
+  "device": {
+   "id": "b43"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2025-12-31T00:35:28Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa005342",
+  "device": {
+   "id": "b2E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-31T01:35:19Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005343",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-31T01:59:45Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005473",
+  "device": {
+   "id": "b3C"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2025-12-31T13:35:08Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa005476",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-31T13:59:27Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005471",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2025-12-31T14:04:24Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005477",
+  "device": {
+   "id": "b43"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2025-12-31T20:44:35Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa005478",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2025-12-31T23:47:33Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa005475",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-01T00:59:36Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005474",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-01T02:11:58Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005472",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-01T02:40:28Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005611",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-01T15:12:10Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa005607",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-01T22:37:27Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa005612",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-01T23:57:28Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005608",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2026-01-02T00:46:39Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa005610",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-02T01:20:13Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005609",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-02T01:29:32Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005740",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-02T12:19:55Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005738",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-02T14:09:00Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa005736",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-02T14:34:17Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005734",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-02T16:48:20Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa005739",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-02T18:41:35Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005733",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-02T19:12:52Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005737",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-02T21:15:27Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005735",
+  "device": {
+   "id": "b2E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-03T01:21:08Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005865",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-03T21:03:35Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005863",
+  "device": {
+   "id": "b33"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-03T21:14:53Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa005862",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-03T21:40:58Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa005866",
+  "device": {
+   "id": "b43"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-03T21:55:26Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa005861",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-03T23:29:11Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005864",
+  "device": {
+   "id": "b3A"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2026-01-04T00:46:45Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa005867",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-04T01:36:45Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005995",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-04T11:49:36Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005991",
+  "device": {
+   "id": "b34"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-04T20:14:33Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa005994",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-04T22:26:38Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005993",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-04T23:33:46Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005996",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2026-01-04T23:40:30Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa005989",
+  "device": {
+   "id": "b2E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-05T01:27:42Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005988",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-05T01:48:17Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005992",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-05T02:06:44Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa005990",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2026-01-05T02:17:59Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa006437",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2026-01-05T13:27:05Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa006435",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-05T15:29:37Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006435d",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-05T15:29:37Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006438",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-05T19:14:34Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006436",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-06T01:10:56Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006559",
+  "device": {
+   "id": "b2D"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-06T12:49:38Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa006560",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-06T16:46:11Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006562",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-06T17:07:53Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006561",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-06T19:32:17Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006563",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-07T02:05:51Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006684",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-07T14:05:50Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006685",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-07T22:06:33Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006811",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-08T15:36:44Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006809",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-08T17:32:02Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006810",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-08T17:59:54Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006810d",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-08T17:59:54Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006806",
+  "device": {
+   "id": "b2E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-08T20:30:35Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006807",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-08T22:13:45Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006807d",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-08T22:13:45Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006808",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-08T22:51:32Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006935",
+  "device": {
+   "id": "b3B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-09T15:21:10Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006936",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-09T15:41:28Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006934",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-09T16:35:30Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006933",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-09T19:12:18Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa006932",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-09T21:29:22Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007060",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-10T11:49:00Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007058",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-10T16:05:29Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007057",
+  "device": {
+   "id": "b2A"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2026-01-10T18:05:30Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa007061",
+  "device": {
+   "id": "b3B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-10T21:10:00Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007059",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-10T22:13:30Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007182",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-11T11:32:13Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007184",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-11T16:39:00Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007183",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-11T17:47:04Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007309",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-12T11:51:36Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa007311",
+  "device": {
+   "id": "b3F"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2026-01-12T13:47:18Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa007308",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2026-01-12T15:41:51Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa007310",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-12T16:09:37Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007307",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-12T19:41:26Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007307d",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-12T19:41:26Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007305",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-12T20:48:06Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007306",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-13T02:59:24Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa007432",
+  "device": {
+   "id": "b2E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-13T11:41:28Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007436",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2026-01-13T13:19:37Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa007434",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-13T13:29:30Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007435",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-13T15:22:04Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007437",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-13T16:34:07Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007438",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-13T21:42:55Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa007433",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2026-01-14T00:19:49Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa007913",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-14T14:03:45Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007911",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-14T14:59:08Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007912",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-14T19:02:10Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007914",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2026-01-14T21:31:32Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa007915",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-15T00:39:00Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa007910",
+  "device": {
+   "id": "b2A"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2026-01-15T02:50:15Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa008471",
+  "device": {
+   "id": "b2A"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-15T11:19:36Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa008477",
+  "device": {
+   "id": "b41"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-15T12:38:45Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa008478",
+  "device": {
+   "id": "b42"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-15T13:52:10Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa008475",
+  "device": {
+   "id": "b3E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-15T18:53:02Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa008472",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-15T19:43:23Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa008473",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-15T19:50:48Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa008473d",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-15T19:50:48Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa008479",
+  "device": {
+   "id": "b3B"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-15T20:03:58Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa008476",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-15T20:31:07Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa008474",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-16T00:58:23Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa008924",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-16T16:37:13Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa008926",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-16T17:55:11Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa008925",
+  "device": {
+   "id": "b46"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-16T19:01:31Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa008923",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-16T20:59:50Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009051",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "ABS-SENSOR"
+  },
+  "dateTime": "2026-01-17T18:56:55Z",
+  "severity": "high",
+  "description": "ABS wheel speed sensor intermittent"
+ },
+ {
+  "id": "fa009049",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-17T19:28:37Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009050",
+  "device": {
+   "id": "b2F"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-17T20:36:39Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009050d",
+  "device": {
+   "id": "b2F"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-17T20:36:39Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009052",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-17T20:57:14Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009048",
+  "device": {
+   "id": "b2A"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-18T01:25:56Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009176",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-18T12:09:21Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009175",
+  "device": {
+   "id": "b2E"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-18T12:51:40Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009178",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-18T12:54:45Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009177",
+  "device": {
+   "id": "b3B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-18T23:43:16Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009307",
+  "device": {
+   "id": "b3B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-19T16:09:27Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009301",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-19T18:41:19Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009302",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2026-01-19T19:34:03Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa009300",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "DEF-LEVEL-LOW"
+  },
+  "dateTime": "2026-01-19T20:02:02Z",
+  "severity": "medium",
+  "description": "Diesel exhaust fluid level low"
+ },
+ {
+  "id": "fa009306",
+  "device": {
+   "id": "b44"
+  },
+  "diagnostic": {
+   "id": "GO-DEVICE-RESTART"
+  },
+  "dateTime": "2026-01-19T20:07:27Z",
+  "severity": "low",
+  "description": "Telematics device restarted"
+ },
+ {
+  "id": "fa009304",
+  "device": {
+   "id": "b3D"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2026-01-19T21:20:38Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ },
+ {
+  "id": "fa009303",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-19T21:51:13Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009305",
+  "device": {
+   "id": "b40"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-19T23:54:57Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009299",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-20T02:52:30Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009431",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-20T16:34:57Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009433",
+  "device": {
+   "id": "b47"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-20T20:41:28Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009430",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-20T23:34:31Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009432",
+  "device": {
+   "id": "b3B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-21T01:06:21Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009846",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-21T12:16:15Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa009848",
+  "device": {
+   "id": "b37"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-21T16:38:46Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa009847",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2026-01-21T20:25:54Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa010322",
+  "device": {
+   "id": "b35"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-22T11:11:21Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa010319",
+  "device": {
+   "id": "b2B"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-22T11:55:31Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa010318",
+  "device": {
+   "id": "b2A"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-22T13:48:32Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa010324",
+  "device": {
+   "id": "b41"
+  },
+  "diagnostic": {
+   "id": "COOLANT-TEMP-HIGH"
+  },
+  "dateTime": "2026-01-22T15:01:15Z",
+  "severity": "high",
+  "description": "Coolant temperature high"
+ },
+ {
+  "id": "fa010320",
+  "device": {
+   "id": "b2F"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-22T16:50:05Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa010321",
+  "device": {
+   "id": "b34"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-22T20:38:19Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa010323",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-22T22:42:35Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa010447",
+  "device": {
+   "id": "b36"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-23T12:58:50Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa010446",
+  "device": {
+   "id": "b34"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-23T20:49:16Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa010445",
+  "device": {
+   "id": "b2C"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-01-24T01:30:29Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa900941",
+  "device": {
+   "id": "b38"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2026-12-06T21:07:25Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa901500",
+  "device": {
+   "id": "b41"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2026-12-07T20:01:34Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa900564",
+  "device": {
+   "id": "b32"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2026-12-07T22:49:06Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa900627",
+  "device": {
+   "id": "b33"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2026-12-10T14:50:41Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa901625",
+  "device": {
+   "id": "b43"
+  },
+  "diagnostic": {
+   "id": "TIRE-PRESSURE-LOW"
+  },
+  "dateTime": "2026-12-11T18:51:13Z",
+  "severity": "medium",
+  "description": "Tire pressure below threshold"
+ },
+ {
+  "id": "fa901750",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-12-12T14:39:22Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa900689",
+  "device": {
+   "id": "b34"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-12-12T22:08:57Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa901687",
+  "device": {
+   "id": "b44"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-12-14T13:46:43Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa900501",
+  "device": {
+   "id": "b31"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-12-14T16:10:31Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa901751",
+  "device": {
+   "id": "b45"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-12-15T12:06:05Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa900690",
+  "device": {
+   "id": "b34"
+  },
+  "diagnostic": {
+   "id": "HYD-PRESS-LOW"
+  },
+  "dateTime": "2026-12-15T18:40:47Z",
+  "severity": "low",
+  "description": "Hydraulic pressure below expected range"
+ },
+ {
+  "id": "fa900438",
+  "device": {
+   "id": "b30"
+  },
+  "diagnostic": {
+   "id": "IMPACT-G"
+  },
+  "dateTime": "2026-12-15T22:26:44Z",
+  "severity": "critical",
+  "description": "Impact detected (accelerometer)"
+ }
+]

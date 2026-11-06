@@ -1,0 +1,212 @@
+[
+ {
+  "id": "b2A",
+  "serialNumber": "G97A161E146B",
+  "name": "T-101",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b2B",
+  "serialNumber": "G9F690F8BBB9",
+  "name": "T-102",
+  "firmwareVersion": "4.1.7",
+  "productId": 120
+ },
+ {
+  "id": "b2C",
+  "serialNumber": "G9B3B7B21B9E",
+  "name": "T-103",
+  "firmwareVersion": "4.3.0",
+  "productId": 120
+ },
+ {
+  "id": "b2D",
+  "serialNumber": "G94B28770A53",
+  "name": "T-104",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b2E",
+  "serialNumber": "G9DF4F8DAE65",
+  "name": "T-105",
+  "firmwareVersion": "4.1.7",
+  "productId": 120
+ },
+ {
+  "id": "b2F",
+  "serialNumber": "G9A9397462FB",
+  "name": "T-106",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b30",
+  "serialNumber": "G9418E337F57",
+  "name": "T-107",
+  "firmwareVersion": "4.3.1",
+  "productId": 120
+ },
+ {
+  "id": "b31",
+  "serialNumber": "G9CB46D8BC8F",
+  "name": "T-108",
+  "firmwareVersion": "4.1.7",
+  "productId": 120
+ },
+ {
+  "id": "b32",
+  "serialNumber": "G99821B53BA4",
+  "name": "T-109",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b33",
+  "serialNumber": "G9B8D7C2552F",
+  "name": "T-110",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b34",
+  "serialNumber": "G90FF6089778",
+  "name": "T-111",
+  "firmwareVersion": "4.3.0",
+  "productId": 120
+ },
+ {
+  "id": "b35",
+  "serialNumber": "G9FBE3CFE923",
+  "name": "T-112",
+  "firmwareVersion": "4.1.7",
+  "productId": 120
+ },
+ {
+  "id": "b36",
+  "serialNumber": "G9F052B047AB",
+  "name": "T-113",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b37",
+  "serialNumber": "G97C838BED93",
+  "name": "T-114",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b38",
+  "serialNumber": "G93C7E0A8225",
+  "name": "T-115",
+  "firmwareVersion": "4.3.1",
+  "productId": 120
+ },
+ {
+  "id": "b39",
+  "serialNumber": "G97ABCBF72FC",
+  "name": "T-116",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b3A",
+  "serialNumber": "G9D6F15333AB",
+  "name": "T-117",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b3B",
+  "serialNumber": "G9F18AC52680",
+  "name": "T-129",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b3C",
+  "serialNumber": "G934B858EE1D",
+  "name": "T-119",
+  "firmwareVersion": "4.3.1",
+  "productId": 120
+ },
+ {
+  "id": "b3D",
+  "serialNumber": "G947298485D3",
+  "name": "T-120",
+  "firmwareVersion": "4.3.1",
+  "productId": 120
+ },
+ {
+  "id": "b3E",
+  "serialNumber": "G94132DFD8C4",
+  "name": "T-121",
+  "firmwareVersion": "4.3.0",
+  "productId": 120
+ },
+ {
+  "id": "b3F",
+  "serialNumber": "G9A8C5DA2442",
+  "name": "T-122",
+  "firmwareVersion": "4.3.0",
+  "productId": 120
+ },
+ {
+  "id": "b40",
+  "serialNumber": "G946F23DE028",
+  "name": "T-123",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b41",
+  "serialNumber": "G9EEF168EE17",
+  "name": "T-124",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b42",
+  "serialNumber": "G9CF7D778E08",
+  "name": "T-125",
+  "firmwareVersion": "4.1.7",
+  "productId": 120
+ },
+ {
+  "id": "b43",
+  "serialNumber": "G9B1B2C95567",
+  "name": "T-126",
+  "firmwareVersion": "4.1.7",
+  "productId": 120
+ },
+ {
+  "id": "b44",
+  "serialNumber": "G9BB46074646",
+  "name": "T-127",
+  "firmwareVersion": "4.3.0",
+  "productId": 120
+ },
+ {
+  "id": "b45",
+  "serialNumber": "G9DD0A9BF31F",
+  "name": "T-128",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b46",
+  "serialNumber": "G9E97EC3CAC7",
+  "name": "T-118",
+  "firmwareVersion": "4.2.3",
+  "productId": 120
+ },
+ {
+  "id": "b47",
+  "serialNumber": "G9EBB8B2D658",
+  "name": "T-130",
+  "firmwareVersion": "4.3.0",
+  "productId": 120
+ }
+]

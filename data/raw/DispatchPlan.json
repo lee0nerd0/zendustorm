@@ -1,0 +1,342 @@
+[
+ {
+  "id": "dp001",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-101",
+  "driverId": "D-21",
+  "sequence": [
+   "R-17"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp002",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-102",
+  "driverId": "D-10",
+  "sequence": [
+   "R-24",
+   "R-04"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp003",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-103",
+  "driverId": "D-25",
+  "sequence": [
+   "R-19"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp004",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-104",
+  "driverId": "D-06",
+  "sequence": [
+   "R-10",
+   "R-06"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp005",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-105",
+  "driverId": "D-31",
+  "sequence": [
+   "R-29",
+   "R-15"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp006",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-106",
+  "driverId": "D-34",
+  "sequence": [
+   "R-36"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp007",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-107",
+  "driverId": "D-15",
+  "sequence": [
+   "R-33",
+   "R-25"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp008",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-108",
+  "driverId": "D-18",
+  "sequence": [
+   "R-26"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp009",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-109",
+  "driverId": "D-11",
+  "sequence": [
+   "R-35",
+   "R-11"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp010",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-110",
+  "driverId": "D-28",
+  "sequence": [
+   "R-20",
+   "R-34"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp011",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-111",
+  "driverId": "D-17",
+  "sequence": [
+   "R-01"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp012",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-112",
+  "driverId": "D-14",
+  "sequence": [
+   "R-22"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp013",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-113",
+  "driverId": "D-37",
+  "sequence": [
+   "R-03"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp014",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-114",
+  "driverId": "D-02",
+  "sequence": [
+   "R-32"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp015",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-115",
+  "driverId": "D-23",
+  "sequence": [
+   "R-27"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp016",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-116",
+  "driverId": "D-16",
+  "sequence": [
+   "R-30"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp017",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-117",
+  "driverId": "D-01",
+  "sequence": [
+   "R-39"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp018",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-118",
+  "driverId": "D-08",
+  "sequence": [
+   "R-12"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp019",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-119",
+  "driverId": "D-07",
+  "sequence": [
+   "R-37"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp020",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-120",
+  "driverId": "D-20",
+  "sequence": [
+   "R-18"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp021",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-121",
+  "driverId": "D-47",
+  "sequence": [
+   "R-21"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp022",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-122",
+  "driverId": "D-44",
+  "sequence": [
+   "R-16",
+   "R-02"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp023",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-123",
+  "driverId": "D-33",
+  "sequence": [
+   "R-05"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp024",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-124",
+  "driverId": "D-24",
+  "sequence": [
+   "R-40"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp025",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-125",
+  "driverId": "D-03",
+  "sequence": [
+   "R-23"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp026",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-126",
+  "driverId": "D-30",
+  "sequence": [
+   "R-14",
+   "R-28"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp027",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-127",
+  "driverId": "D-39",
+  "sequence": [
+   "R-09"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp028",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-128",
+  "driverId": "D-32",
+  "sequence": [
+   "R-13"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp029",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-129",
+  "driverId": "D-19",
+  "sequence": [
+   "R-07",
+   "R-31"
+  ],
+  "status": "PLANNED"
+ },
+ {
+  "id": "dp030",
+  "planDate": "2026-12-15",
+  "plannedCalloutLocal": "2026-12-16T02:00:00",
+  "vehicleName": "T-130",
+  "driverId": "D-40",
+  "sequence": [
+   "R-08",
+   "R-38"
+  ],
+  "status": "PLANNED"
+ }
+]

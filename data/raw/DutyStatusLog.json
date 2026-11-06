@@ -1,0 +1,7042 @@
+[
+ {
+  "id": "du000201",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000209",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000222",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000234",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000241",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000250",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000261",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000268",
+  "driver": {
+   "id": "D-24"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000280",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000293",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000306",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000313",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000320",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000332",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000341",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000349",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000360",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000370",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000378",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000399",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000408",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000423",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000431",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000440",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000447",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000461",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000472",
+  "driver": {
+   "id": "D-29"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000480",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000488",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000498",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-02T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du000202",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-02T06:55:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000361",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-02T06:55:44Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000242",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-02T07:08:46Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000262",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-02T07:09:26Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000342",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-02T07:11:17Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000473",
+  "driver": {
+   "id": "D-29"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-02T07:15:29Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000307",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2025-12-02T07:16:54Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000441",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-02T07:19:19Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000333",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-02T07:19:23Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000371",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-02T07:21:07Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000350",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2025-12-02T07:21:57Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000424",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-02T07:23:41Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000400",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-02T07:39:08Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000409",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-02T07:40:45Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000432",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-02T07:43:32Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000314",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-02T07:43:56Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000489",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-02T07:46:22Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000448",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-02T07:58:32Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000481",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-02T08:12:50Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000499",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-02T09:12:56Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000379",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2025-12-02T09:19:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000321",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-02T09:20:38Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000210",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-02T09:22:36Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000462",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-02T09:30:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000281",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-02T09:37:41Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000251",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2025-12-02T09:38:17Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000294",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-02T09:55:24Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000223",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-02T10:32:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du000269",
+  "driver": {
+   "id": "D-24"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-02T10:58:38Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001553",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001560",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001573",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001586",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001599",
+  "driver": {
+   "id": "D-29"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001607",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001621",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001629",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001637",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001649",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001658",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001667",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001677",
+  "driver": {
+   "id": "D-17"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001684",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001696",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001710",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001720",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001729",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001738",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001748",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001759",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001776",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001785",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001796",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001806",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001832",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001840",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001848",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001856",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001868",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-10T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du001841",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-10T10:23:12Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001678",
+  "driver": {
+   "id": "D-17"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-10T10:27:19Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001554",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-10T10:39:37Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001622",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-10T10:42:44Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001600",
+  "driver": {
+   "id": "D-29"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-10T10:46:49Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001721",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-10T10:54:19Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001630",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-10T10:58:13Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001833",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-10T10:58:24Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001739",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2025-12-10T10:58:27Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001730",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-10T11:03:39Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001849",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-10T11:03:49Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001650",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-10T11:04:17Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001668",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-10T11:23:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001659",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2025-12-10T11:27:34Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001786",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-10T11:32:53Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001857",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-10T11:34:30Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001777",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-10T11:34:55Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001760",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-10T11:50:31Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001797",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-10T12:00:11Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001711",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2025-12-10T12:29:38Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001697",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-10T13:34:48Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001685",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-10T13:41:13Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001638",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-10T13:45:27Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001574",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-10T13:45:47Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001869",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-10T13:53:06Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001749",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-10T13:59:30Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001587",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2025-12-10T14:27:39Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001807",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-10T15:10:39Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du001561",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-10T15:42:34Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003564",
+  "driver": {
+   "id": "D-17"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003577",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003593",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003611",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003626",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003642",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003658",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003665",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003677",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003691",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003699",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003712",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003722",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003736",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003743",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003757",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003768",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003777",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003786",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003792",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003801",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003810",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003824",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003835",
+  "driver": {
+   "id": "D-24"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003843",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003851",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003864",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003875",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003887",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003897",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-23T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du003659",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-23T07:15:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003678",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-23T07:21:01Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003769",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-23T07:22:58Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003844",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-23T07:42:18Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003627",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-23T07:44:43Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003802",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-23T07:50:50Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003888",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-23T07:54:10Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003713",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-23T07:54:49Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003778",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-23T07:56:31Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003876",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-23T07:58:29Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003898",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-23T07:59:48Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003737",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-23T08:04:48Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003793",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-23T08:15:34Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003825",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-23T08:28:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003836",
+  "driver": {
+   "id": "D-24"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-23T08:28:55Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003865",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-23T08:40:02Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003744",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-23T08:47:39Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003692",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-23T09:17:21Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003666",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-23T10:19:08Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003700",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2025-12-23T10:37:31Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003723",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-23T10:41:59Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003811",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-23T10:47:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003565",
+  "driver": {
+   "id": "D-17"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-23T10:49:04Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003852",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-23T10:51:32Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003612",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2025-12-23T11:20:44Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003578",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-23T12:33:51Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003643",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2025-12-23T13:06:18Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du003594",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-23T13:16:14Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004325",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004335",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004348",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004358",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004364",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004374",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004380",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004393",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004401",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004408",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004419",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004432",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004439",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004444",
+  "driver": {
+   "id": "D-46"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004450",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004456",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004464",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004470",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004482",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004495",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004503",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004516",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004527",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004533",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004539",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004548",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004555",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004561",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004567",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004576",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-26T13:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du004540",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-26T15:30:36Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004465",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-26T15:34:47Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004445",
+  "driver": {
+   "id": "D-46"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-26T15:42:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004440",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-26T15:49:35Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004402",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-26T15:50:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004381",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-26T15:52:28Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004528",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-26T16:03:22Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004433",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-26T16:04:53Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004394",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-26T16:06:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004451",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-26T16:07:16Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004549",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-26T16:10:43Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004577",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-26T16:13:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004375",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2025-12-26T16:15:28Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004359",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2025-12-26T16:36:37Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004556",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-26T16:41:32Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004483",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2025-12-26T16:42:20Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004504",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-26T16:42:22Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004420",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2025-12-26T17:05:46Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004562",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-26T17:18:54Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004534",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-26T17:35:03Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004457",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2025-12-26T18:33:11Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004517",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-26T18:47:17Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004326",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-26T18:55:53Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004568",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-26T18:58:36Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004496",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-26T19:12:02Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004471",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-26T19:16:08Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004409",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-26T19:47:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004365",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-26T20:35:37Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004349",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-26T20:42:15Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du004336",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-26T21:04:21Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005001",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005010",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005019",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005028",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005036",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005043",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005048",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005053",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005062",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005070",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005079",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005085",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005092",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005104",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005108",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005112",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005118",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005125",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005134",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005140",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005148",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005156",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005164",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005170",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005175",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005183",
+  "driver": {
+   "id": "D-24"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005188",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005194",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005202",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005210",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-29T14:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du005109",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2025-12-29T15:52:17Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005135",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2025-12-29T15:57:08Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005049",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2025-12-29T16:06:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005037",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2025-12-29T16:08:56Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005165",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2025-12-29T16:08:56Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005119",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2025-12-29T16:15:11Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005189",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2025-12-29T16:17:22Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005171",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2025-12-29T16:19:18Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005029",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2025-12-29T16:21:17Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005105",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2025-12-29T16:21:54Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005086",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2025-12-29T16:22:35Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005044",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2025-12-29T16:22:55Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005126",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2025-12-29T16:39:31Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005063",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2025-12-29T16:42:59Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005203",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2025-12-29T16:43:19Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005211",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2025-12-29T16:45:10Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005149",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2025-12-29T16:46:38Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005176",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2025-12-29T16:58:08Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005184",
+  "driver": {
+   "id": "D-24"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2025-12-29T17:16:30Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005113",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2025-12-29T17:21:35Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005195",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2025-12-29T18:06:48Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005002",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2025-12-29T18:25:18Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005071",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2025-12-29T18:27:46Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005157",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2025-12-29T18:28:34Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005141",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2025-12-29T18:31:29Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005020",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2025-12-29T18:34:05Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005054",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2025-12-29T18:53:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005093",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2025-12-29T19:29:17Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du005011",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2025-12-29T19:50:47Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006158",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006171",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006181",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006191",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006198",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006206",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006213",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006224",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006234",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006253",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006259",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006266",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006276",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006286",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006296",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006306",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006314",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006321",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006330",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006339",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006345",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006357",
+  "driver": {
+   "id": "D-46"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006368",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006376",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006384",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006391",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006397",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006408",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006419",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006428",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-05T11:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du006420",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-05T12:57:51Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006385",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-05T13:03:14Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006331",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-05T13:11:43Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006182",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-05T13:16:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006429",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-05T13:20:28Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006369",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-05T13:21:05Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006315",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-05T13:23:17Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006392",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-05T13:27:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006254",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-05T13:27:29Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006340",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-05T13:27:44Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006192",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-05T13:32:42Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006267",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-05T13:45:41Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006260",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-05T13:49:27Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006377",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-05T13:52:03Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006398",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-05T13:52:44Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006159",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-05T13:55:23Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006297",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-05T14:10:45Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006207",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-05T14:18:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006307",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-05T14:27:08Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006358",
+  "driver": {
+   "id": "D-46"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-05T15:26:06Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006346",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-05T15:33:14Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006277",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-05T15:38:16Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006322",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-05T15:38:48Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006409",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-05T15:46:54Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006287",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-05T15:47:25Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006235",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-05T15:48:12Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006172",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-05T16:08:41Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006214",
+  "driver": {
+   "id": "D-27"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-05T16:37:32Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du006225",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-05T17:15:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007600",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007628",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007642",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007648",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007658",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007669",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007678",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007690",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007698",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007709",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007722",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007730",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007742",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007751",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007764",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007771",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007778",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007788",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007797",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007804",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007814",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007827",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007838",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007846",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007855",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007864",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007870",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007884",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007895",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007902",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-14T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du007839",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-14T09:56:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007896",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-14T10:01:34Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007699",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-14T10:08:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007743",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-14T10:09:12Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007643",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-14T10:12:13Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007772",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-14T10:18:04Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007723",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-14T10:19:37Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007765",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-14T10:19:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007691",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-14T10:21:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007789",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-14T10:23:47Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007865",
+  "driver": {
+   "id": "D-30"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-14T10:24:13Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007903",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-14T10:31:41Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007731",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-14T10:45:36Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007856",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-14T10:46:13Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007798",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-14T10:47:02Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007670",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-14T10:47:47Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007659",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-14T10:54:58Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007779",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-14T11:00:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007805",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-14T11:18:39Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007847",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-14T11:27:37Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007649",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-14T12:15:26Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007815",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-14T12:24:38Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007871",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-14T12:27:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007828",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-14T12:31:22Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007885",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-14T12:39:26Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007679",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-14T12:41:20Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007752",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-14T12:43:43Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007629",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-14T12:56:35Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007601",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-14T13:42:58Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du007710",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-14T14:07:24Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008086",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008104",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008113",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008122",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008137",
+  "driver": {
+   "id": "D-17"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008154",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008163",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008191",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008198",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008209",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008225",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008247",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008261",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008273",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008283",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008292",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008303",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008312",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008327",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008335",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008349",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008368",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008378",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008400",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008417",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008443",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008454",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-15T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008369",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-15T07:01:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008192",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-15T07:07:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008304",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-15T07:46:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008284",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-15T08:05:07Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008114",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-15T08:20:21Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008199",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-15T08:31:24Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008274",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-15T08:38:28Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008155",
+  "driver": {
+   "id": "D-36"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-15T08:47:54Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008455",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-15T09:03:22Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008328",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-15T09:06:14Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008336",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-15T09:22:27Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008293",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-15T09:23:08Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008444",
+  "driver": {
+   "id": "D-31"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-15T09:30:37Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008164",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-15T09:39:21Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008262",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-15T09:55:08Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008123",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-15T12:18:55Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008210",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-15T12:22:35Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008138",
+  "driver": {
+   "id": "D-17"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-15T12:23:02Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008248",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-15T12:34:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008401",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-15T12:34:42Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008313",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-15T12:51:03Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008087",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-15T14:15:32Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008226",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-15T14:53:35Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008350",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-15T15:23:36Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008379",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-15T18:04:46Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008418",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-15T18:40:41Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008641",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008662",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008674",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008685",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008696",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008703",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008715",
+  "driver": {
+   "id": "D-17"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008723",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008735",
+  "driver": {
+   "id": "D-46"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008745",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008754",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008766",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008780",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008790",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008796",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008803",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008819",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008828",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008837",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008846",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008858",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008866",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008873",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008884",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008894",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008901",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008910",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-16T08:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du008829",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-16T10:01:35Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008791",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-16T10:09:53Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008697",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-16T10:10:11Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008716",
+  "driver": {
+   "id": "D-17"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-16T10:11:59Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008885",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-16T10:21:36Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008797",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-16T10:22:52Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008895",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-16T10:24:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008867",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-16T10:31:35Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008746",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-16T10:41:22Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008781",
+  "driver": {
+   "id": "D-16"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-16T10:45:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008859",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-16T10:46:13Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008820",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-16T10:46:18Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008838",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-16T10:51:56Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008902",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-16T11:05:37Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008804",
+  "driver": {
+   "id": "D-03"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-16T11:38:57Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008675",
+  "driver": {
+   "id": "D-07"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-16T12:31:43Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008642",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-16T12:37:51Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008736",
+  "driver": {
+   "id": "D-46"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-16T12:40:44Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008663",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-16T12:41:24Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008686",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-16T12:46:57Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008911",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-16T12:47:17Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008767",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-16T12:50:50Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008704",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-16T12:51:15Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008755",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-16T12:53:49Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008847",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-16T13:31:05Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008724",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-16T13:45:12Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du008874",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-16T14:12:57Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009595",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009608",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009619",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009624",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009635",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009640",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009651",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009658",
+  "driver": {
+   "id": "D-46"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009666",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009675",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009686",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009697",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009703",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009715",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009726",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009735",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009742",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009751",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009759",
+  "driver": {
+   "id": "D-29"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009766",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009771",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009782",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009788",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009797",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009805",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009813",
+  "driver": {
+   "id": "D-24"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009819",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009827",
+  "driver": {
+   "id": "D-48"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009834",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009839",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-21T12:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du009835",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-21T14:01:20Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009772",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-21T14:14:12Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009652",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-21T14:16:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009636",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-21T14:22:50Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009620",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-21T14:23:11Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009760",
+  "driver": {
+   "id": "D-29"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-21T14:32:03Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009736",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-21T14:32:18Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009743",
+  "driver": {
+   "id": "D-43"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-21T14:33:10Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009783",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-21T14:35:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009767",
+  "driver": {
+   "id": "D-10"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-21T14:36:07Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009798",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-21T14:38:45Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009840",
+  "driver": {
+   "id": "D-06"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-21T14:41:50Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009625",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-21T14:51:13Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009687",
+  "driver": {
+   "id": "D-21"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-21T14:53:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009789",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-21T14:53:13Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009698",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-21T14:56:15Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009806",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-21T15:06:12Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009704",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-21T15:08:07Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009828",
+  "driver": {
+   "id": "D-48"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-21T15:30:10Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009814",
+  "driver": {
+   "id": "D-24"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-21T15:41:23Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009752",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-21T16:38:29Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009820",
+  "driver": {
+   "id": "D-25"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-21T16:46:27Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009727",
+  "driver": {
+   "id": "D-37"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-21T16:47:50Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009716",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-21T16:52:03Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009659",
+  "driver": {
+   "id": "D-46"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-21T16:58:18Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009667",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-21T16:58:27Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009609",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-21T17:04:53Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009676",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-21T17:29:48Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009596",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-21T18:11:00Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du009641",
+  "driver": {
+   "id": "D-38"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-21T18:30:26Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010010",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010020",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010029",
+  "driver": {
+   "id": "D-29"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010045",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010058",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010068",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010081",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010105",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010117",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010127",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010138",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010151",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010158",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010169",
+  "driver": {
+   "id": "D-20"
+  },
+  "device": {
+   "id": "b37"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010174",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010181",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010189",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010197",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010206",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010216",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010222",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010230",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010242",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010249",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010258",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010265",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010272",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010284",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010298",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010309",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-22T05:00:00Z",
+  "status": "ON_DUTY"
+ },
+ {
+  "id": "du010299",
+  "driver": {
+   "id": "D-13"
+  },
+  "device": {
+   "id": "b3B"
+  },
+  "dateTime": "2026-01-22T06:54:33Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010190",
+  "driver": {
+   "id": "D-23"
+  },
+  "device": {
+   "id": "b3A"
+  },
+  "dateTime": "2026-01-22T06:57:02Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010011",
+  "driver": {
+   "id": "D-33"
+  },
+  "device": {
+   "id": "b2A"
+  },
+  "dateTime": "2026-01-22T07:09:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010259",
+  "driver": {
+   "id": "D-47"
+  },
+  "device": {
+   "id": "b42"
+  },
+  "dateTime": "2026-01-22T07:12:09Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010118",
+  "driver": {
+   "id": "D-41"
+  },
+  "device": {
+   "id": "b32"
+  },
+  "dateTime": "2026-01-22T07:13:43Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010175",
+  "driver": {
+   "id": "D-19"
+  },
+  "device": {
+   "id": "b38"
+  },
+  "dateTime": "2026-01-22T07:16:26Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010217",
+  "driver": {
+   "id": "D-04"
+  },
+  "device": {
+   "id": "b3D"
+  },
+  "dateTime": "2026-01-22T07:19:11Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010243",
+  "driver": {
+   "id": "D-45"
+  },
+  "device": {
+   "id": "b40"
+  },
+  "dateTime": "2026-01-22T07:22:44Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010250",
+  "driver": {
+   "id": "D-12"
+  },
+  "device": {
+   "id": "b41"
+  },
+  "dateTime": "2026-01-22T07:25:49Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010266",
+  "driver": {
+   "id": "D-42"
+  },
+  "device": {
+   "id": "b43"
+  },
+  "dateTime": "2026-01-22T07:27:39Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010152",
+  "driver": {
+   "id": "D-32"
+  },
+  "device": {
+   "id": "b35"
+  },
+  "dateTime": "2026-01-22T07:28:20Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010128",
+  "driver": {
+   "id": "D-44"
+  },
+  "device": {
+   "id": "b33"
+  },
+  "dateTime": "2026-01-22T07:45:40Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010223",
+  "driver": {
+   "id": "D-01"
+  },
+  "device": {
+   "id": "b3E"
+  },
+  "dateTime": "2026-01-22T07:45:41Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010273",
+  "driver": {
+   "id": "D-09"
+  },
+  "device": {
+   "id": "b44"
+  },
+  "dateTime": "2026-01-22T07:47:02Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010021",
+  "driver": {
+   "id": "D-26"
+  },
+  "device": {
+   "id": "b2B"
+  },
+  "dateTime": "2026-01-22T07:48:02Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010159",
+  "driver": {
+   "id": "D-11"
+  },
+  "device": {
+   "id": "b36"
+  },
+  "dateTime": "2026-01-22T07:49:15Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010059",
+  "driver": {
+   "id": "D-05"
+  },
+  "device": {
+   "id": "b2E"
+  },
+  "dateTime": "2026-01-22T08:04:36Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010310",
+  "driver": {
+   "id": "D-40"
+  },
+  "device": {
+   "id": "b47"
+  },
+  "dateTime": "2026-01-22T08:15:21Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010182",
+  "driver": {
+   "id": "D-08"
+  },
+  "device": {
+   "id": "b39"
+  },
+  "dateTime": "2026-01-22T08:20:24Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010198",
+  "driver": {
+   "id": "D-34"
+  },
+  "device": {
+   "id": "b46"
+  },
+  "dateTime": "2026-01-22T09:15:49Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010207",
+  "driver": {
+   "id": "D-15"
+  },
+  "device": {
+   "id": "b3C"
+  },
+  "dateTime": "2026-01-22T09:25:34Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010139",
+  "driver": {
+   "id": "D-35"
+  },
+  "device": {
+   "id": "b34"
+  },
+  "dateTime": "2026-01-22T09:27:18Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010285",
+  "driver": {
+   "id": "D-18"
+  },
+  "device": {
+   "id": "b45"
+  },
+  "dateTime": "2026-01-22T09:28:16Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010082",
+  "driver": {
+   "id": "D-39"
+  },
+  "device": {
+   "id": "b30"
+  },
+  "dateTime": "2026-01-22T09:31:43Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010046",
+  "driver": {
+   "id": "D-22"
+  },
+  "device": {
+   "id": "b2D"
+  },
+  "dateTime": "2026-01-22T09:39:13Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010231",
+  "driver": {
+   "id": "D-14"
+  },
+  "device": {
+   "id": "b3F"
+  },
+  "dateTime": "2026-01-22T09:42:05Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010106",
+  "driver": {
+   "id": "D-02"
+  },
+  "device": {
+   "id": "b31"
+  },
+  "dateTime": "2026-01-22T10:00:05Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010030",
+  "driver": {
+   "id": "D-29"
+  },
+  "device": {
+   "id": "b2C"
+  },
+  "dateTime": "2026-01-22T10:43:15Z",
+  "status": "OFF_DUTY"
+ },
+ {
+  "id": "du010069",
+  "driver": {
+   "id": "D-28"
+  },
+  "device": {
+   "id": "b2F"
+  },
+  "dateTime": "2026-01-22T10:55:04Z",
+  "status": "OFF_DUTY"
+ }
+]

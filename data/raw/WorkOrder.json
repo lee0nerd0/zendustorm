@@ -1,0 +1,1595 @@
+[
+ {
+  "id": "wo000014",
+  "vehicleName": "T-114",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-09-21T09:00:00",
+  "closedLocal": "2025-09-21T14:00:00",
+  "meterReadings": {
+   "engineHours": 8765.4,
+   "ptoHours": 3552.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000002",
+  "vehicleName": "T-102",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-01T09:00:00",
+  "closedLocal": "2025-10-01T14:00:00",
+  "meterReadings": {
+   "engineHours": 7842.2,
+   "ptoHours": 1880.7
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000025",
+  "vehicleName": "T-125",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-01T09:00:00",
+  "closedLocal": "2025-10-01T14:00:00",
+  "meterReadings": {
+   "engineHours": 14362.2,
+   "ptoHours": 3982.4
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000029",
+  "vehicleName": "T-129",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-01T09:00:00",
+  "closedLocal": "2025-10-01T14:00:00",
+  "meterReadings": {
+   "engineHours": 13788.7,
+   "ptoHours": 3495.2
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000015",
+  "vehicleName": "T-115",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-02T09:00:00",
+  "closedLocal": "2025-10-02T14:00:00",
+  "meterReadings": {
+   "engineHours": 12533.8,
+   "ptoHours": 3269.2
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000030",
+  "vehicleName": "T-130",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-06T09:00:00",
+  "closedLocal": "2025-10-06T14:00:00",
+  "meterReadings": {
+   "engineHours": 13714.4,
+   "ptoHours": 1289.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000016",
+  "vehicleName": "T-116",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-07T09:00:00",
+  "closedLocal": "2025-10-07T14:00:00",
+  "meterReadings": {
+   "engineHours": 7485.6,
+   "ptoHours": 1853
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000019",
+  "vehicleName": "T-119",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-07T09:00:00",
+  "closedLocal": "2025-10-07T14:00:00",
+  "meterReadings": {
+   "engineHours": 12741,
+   "ptoHours": 3928.4
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000009",
+  "vehicleName": "T-109",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-08T09:00:00",
+  "closedLocal": "2025-10-08T14:00:00",
+  "meterReadings": {
+   "engineHours": 12198.2,
+   "ptoHours": 3040.2
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000001",
+  "vehicleName": "T-101",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-11T09:00:00",
+  "closedLocal": "2025-10-11T14:00:00",
+  "meterReadings": {
+   "engineHours": 9788.1,
+   "ptoHours": 3664.1
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000004",
+  "vehicleName": "T-104",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-11T09:00:00",
+  "closedLocal": "2025-10-11T14:00:00",
+  "meterReadings": {
+   "engineHours": 13887,
+   "ptoHours": 1377.8
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000017",
+  "vehicleName": "T-117",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-11T09:00:00",
+  "closedLocal": "2025-10-11T14:00:00",
+  "meterReadings": {
+   "engineHours": 11374.9,
+   "ptoHours": 3318.4
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000018",
+  "vehicleName": "T-118",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-11T09:00:00",
+  "closedLocal": "2025-10-11T14:00:00",
+  "meterReadings": {
+   "engineHours": 13590,
+   "ptoHours": 2441.1
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000008",
+  "vehicleName": "T-108",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-12T09:00:00",
+  "closedLocal": "2025-10-12T14:00:00",
+  "meterReadings": {
+   "engineHours": 13146,
+   "ptoHours": 1275.5
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000026",
+  "vehicleName": "T-126",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-13T09:00:00",
+  "closedLocal": "2025-10-13T14:00:00",
+  "meterReadings": {
+   "engineHours": 11609.5,
+   "ptoHours": 2259.8
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000027",
+  "vehicleName": "T-127",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-13T09:00:00",
+  "closedLocal": "2025-10-13T14:00:00",
+  "meterReadings": {
+   "engineHours": 7679.7,
+   "ptoHours": 1965.4
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000007",
+  "vehicleName": "T-107",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-15T09:00:00",
+  "closedLocal": "2025-10-15T14:00:00",
+  "meterReadings": {
+   "engineHours": 11785.2,
+   "ptoHours": 2610.7
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000024",
+  "vehicleName": "T-124",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-15T09:00:00",
+  "closedLocal": "2025-10-15T14:00:00",
+  "meterReadings": {
+   "engineHours": 13622,
+   "ptoHours": 1370
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000028",
+  "vehicleName": "T-128",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-17T09:00:00",
+  "closedLocal": "2025-10-17T14:00:00",
+  "meterReadings": {
+   "engineHours": 13251.5,
+   "ptoHours": 2825.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000013",
+  "vehicleName": "T-113",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-18T09:00:00",
+  "closedLocal": "2025-10-18T14:00:00",
+  "meterReadings": {
+   "engineHours": 8758.5,
+   "ptoHours": 3563.1
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000023",
+  "vehicleName": "T-123",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-19T09:00:00",
+  "closedLocal": "2025-10-19T14:00:00",
+  "meterReadings": {
+   "engineHours": 14598.8,
+   "ptoHours": 2351.3
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000006",
+  "vehicleName": "T-106",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-23T09:00:00",
+  "closedLocal": "2025-10-23T14:00:00",
+  "meterReadings": {
+   "engineHours": 10719.3,
+   "ptoHours": 1752.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000012",
+  "vehicleName": "T-112",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-28T09:00:00",
+  "closedLocal": "2025-10-28T14:00:00",
+  "meterReadings": {
+   "engineHours": 8310.5,
+   "ptoHours": 3070.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000021",
+  "vehicleName": "T-121",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-10-28T09:00:00",
+  "closedLocal": "2025-10-28T14:00:00",
+  "meterReadings": {
+   "engineHours": 7188.9,
+   "ptoHours": 1337.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000010",
+  "vehicleName": "T-110",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-11-03T09:00:00",
+  "closedLocal": "2025-11-03T14:00:00",
+  "meterReadings": {
+   "engineHours": 9788.9,
+   "ptoHours": 3128.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000011",
+  "vehicleName": "T-111",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-11-03T09:00:00",
+  "closedLocal": "2025-11-03T14:00:00",
+  "meterReadings": {
+   "engineHours": 8749.1,
+   "ptoHours": 2616.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000020",
+  "vehicleName": "T-120",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-11-05T09:00:00",
+  "closedLocal": "2025-11-05T14:00:00",
+  "meterReadings": {
+   "engineHours": 10092.6,
+   "ptoHours": 3722.2
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000003",
+  "vehicleName": "T-103",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-11-08T09:00:00",
+  "closedLocal": "2025-11-08T14:00:00",
+  "meterReadings": {
+   "engineHours": 12291.1,
+   "ptoHours": 3776.5
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000005",
+  "vehicleName": "T-105",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-11-09T09:00:00",
+  "closedLocal": "2025-11-09T14:00:00",
+  "meterReadings": {
+   "engineHours": 10934.2,
+   "ptoHours": 3272.5
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000022",
+  "vehicleName": "T-122",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2025-11-09T09:00:00",
+  "closedLocal": "2025-11-09T14:00:00",
+  "meterReadings": {
+   "engineHours": 10546.4,
+   "ptoHours": 1384.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo000882",
+  "vehicleName": "T-101",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2025-12-05T05:09:00",
+  "closedLocal": "2025-12-05T06:32:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo000883",
+  "vehicleName": "T-101",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2025-12-05T10:40:00",
+  "closedLocal": "2025-12-05T11:30:00",
+  "meterReadings": {
+   "engineHours": 9846.9,
+   "ptoHours": 3774.3
+  },
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo001263",
+  "vehicleName": "T-118",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2025-12-08T05:25:00",
+  "closedLocal": "2025-12-08T06:42:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo001264",
+  "vehicleName": "T-118",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2025-12-08T10:34:00",
+  "closedLocal": "2025-12-08T11:24:00",
+  "meterReadings": {
+   "engineHours": 13633.5,
+   "ptoHours": 2534.4
+  },
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo001394",
+  "vehicleName": "T-126",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Scheduled hydraulic service",
+  "openedLocal": "2025-12-09T09:00:00",
+  "closedLocal": "2025-12-09T14:00:00",
+  "meterReadings": {
+   "engineHours": 11660,
+   "ptoHours": 2433.5
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo002135",
+  "vehicleName": "T-128",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Scheduled hydraulic service",
+  "openedLocal": "2025-12-12T09:00:00",
+  "closedLocal": "2025-12-12T14:00:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo003395",
+  "vehicleName": "T-109",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Scheduled hydraulic service",
+  "openedLocal": "2025-12-22T09:00:00",
+  "closedLocal": "2025-12-22T14:00:00",
+  "meterReadings": {
+   "engineHours": 12254.1,
+   "ptoHours": 3218
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo003904",
+  "vehicleName": "T-107",
+  "type": "ROAD_CALL",
+  "reason": "HYDRAULIC_FAILURE",
+  "openedLocal": "2025-12-23T01:45:00",
+  "closedLocal": "2025-12-23T03:45:00",
+  "meterReadings": null,
+  "notes": "Lost plow hydraulics on R-17. Towed."
+ },
+ {
+  "id": "wo003906",
+  "vehicleName": "T-116",
+  "type": "ROAD_CALL",
+  "reason": "HYDRAULIC_FAILURE",
+  "openedLocal": "2025-12-23T02:18:00",
+  "closedLocal": "2025-12-23T04:18:00",
+  "meterReadings": null,
+  "notes": "Lost plow hydraulics on R-30. Towed."
+ },
+ {
+  "id": "wo003905",
+  "vehicleName": "T-107",
+  "type": "HYDRAULIC_REPAIR",
+  "reason": "Pump and hoses replaced; full hydraulic service",
+  "openedLocal": "2025-12-24T08:00:00",
+  "closedLocal": "2025-12-24T15:00:00",
+  "meterReadings": {
+   "engineHours": 11873.6,
+   "ptoHours": 2793.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo003907",
+  "vehicleName": "T-116",
+  "type": "HYDRAULIC_REPAIR",
+  "reason": "Pump and hoses replaced; full hydraulic service",
+  "openedLocal": "2025-12-24T08:00:00",
+  "closedLocal": "2025-12-24T15:00:00",
+  "meterReadings": {
+   "engineHours": 7537.9,
+   "ptoHours": 2036.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo004584",
+  "vehicleName": "T-114",
+  "type": "ROAD_CALL",
+  "reason": "HYDRAULIC_FAILURE",
+  "openedLocal": "2025-12-26T10:12:00",
+  "closedLocal": "2025-12-26T12:12:00",
+  "meterReadings": null,
+  "notes": "Lost plow hydraulics on R-13. Towed."
+ },
+ {
+  "id": "wo004585",
+  "vehicleName": "T-114",
+  "type": "HYDRAULIC_REPAIR",
+  "reason": "Pump and hoses replaced; full hydraulic service",
+  "openedLocal": "2025-12-27T08:00:00",
+  "closedLocal": "2025-12-27T15:00:00",
+  "meterReadings": {
+   "engineHours": 8867,
+   "ptoHours": 3736.7
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo004711",
+  "vehicleName": "T-103",
+  "type": "BATTERY_REPLACED",
+  "reason": "Preventive (low resting voltage)",
+  "openedLocal": "2025-12-27T11:00:00",
+  "closedLocal": "2025-12-27T11:45:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo005601",
+  "vehicleName": "T-109",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2026-01-01T05:10:00",
+  "closedLocal": "2026-01-01T06:04:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo005605",
+  "vehicleName": "T-121",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2026-01-01T05:11:00",
+  "closedLocal": "2026-01-01T06:30:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo005603",
+  "vehicleName": "T-114",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2026-01-01T05:14:00",
+  "closedLocal": "2026-01-01T05:54:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo005599",
+  "vehicleName": "T-104",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2026-01-01T05:16:00",
+  "closedLocal": "2026-01-01T06:37:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo005600",
+  "vehicleName": "T-104",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2026-01-01T10:03:00",
+  "closedLocal": "2026-01-01T10:53:00",
+  "meterReadings": null,
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo005606",
+  "vehicleName": "T-121",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2026-01-01T10:17:00",
+  "closedLocal": "2026-01-01T11:07:00",
+  "meterReadings": {
+   "engineHours": 7276.3,
+   "ptoHours": 1485.6
+  },
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo005602",
+  "vehicleName": "T-109",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2026-01-01T10:31:00",
+  "closedLocal": "2026-01-01T11:21:00",
+  "meterReadings": {
+   "engineHours": 12266.9,
+   "ptoHours": 3228
+  },
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo005604",
+  "vehicleName": "T-114",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2026-01-01T10:35:00",
+  "closedLocal": "2026-01-01T11:25:00",
+  "meterReadings": null,
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo008038",
+  "vehicleName": "T-112",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2026-01-15T00:09:00",
+  "closedLocal": "2026-01-15T01:03:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo008036",
+  "vehicleName": "T-111",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2026-01-15T00:16:00",
+  "closedLocal": "2026-01-15T01:45:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo008040",
+  "vehicleName": "T-119",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2026-01-15T00:22:00",
+  "closedLocal": "2026-01-15T01:51:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo008465",
+  "vehicleName": "T-125",
+  "type": "ROAD_CALL",
+  "reason": "HYDRAULIC_FAILURE",
+  "openedLocal": "2026-01-15T01:31:00",
+  "closedLocal": "2026-01-15T03:31:00",
+  "meterReadings": null,
+  "notes": "Lost plow hydraulics on R-37. Towed."
+ },
+ {
+  "id": "wo008467",
+  "vehicleName": "T-108",
+  "type": "ROAD_CALL",
+  "reason": "HYDRAULIC_FAILURE",
+  "openedLocal": "2026-01-15T01:37:00",
+  "closedLocal": "2026-01-15T03:37:00",
+  "meterReadings": null,
+  "notes": "Lost plow hydraulics on R-14. Towed."
+ },
+ {
+  "id": "wo008469",
+  "vehicleName": "T-120",
+  "type": "ROAD_CALL",
+  "reason": "HYDRAULIC_FAILURE",
+  "openedLocal": "2026-01-15T02:16:00",
+  "closedLocal": "2026-01-15T04:16:00",
+  "meterReadings": null,
+  "notes": "Lost plow hydraulics on R-32. Towed."
+ },
+ {
+  "id": "wo008037",
+  "vehicleName": "T-111",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2026-01-15T10:05:00",
+  "closedLocal": "2026-01-15T10:55:00",
+  "meterReadings": {
+   "engineHours": 8847.8,
+   "ptoHours": 2754.9
+  },
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo008039",
+  "vehicleName": "T-112",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2026-01-15T10:50:00",
+  "closedLocal": "2026-01-15T11:40:00",
+  "meterReadings": {
+   "engineHours": 8418.3,
+   "ptoHours": 3244.5
+  },
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo008041",
+  "vehicleName": "T-119",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2026-01-15T10:50:00",
+  "closedLocal": "2026-01-15T11:40:00",
+  "meterReadings": null,
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo008466",
+  "vehicleName": "T-125",
+  "type": "HYDRAULIC_REPAIR",
+  "reason": "Pump and hoses replaced; full hydraulic service",
+  "openedLocal": "2026-01-16T08:00:00",
+  "closedLocal": "2026-01-16T15:00:00",
+  "meterReadings": {
+   "engineHours": 14438.8,
+   "ptoHours": 4174.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo008468",
+  "vehicleName": "T-108",
+  "type": "HYDRAULIC_REPAIR",
+  "reason": "Pump and hoses replaced; full hydraulic service",
+  "openedLocal": "2026-01-16T08:00:00",
+  "closedLocal": "2026-01-16T15:00:00",
+  "meterReadings": {
+   "engineHours": 13233.6,
+   "ptoHours": 1467.5
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo008470",
+  "vehicleName": "T-120",
+  "type": "HYDRAULIC_REPAIR",
+  "reason": "Pump and hoses replaced; full hydraulic service",
+  "openedLocal": "2026-01-16T08:00:00",
+  "closedLocal": "2026-01-16T15:00:00",
+  "meterReadings": {
+   "engineHours": 10208.8,
+   "ptoHours": 3911.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo009047",
+  "vehicleName": "T-115",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Scheduled hydraulic service",
+  "openedLocal": "2026-01-17T09:00:00",
+  "closedLocal": "2026-01-17T14:00:00",
+  "meterReadings": {
+   "engineHours": 12609.6,
+   "ptoHours": 3447.7
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo009173",
+  "vehicleName": "T-129",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2026-01-18T05:23:00",
+  "closedLocal": "2026-01-18T06:03:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo009174",
+  "vehicleName": "T-129",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2026-01-18T10:07:00",
+  "closedLocal": "2026-01-18T10:57:00",
+  "meterReadings": {
+   "engineHours": 13876,
+   "ptoHours": 3672.2
+  },
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo009428",
+  "vehicleName": "T-106",
+  "type": "ROAD_CALL",
+  "reason": "NO_START",
+  "openedLocal": "2026-01-20T05:24:00",
+  "closedLocal": "2026-01-20T06:30:00",
+  "meterReadings": null,
+  "notes": "Unit would not crank. Boosted and returned to yard."
+ },
+ {
+  "id": "wo009429",
+  "vehicleName": "T-106",
+  "type": "BATTERY_REPLACED",
+  "reason": "Failed start",
+  "openedLocal": "2026-01-20T10:45:00",
+  "closedLocal": "2026-01-20T11:35:00",
+  "meterReadings": {
+   "engineHours": 10806.9,
+   "ptoHours": 1897.8
+  },
+  "notes": "Batteries replaced (2x group 31)."
+ },
+ {
+  "id": "wo900314",
+  "vehicleName": "T-106",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-02T08:30:00",
+  "closedLocal": "2026-11-02T11:30:00",
+  "meterReadings": {
+   "engineHours": 11310.3,
+   "ptoHours": 1925.8
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901190",
+  "vehicleName": "T-120",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-02T08:30:00",
+  "closedLocal": "2026-11-02T11:30:00",
+  "meterReadings": {
+   "engineHours": 10851.2,
+   "ptoHours": 3924.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901688",
+  "vehicleName": "T-128",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-02T08:30:00",
+  "closedLocal": "2026-11-02T14:30:00",
+  "meterReadings": {
+   "engineHours": 13841.3,
+   "ptoHours": 3194.8
+  },
+  "notes": "Hydraulic service deferred - parts on backorder."
+ },
+ {
+  "id": "wo901689",
+  "vehicleName": "T-128",
+  "type": "BATTERY_REPLACED",
+  "reason": "Pre-season battery test failed",
+  "openedLocal": "2026-11-02T09:30:00",
+  "closedLocal": "2026-11-02T10:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900315",
+  "vehicleName": "T-106",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-02T11:30:00",
+  "closedLocal": "2026-11-02T15:30:00",
+  "meterReadings": {
+   "engineHours": 11310.3,
+   "ptoHours": 1925.8
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901191",
+  "vehicleName": "T-120",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-02T11:30:00",
+  "closedLocal": "2026-11-02T15:30:00",
+  "meterReadings": {
+   "engineHours": 10851.2,
+   "ptoHours": 3924.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900628",
+  "vehicleName": "T-111",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-03T08:30:00",
+  "closedLocal": "2026-11-03T14:30:00",
+  "meterReadings": {
+   "engineHours": 9445,
+   "ptoHours": 2800.9
+  },
+  "notes": "Hydraulic service deferred - parts on backorder."
+ },
+ {
+  "id": "wo900754",
+  "vehicleName": "T-113",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-04T08:30:00",
+  "closedLocal": "2026-11-04T11:30:00",
+  "meterReadings": {
+   "engineHours": 9483.9,
+   "ptoHours": 3748.7
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901252",
+  "vehicleName": "T-121",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-04T08:30:00",
+  "closedLocal": "2026-11-04T11:30:00",
+  "meterReadings": {
+   "engineHours": 7926.5,
+   "ptoHours": 1521.2
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901376",
+  "vehicleName": "T-123",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-04T08:30:00",
+  "closedLocal": "2026-11-04T11:30:00",
+  "meterReadings": {
+   "engineHours": 15257.3,
+   "ptoHours": 2543
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900756",
+  "vehicleName": "T-113",
+  "type": "BATTERY_REPLACED",
+  "reason": "Pre-season battery test failed",
+  "openedLocal": "2026-11-04T09:30:00",
+  "closedLocal": "2026-11-04T10:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900755",
+  "vehicleName": "T-113",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-04T11:30:00",
+  "closedLocal": "2026-11-04T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo901253",
+  "vehicleName": "T-121",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-04T11:30:00",
+  "closedLocal": "2026-11-04T15:30:00",
+  "meterReadings": {
+   "engineHours": 7926.5,
+   "ptoHours": 1521.2
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901377",
+  "vehicleName": "T-123",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-04T11:30:00",
+  "closedLocal": "2026-11-04T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900001",
+  "vehicleName": "T-101",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-05T08:30:00",
+  "closedLocal": "2026-11-05T11:30:00",
+  "meterReadings": {
+   "engineHours": 10330.7,
+   "ptoHours": 3834.2
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900565",
+  "vehicleName": "T-110",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-05T08:30:00",
+  "closedLocal": "2026-11-05T11:30:00",
+  "meterReadings": {
+   "engineHours": 10242.7,
+   "ptoHours": 3320.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900942",
+  "vehicleName": "T-116",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-05T08:30:00",
+  "closedLocal": "2026-11-05T11:30:00",
+  "meterReadings": {
+   "engineHours": 8163.1,
+   "ptoHours": 2073.7
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901129",
+  "vehicleName": "T-119",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-05T08:30:00",
+  "closedLocal": "2026-11-05T14:30:00",
+  "meterReadings": {
+   "engineHours": 13273.6,
+   "ptoHours": 4125.4
+  },
+  "notes": "Hydraulic service deferred - parts on backorder."
+ },
+ {
+  "id": "wo901438",
+  "vehicleName": "T-124",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-05T08:30:00",
+  "closedLocal": "2026-11-05T11:30:00",
+  "meterReadings": {
+   "engineHours": 14246.1,
+   "ptoHours": 1515.3
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901501",
+  "vehicleName": "T-125",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-05T08:30:00",
+  "closedLocal": "2026-11-05T11:30:00",
+  "meterReadings": {
+   "engineHours": 14794.4,
+   "ptoHours": 4196
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900003",
+  "vehicleName": "T-101",
+  "type": "BATTERY_REPLACED",
+  "reason": "Pre-season battery test failed",
+  "openedLocal": "2026-11-05T09:30:00",
+  "closedLocal": "2026-11-05T10:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900002",
+  "vehicleName": "T-101",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-05T11:30:00",
+  "closedLocal": "2026-11-05T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900566",
+  "vehicleName": "T-110",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-05T11:30:00",
+  "closedLocal": "2026-11-05T15:30:00",
+  "meterReadings": {
+   "engineHours": 10242.7,
+   "ptoHours": 3320.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900943",
+  "vehicleName": "T-116",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-05T11:30:00",
+  "closedLocal": "2026-11-05T15:30:00",
+  "meterReadings": {
+   "engineHours": 8163.1,
+   "ptoHours": 2073.7
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901439",
+  "vehicleName": "T-124",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-05T11:30:00",
+  "closedLocal": "2026-11-05T15:30:00",
+  "meterReadings": {
+   "engineHours": 14246.1,
+   "ptoHours": 1515.3
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901502",
+  "vehicleName": "T-125",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-05T11:30:00",
+  "closedLocal": "2026-11-05T15:30:00",
+  "meterReadings": {
+   "engineHours": 14794.4,
+   "ptoHours": 4196
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900064",
+  "vehicleName": "T-102",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-06T08:30:00",
+  "closedLocal": "2026-11-06T11:30:00",
+  "meterReadings": {
+   "engineHours": 8560.9,
+   "ptoHours": 2066.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900189",
+  "vehicleName": "T-104",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-06T08:30:00",
+  "closedLocal": "2026-11-06T11:30:00",
+  "meterReadings": {
+   "engineHours": 14509.2,
+   "ptoHours": 1527.4
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900066",
+  "vehicleName": "T-102",
+  "type": "BATTERY_REPLACED",
+  "reason": "Pre-season battery test failed",
+  "openedLocal": "2026-11-06T09:30:00",
+  "closedLocal": "2026-11-06T10:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900191",
+  "vehicleName": "T-104",
+  "type": "BATTERY_REPLACED",
+  "reason": "Pre-season battery test failed",
+  "openedLocal": "2026-11-06T09:30:00",
+  "closedLocal": "2026-11-06T10:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900065",
+  "vehicleName": "T-102",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-06T11:30:00",
+  "closedLocal": "2026-11-06T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900190",
+  "vehicleName": "T-104",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-06T11:30:00",
+  "closedLocal": "2026-11-06T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900252",
+  "vehicleName": "T-105",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-07T08:30:00",
+  "closedLocal": "2026-11-07T11:30:00",
+  "meterReadings": {
+   "engineHours": 11436.1,
+   "ptoHours": 3450.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900691",
+  "vehicleName": "T-112",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-07T08:30:00",
+  "closedLocal": "2026-11-07T11:30:00",
+  "meterReadings": {
+   "engineHours": 8854.5,
+   "ptoHours": 3260.3
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901563",
+  "vehicleName": "T-126",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-07T08:30:00",
+  "closedLocal": "2026-11-07T11:30:00",
+  "meterReadings": {
+   "engineHours": 12246.1,
+   "ptoHours": 2492.1
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900693",
+  "vehicleName": "T-112",
+  "type": "BATTERY_REPLACED",
+  "reason": "Pre-season battery test failed",
+  "openedLocal": "2026-11-07T09:30:00",
+  "closedLocal": "2026-11-07T10:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900253",
+  "vehicleName": "T-105",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-07T11:30:00",
+  "closedLocal": "2026-11-07T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900692",
+  "vehicleName": "T-112",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-07T11:30:00",
+  "closedLocal": "2026-11-07T15:30:00",
+  "meterReadings": {
+   "engineHours": 8854.5,
+   "ptoHours": 3260.3
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901564",
+  "vehicleName": "T-126",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-07T11:30:00",
+  "closedLocal": "2026-11-07T15:30:00",
+  "meterReadings": {
+   "engineHours": 12246.1,
+   "ptoHours": 2492.1
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900439",
+  "vehicleName": "T-108",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-08T08:30:00",
+  "closedLocal": "2026-11-08T14:30:00",
+  "meterReadings": {
+   "engineHours": 13858.9,
+   "ptoHours": 1638.5
+  },
+  "notes": "Hydraulic service deferred - parts on backorder."
+ },
+ {
+  "id": "wo900440",
+  "vehicleName": "T-108",
+  "type": "BATTERY_REPLACED",
+  "reason": "Pre-season battery test failed",
+  "openedLocal": "2026-11-08T09:30:00",
+  "closedLocal": "2026-11-08T10:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900376",
+  "vehicleName": "T-107",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-09T08:30:00",
+  "closedLocal": "2026-11-09T11:30:00",
+  "meterReadings": {
+   "engineHours": 12342.9,
+   "ptoHours": 2841.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901806",
+  "vehicleName": "T-130",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-09T08:30:00",
+  "closedLocal": "2026-11-09T11:30:00",
+  "meterReadings": {
+   "engineHours": 14185.1,
+   "ptoHours": 1482.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900377",
+  "vehicleName": "T-107",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-09T11:30:00",
+  "closedLocal": "2026-11-09T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo901807",
+  "vehicleName": "T-130",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-09T11:30:00",
+  "closedLocal": "2026-11-09T15:30:00",
+  "meterReadings": {
+   "engineHours": 14185.1,
+   "ptoHours": 1482.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900817",
+  "vehicleName": "T-114",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-10T08:30:00",
+  "closedLocal": "2026-11-10T14:30:00",
+  "meterReadings": {
+   "engineHours": 9239.7,
+   "ptoHours": 3943.2
+  },
+  "notes": "Hydraulic service deferred - parts on backorder."
+ },
+ {
+  "id": "wo901066",
+  "vehicleName": "T-118",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-10T08:30:00",
+  "closedLocal": "2026-11-10T11:30:00",
+  "meterReadings": {
+   "engineHours": 14136.6,
+   "ptoHours": 2584.4
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900818",
+  "vehicleName": "T-114",
+  "type": "BATTERY_REPLACED",
+  "reason": "Pre-season battery test failed",
+  "openedLocal": "2026-11-10T09:30:00",
+  "closedLocal": "2026-11-10T10:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo901068",
+  "vehicleName": "T-118",
+  "type": "BATTERY_REPLACED",
+  "reason": "Pre-season battery test failed",
+  "openedLocal": "2026-11-10T09:30:00",
+  "closedLocal": "2026-11-10T10:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo901067",
+  "vehicleName": "T-118",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-10T11:30:00",
+  "closedLocal": "2026-11-10T15:30:00",
+  "meterReadings": {
+   "engineHours": 14136.6,
+   "ptoHours": 2584.4
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900127",
+  "vehicleName": "T-103",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-11T08:30:00",
+  "closedLocal": "2026-11-11T11:30:00",
+  "meterReadings": {
+   "engineHours": 13028.2,
+   "ptoHours": 3937.3
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900502",
+  "vehicleName": "T-109",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-11T08:30:00",
+  "closedLocal": "2026-11-11T11:30:00",
+  "meterReadings": {
+   "engineHours": 12742.5,
+   "ptoHours": 3264.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901314",
+  "vehicleName": "T-122",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-11T08:30:00",
+  "closedLocal": "2026-11-11T11:30:00",
+  "meterReadings": {
+   "engineHours": 11258.7,
+   "ptoHours": 1528.1
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900128",
+  "vehicleName": "T-103",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-11T11:30:00",
+  "closedLocal": "2026-11-11T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo900503",
+  "vehicleName": "T-109",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-11T11:30:00",
+  "closedLocal": "2026-11-11T15:30:00",
+  "meterReadings": {
+   "engineHours": 12742.5,
+   "ptoHours": 3264.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901315",
+  "vehicleName": "T-122",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-11T11:30:00",
+  "closedLocal": "2026-11-11T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo901626",
+  "vehicleName": "T-127",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-12T08:30:00",
+  "closedLocal": "2026-11-12T14:30:00",
+  "meterReadings": {
+   "engineHours": 8419.2,
+   "ptoHours": 2141.9
+  },
+  "notes": "Hydraulic service deferred - parts on backorder."
+ },
+ {
+  "id": "wo900879",
+  "vehicleName": "T-115",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-13T08:30:00",
+  "closedLocal": "2026-11-13T11:30:00",
+  "meterReadings": {
+   "engineHours": 13163.4,
+   "ptoHours": 3461.9
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901004",
+  "vehicleName": "T-117",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-13T08:30:00",
+  "closedLocal": "2026-11-13T11:30:00",
+  "meterReadings": {
+   "engineHours": 12067.4,
+   "ptoHours": 3448.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901752",
+  "vehicleName": "T-129",
+  "type": "PM_INSPECTION",
+  "reason": "Pre-season inspection",
+  "openedLocal": "2026-11-13T08:30:00",
+  "closedLocal": "2026-11-13T11:30:00",
+  "meterReadings": {
+   "engineHours": 14255,
+   "ptoHours": 3681.4
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo900880",
+  "vehicleName": "T-115",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-13T11:30:00",
+  "closedLocal": "2026-11-13T15:30:00",
+  "meterReadings": null,
+  "notes": ""
+ },
+ {
+  "id": "wo901005",
+  "vehicleName": "T-117",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-13T11:30:00",
+  "closedLocal": "2026-11-13T15:30:00",
+  "meterReadings": {
+   "engineHours": 12067.4,
+   "ptoHours": 3448.6
+  },
+  "notes": ""
+ },
+ {
+  "id": "wo901753",
+  "vehicleName": "T-129",
+  "type": "HYDRAULIC_SERVICE",
+  "reason": "Pre-season hydraulic service",
+  "openedLocal": "2026-11-13T11:30:00",
+  "closedLocal": "2026-11-13T15:30:00",
+  "meterReadings": {
+   "engineHours": 14255,
+   "ptoHours": 3681.4
+  },
+  "notes": ""
+ }
+]

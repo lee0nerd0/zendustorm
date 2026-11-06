@@ -1,0 +1,126 @@
+{
+ "api_base_url": "https://storm-hackathon.vercel.app/api/v1",
+ "entities": {
+  "Yard": {
+   "status": "ok",
+   "rows": 2,
+   "expected_rows": 2,
+   "warnings": [],
+   "sha256": "1a839df9614c4484cecdbdfae15bb5f93e746f1486da5109048043d2c760fd34",
+   "fetched_at_utc": "2026-11-06T18:36:27Z"
+  },
+  "Vehicle": {
+   "status": "ok",
+   "rows": 30,
+   "expected_rows": 30,
+   "warnings": [],
+   "sha256": "e43d968aad838c0ee9785b7b5ed35ba962c9469e5cd7e5aef2b82f594e9939c0",
+   "fetched_at_utc": "2026-11-06T18:36:27Z"
+  },
+  "Device": {
+   "status": "ok",
+   "rows": 30,
+   "expected_rows": 30,
+   "warnings": [],
+   "sha256": "896a0a960ba9589a261a4b1d2ea7f21b1b1b069bf2713b69685ccc5d631a8870",
+   "fetched_at_utc": "2026-11-06T18:36:27Z"
+  },
+  "DeviceAssignment": {
+   "status": "ok",
+   "rows": 32,
+   "expected_rows": 32,
+   "warnings": [],
+   "sha256": "6e1ec574264be0a744da88200bf87f5c221c8509b264590d8b45ed06b874691f",
+   "fetched_at_utc": "2026-11-06T18:36:27Z"
+  },
+  "Driver": {
+   "status": "ok",
+   "rows": 48,
+   "expected_rows": 48,
+   "warnings": [],
+   "sha256": "5d57e07f7b36e3ccf6aaac90560db2b0e743ab79d9e95855254430c849581e18",
+   "fetched_at_utc": "2026-11-06T18:36:28Z"
+  },
+  "Route": {
+   "status": "ok",
+   "rows": 40,
+   "expected_rows": 40,
+   "warnings": [],
+   "sha256": "81475382e0cd9002e7178dc8bfc32eac82cf23950900ef13ceecc235cccb4928",
+   "fetched_at_utc": "2026-11-06T18:36:28Z"
+  },
+  "StatusData": {
+   "status": "ok",
+   "rows": 8260,
+   "expected_rows": 8260,
+   "warnings": [],
+   "sha256": "a6d56fca698b21dabc8dfccfb963ab40debdc6f5bd34a9df23371cbf91da3828",
+   "fetched_at_utc": "2026-11-06T18:36:29Z"
+  },
+  "FaultData": {
+   "status": "ok",
+   "rows": 346,
+   "expected_rows": 346,
+   "warnings": [],
+   "sha256": "594503c308b91c3e89a3e19e42c1b4a38c3fbbc8f10806790ef3cf1ec2aec7cc",
+   "fetched_at_utc": "2026-11-06T18:36:29Z"
+  },
+  "ExceptionEvent": {
+   "status": "ok",
+   "rows": 2277,
+   "expected_rows": 2277,
+   "warnings": [],
+   "sha256": "1d6c71019c5f5cdc9e244b9d9d938b5808b18d1209c9829ff48bc4ded286251b",
+   "fetched_at_utc": "2026-11-06T18:36:30Z"
+  },
+  "Trip": {
+   "status": "ok",
+   "rows": 446,
+   "expected_rows": 446,
+   "warnings": [],
+   "sha256": "9c6c3a74c0c27068fcfd9cb3fbcbf2079f8af932e76861acc989c98c69ef0da0",
+   "fetched_at_utc": "2026-11-06T18:36:30Z"
+  },
+  "DutyStatusLog": {
+   "status": "ok",
+   "rows": 640,
+   "expected_rows": 640,
+   "warnings": [],
+   "sha256": "49bf6215851b1fa2805a1c05ec2234b054ef45965206b0a5e6bf9a87b604308b",
+   "fetched_at_utc": "2026-11-06T18:36:30Z"
+  },
+  "Callout": {
+   "status": "ok",
+   "rows": 11,
+   "expected_rows": 11,
+   "warnings": [],
+   "sha256": "f4e996b0f9a25f865924103bd8ba5b8c00fbc0a9300a3cca9afdc721b5a40c7c",
+   "fetched_at_utc": "2026-11-06T18:36:31Z"
+  },
+  "DispatchAssignment": {
+   "status": "ok",
+   "rows": 446,
+   "expected_rows": 446,
+   "warnings": [],
+   "sha256": "830a708ecf4cd17b558c05ffe020d95e85099949956128fa4dc42c7c3a85ad7d",
+   "fetched_at_utc": "2026-11-06T18:36:31Z"
+  },
+  "DispatchPlan": {
+   "status": "ok",
+   "rows": 30,
+   "expected_rows": 30,
+   "warnings": [],
+   "sha256": "b8c643e4fedb66dd7067ab82eefe47bf09547ca03d621e35c0d8652e4e251a38",
+   "fetched_at_utc": "2026-11-06T18:36:31Z"
+  },
+  "WorkOrder": {
+   "status": "ok",
+   "rows": 132,
+   "expected_rows": 132,
+   "warnings": [],
+   "sha256": "188a3f09d42f755a7afcfe65aaf029021a5b2f11b9d4797dac8257d09cec217d",
+   "fetched_at_utc": "2026-11-06T18:36:31Z"
+  }
+ },
+ "updated_at_utc": "2026-11-06T18:36:31Z"
+}

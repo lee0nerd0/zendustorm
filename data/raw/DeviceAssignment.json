@@ -1,0 +1,290 @@
+[
+ {
+  "device": {
+   "id": "b2A"
+  },
+  "vehicleName": "T-101",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0001"
+ },
+ {
+  "device": {
+   "id": "b2B"
+  },
+  "vehicleName": "T-102",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0002"
+ },
+ {
+  "device": {
+   "id": "b2C"
+  },
+  "vehicleName": "T-103",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0003"
+ },
+ {
+  "device": {
+   "id": "b2D"
+  },
+  "vehicleName": "T-104",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0004"
+ },
+ {
+  "device": {
+   "id": "b2E"
+  },
+  "vehicleName": "T-105",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0005"
+ },
+ {
+  "device": {
+   "id": "b2F"
+  },
+  "vehicleName": "T-106",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0006"
+ },
+ {
+  "device": {
+   "id": "b30"
+  },
+  "vehicleName": "T-107",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0007"
+ },
+ {
+  "device": {
+   "id": "b31"
+  },
+  "vehicleName": "T-108",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0008"
+ },
+ {
+  "device": {
+   "id": "b32"
+  },
+  "vehicleName": "T-109",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0009"
+ },
+ {
+  "device": {
+   "id": "b33"
+  },
+  "vehicleName": "T-110",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0010"
+ },
+ {
+  "device": {
+   "id": "b34"
+  },
+  "vehicleName": "T-111",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0011"
+ },
+ {
+  "device": {
+   "id": "b35"
+  },
+  "vehicleName": "T-112",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0012"
+ },
+ {
+  "device": {
+   "id": "b36"
+  },
+  "vehicleName": "T-113",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0013"
+ },
+ {
+  "device": {
+   "id": "b37"
+  },
+  "vehicleName": "T-114",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0014"
+ },
+ {
+  "device": {
+   "id": "b38"
+  },
+  "vehicleName": "T-115",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0015"
+ },
+ {
+  "device": {
+   "id": "b39"
+  },
+  "vehicleName": "T-116",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0016"
+ },
+ {
+  "device": {
+   "id": "b3A"
+  },
+  "vehicleName": "T-117",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0017"
+ },
+ {
+  "device": {
+   "id": "b3B"
+  },
+  "vehicleName": "T-118",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2026-01-08T17:00:00Z",
+  "id": "da0018"
+ },
+ {
+  "device": {
+   "id": "b3B"
+  },
+  "vehicleName": "T-129",
+  "activeFrom": "2026-01-08T17:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0019"
+ },
+ {
+  "device": {
+   "id": "b3C"
+  },
+  "vehicleName": "T-119",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0020"
+ },
+ {
+  "device": {
+   "id": "b3D"
+  },
+  "vehicleName": "T-120",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0021"
+ },
+ {
+  "device": {
+   "id": "b3E"
+  },
+  "vehicleName": "T-121",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0022"
+ },
+ {
+  "device": {
+   "id": "b3F"
+  },
+  "vehicleName": "T-122",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0023"
+ },
+ {
+  "device": {
+   "id": "b40"
+  },
+  "vehicleName": "T-123",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0024"
+ },
+ {
+  "device": {
+   "id": "b41"
+  },
+  "vehicleName": "T-124",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0025"
+ },
+ {
+  "device": {
+   "id": "b42"
+  },
+  "vehicleName": "T-125",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0026"
+ },
+ {
+  "device": {
+   "id": "b43"
+  },
+  "vehicleName": "T-126",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0027"
+ },
+ {
+  "device": {
+   "id": "b44"
+  },
+  "vehicleName": "T-127",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0028"
+ },
+ {
+  "device": {
+   "id": "b45"
+  },
+  "vehicleName": "T-128",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0029"
+ },
+ {
+  "device": {
+   "id": "b46"
+  },
+  "vehicleName": "T-129",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2026-01-08T17:00:00Z",
+  "id": "da0030"
+ },
+ {
+  "device": {
+   "id": "b46"
+  },
+  "vehicleName": "T-118",
+  "activeFrom": "2026-01-08T17:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0031"
+ },
+ {
+  "device": {
+   "id": "b47"
+  },
+  "vehicleName": "T-130",
+  "activeFrom": "2024-09-01T04:00:00Z",
+  "activeTo": "2050-01-01T00:00:00Z",
+  "id": "da0032"
+ }
+]

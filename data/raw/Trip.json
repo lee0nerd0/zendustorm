@@ -1,0 +1,5800 @@
+[
+ {
+  "id": "tr000203",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:45:00Z",
+  "distanceKm": 23.11,
+  "maxSpeedKmh": 68
+ },
+ {
+  "id": "tr000211",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:47:43Z",
+  "distanceKm": 24.38,
+  "maxSpeedKmh": 68.9
+ },
+ {
+  "id": "tr000224",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:32:13Z",
+  "distanceKm": 22.09,
+  "maxSpeedKmh": 53.2
+ },
+ {
+  "id": "tr000235",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T08:08:56Z",
+  "distanceKm": 33.39,
+  "maxSpeedKmh": 67.2
+ },
+ {
+  "id": "tr000243",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-41"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:58:46Z",
+  "distanceKm": 27.03,
+  "maxSpeedKmh": 75.9
+ },
+ {
+  "id": "tr000252",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:47:32Z",
+  "distanceKm": 23.5,
+  "maxSpeedKmh": 74.6
+ },
+ {
+  "id": "tr000263",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:59:26Z",
+  "distanceKm": 27.64,
+  "maxSpeedKmh": 58.2
+ },
+ {
+  "id": "tr000270",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-24"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:50:43Z",
+  "distanceKm": 25.39,
+  "maxSpeedKmh": 70.5
+ },
+ {
+  "id": "tr000282",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-23"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:31:14Z",
+  "distanceKm": 21.78,
+  "maxSpeedKmh": 52.6
+ },
+ {
+  "id": "tr000295",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:48:21Z",
+  "distanceKm": 24.76,
+  "maxSpeedKmh": 59.1
+ },
+ {
+  "id": "tr000308",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-11"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:06:54Z",
+  "distanceKm": 24.52,
+  "maxSpeedKmh": 53
+ },
+ {
+  "id": "tr000315",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:33:56Z",
+  "distanceKm": 31.07,
+  "maxSpeedKmh": 59.3
+ },
+ {
+  "id": "tr000322",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:30:56Z",
+  "distanceKm": 21.44,
+  "maxSpeedKmh": 64.2
+ },
+ {
+  "id": "tr000334",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-14"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:09:23Z",
+  "distanceKm": 25.16,
+  "maxSpeedKmh": 65
+ },
+ {
+  "id": "tr000343",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:01:17Z",
+  "distanceKm": 26.68,
+  "maxSpeedKmh": 74.5
+ },
+ {
+  "id": "tr000351",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-16"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:11:57Z",
+  "distanceKm": 25.68,
+  "maxSpeedKmh": 56.5
+ },
+ {
+  "id": "tr000362",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:45:44Z",
+  "distanceKm": 23.8,
+  "maxSpeedKmh": 72.5
+ },
+ {
+  "id": "tr000372",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:11:07Z",
+  "distanceKm": 30.34,
+  "maxSpeedKmh": 69.4
+ },
+ {
+  "id": "tr000380",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:23:45Z",
+  "distanceKm": 19.91,
+  "maxSpeedKmh": 56.3
+ },
+ {
+  "id": "tr000410",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-21"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:30:45Z",
+  "distanceKm": 30.66,
+  "maxSpeedKmh": 66.8
+ },
+ {
+  "id": "tr000425",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-30"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:13:41Z",
+  "distanceKm": 25.69,
+  "maxSpeedKmh": 65.5
+ },
+ {
+  "id": "tr000433",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "D-27"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:33:32Z",
+  "distanceKm": 31.18,
+  "maxSpeedKmh": 53.3
+ },
+ {
+  "id": "tr000442",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:09:19Z",
+  "distanceKm": 25.01,
+  "maxSpeedKmh": 56.5
+ },
+ {
+  "id": "tr000449",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-03"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:48:32Z",
+  "distanceKm": 34.69,
+  "maxSpeedKmh": 62.1
+ },
+ {
+  "id": "tr000463",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:40:43Z",
+  "distanceKm": 24.39,
+  "maxSpeedKmh": 76.3
+ },
+ {
+  "id": "tr000474",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-29"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:05:29Z",
+  "distanceKm": 25.21,
+  "maxSpeedKmh": 65.8
+ },
+ {
+  "id": "tr000482",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T08:02:50Z",
+  "distanceKm": 33.08,
+  "maxSpeedKmh": 54.5
+ },
+ {
+  "id": "tr000490",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-15"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T07:36:22Z",
+  "distanceKm": 31.62,
+  "maxSpeedKmh": 57.4
+ },
+ {
+  "id": "tr000500",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2025-12-02T05:15:00Z",
+  "stop": "2025-12-02T06:22:02Z",
+  "distanceKm": 18.62,
+  "maxSpeedKmh": 60.2
+ },
+ {
+  "id": "tr000401",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-06"
+  },
+  "start": "2025-12-02T05:40:00Z",
+  "stop": "2025-12-02T07:29:08Z",
+  "distanceKm": 23.7,
+  "maxSpeedKmh": 75.5
+ },
+ {
+  "id": "tr000501",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2025-12-02T06:32:02Z",
+  "stop": "2025-12-02T09:02:56Z",
+  "distanceKm": 29.47,
+  "maxSpeedKmh": 70.1
+ },
+ {
+  "id": "tr000381",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2025-12-02T06:33:45Z",
+  "stop": "2025-12-02T09:09:40Z",
+  "distanceKm": 30.35,
+  "maxSpeedKmh": 70
+ },
+ {
+  "id": "tr000323",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2025-12-02T06:40:56Z",
+  "stop": "2025-12-02T09:10:38Z",
+  "distanceKm": 28.93,
+  "maxSpeedKmh": 63.2
+ },
+ {
+  "id": "tr000283",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-23"
+  },
+  "start": "2025-12-02T06:41:14Z",
+  "stop": "2025-12-02T09:27:41Z",
+  "distanceKm": 26.57,
+  "maxSpeedKmh": 56.9
+ },
+ {
+  "id": "tr000225",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2025-12-02T06:42:13Z",
+  "stop": "2025-12-02T10:22:09Z",
+  "distanceKm": 36.46,
+  "maxSpeedKmh": 71.6
+ },
+ {
+  "id": "tr000464",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2025-12-02T06:50:43Z",
+  "stop": "2025-12-02T09:20:40Z",
+  "distanceKm": 29.63,
+  "maxSpeedKmh": 57
+ },
+ {
+  "id": "tr000253",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-02T06:57:32Z",
+  "stop": "2025-12-02T09:28:17Z",
+  "distanceKm": 29.22,
+  "maxSpeedKmh": 53.3
+ },
+ {
+  "id": "tr000212",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2025-12-02T06:57:43Z",
+  "stop": "2025-12-02T09:12:36Z",
+  "distanceKm": 26.91,
+  "maxSpeedKmh": 77.4
+ },
+ {
+  "id": "tr000296",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2025-12-02T06:58:21Z",
+  "stop": "2025-12-02T09:45:24Z",
+  "distanceKm": 26.49,
+  "maxSpeedKmh": 54.9
+ },
+ {
+  "id": "tr000271",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-24"
+  },
+  "start": "2025-12-02T07:00:43Z",
+  "stop": "2025-12-02T10:48:38Z",
+  "distanceKm": 36.85,
+  "maxSpeedKmh": 54.5
+ },
+ {
+  "id": "tr001555",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:29:37Z",
+  "distanceKm": 27.24,
+  "maxSpeedKmh": 66.6
+ },
+ {
+  "id": "tr001562",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:25:07Z",
+  "distanceKm": 24.07,
+  "maxSpeedKmh": 67.8
+ },
+ {
+  "id": "tr001575",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T09:59:48Z",
+  "distanceKm": 22.21,
+  "maxSpeedKmh": 55.2
+ },
+ {
+  "id": "tr001588",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-10"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:23:26Z",
+  "distanceKm": 25.17,
+  "maxSpeedKmh": 63
+ },
+ {
+  "id": "tr001601",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-29"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:36:49Z",
+  "distanceKm": 26.23,
+  "maxSpeedKmh": 75.8
+ },
+ {
+  "id": "tr001608",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T09:37:58Z",
+  "distanceKm": 18.69,
+  "maxSpeedKmh": 76.2
+ },
+ {
+  "id": "tr001623",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-37"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:32:44Z",
+  "distanceKm": 26.34,
+  "maxSpeedKmh": 57.7
+ },
+ {
+  "id": "tr001631",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-28"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:48:13Z",
+  "distanceKm": 25.09,
+  "maxSpeedKmh": 65.5
+ },
+ {
+  "id": "tr001639",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T09:57:22Z",
+  "distanceKm": 22.62,
+  "maxSpeedKmh": 57
+ },
+ {
+  "id": "tr001651",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:54:17Z",
+  "distanceKm": 26.04,
+  "maxSpeedKmh": 57.9
+ },
+ {
+  "id": "tr001660",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-27"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T11:17:34Z",
+  "distanceKm": 30.48,
+  "maxSpeedKmh": 67.3
+ },
+ {
+  "id": "tr001679",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-17"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:17:19Z",
+  "distanceKm": 24.04,
+  "maxSpeedKmh": 67
+ },
+ {
+  "id": "tr001686",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-30"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:18:04Z",
+  "distanceKm": 24.19,
+  "maxSpeedKmh": 65.3
+ },
+ {
+  "id": "tr001698",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-11"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T09:44:30Z",
+  "distanceKm": 19.62,
+  "maxSpeedKmh": 58.2
+ },
+ {
+  "id": "tr001712",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T12:19:38Z",
+  "distanceKm": 33.11,
+  "maxSpeedKmh": 77.2
+ },
+ {
+  "id": "tr001722",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-05"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:44:19Z",
+  "distanceKm": 24.18,
+  "maxSpeedKmh": 61.6
+ },
+ {
+  "id": "tr001731",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:53:39Z",
+  "distanceKm": 30.47,
+  "maxSpeedKmh": 69.9
+ },
+ {
+  "id": "tr001740",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-43"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:48:27Z",
+  "distanceKm": 25.04,
+  "maxSpeedKmh": 66.8
+ },
+ {
+  "id": "tr001750",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:20:13Z",
+  "distanceKm": 23.29,
+  "maxSpeedKmh": 76.3
+ },
+ {
+  "id": "tr001761",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-03"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T11:40:31Z",
+  "distanceKm": 33.17,
+  "maxSpeedKmh": 55.2
+ },
+ {
+  "id": "tr001778",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T11:24:55Z",
+  "distanceKm": 30.72,
+  "maxSpeedKmh": 68.4
+ },
+ {
+  "id": "tr001787",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "D-47"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T11:22:53Z",
+  "distanceKm": 30.49,
+  "maxSpeedKmh": 72.4
+ },
+ {
+  "id": "tr001798",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T11:50:11Z",
+  "distanceKm": 32.28,
+  "maxSpeedKmh": 58.9
+ },
+ {
+  "id": "tr001808",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T09:56:53Z",
+  "distanceKm": 21.61,
+  "maxSpeedKmh": 71.9
+ },
+ {
+  "id": "tr001834",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-36"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:48:24Z",
+  "distanceKm": 24.89,
+  "maxSpeedKmh": 61.1
+ },
+ {
+  "id": "tr001842",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:13:12Z",
+  "distanceKm": 22.72,
+  "maxSpeedKmh": 67.1
+ },
+ {
+  "id": "tr001850",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:53:49Z",
+  "distanceKm": 26.49,
+  "maxSpeedKmh": 74.8
+ },
+ {
+  "id": "tr001858",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-31"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T11:24:30Z",
+  "distanceKm": 30.76,
+  "maxSpeedKmh": 61.3
+ },
+ {
+  "id": "tr001870",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T08:15:00Z",
+  "stop": "2025-12-10T10:09:50Z",
+  "distanceKm": 25.07,
+  "maxSpeedKmh": 66.7
+ },
+ {
+  "id": "tr001669",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "D-04"
+  },
+  "start": "2025-12-10T08:40:00Z",
+  "stop": "2025-12-10T11:13:00Z",
+  "distanceKm": 23.49,
+  "maxSpeedKmh": 53.6
+ },
+ {
+  "id": "tr001609",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T09:47:58Z",
+  "stop": "2025-12-10T13:05:42Z",
+  "distanceKm": 28.45,
+  "maxSpeedKmh": 66
+ },
+ {
+  "id": "tr001699",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-11"
+  },
+  "start": "2025-12-10T09:54:30Z",
+  "stop": "2025-12-10T13:24:48Z",
+  "distanceKm": 30.11,
+  "maxSpeedKmh": 52.2
+ },
+ {
+  "id": "tr001809",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2025-12-10T10:06:53Z",
+  "stop": "2025-12-10T15:00:39Z",
+  "distanceKm": 36.68,
+  "maxSpeedKmh": 67.2
+ },
+ {
+  "id": "tr001640",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2025-12-10T10:07:22Z",
+  "stop": "2025-12-10T13:35:27Z",
+  "distanceKm": 26.99,
+  "maxSpeedKmh": 63.6
+ },
+ {
+  "id": "tr001576",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T10:09:48Z",
+  "stop": "2025-12-10T13:35:47Z",
+  "distanceKm": 29.03,
+  "maxSpeedKmh": 58.2
+ },
+ {
+  "id": "tr001871",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-10T10:19:50Z",
+  "stop": "2025-12-10T13:43:06Z",
+  "distanceKm": 29.71,
+  "maxSpeedKmh": 61.5
+ },
+ {
+  "id": "tr001687",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-30"
+  },
+  "start": "2025-12-10T10:28:04Z",
+  "stop": "2025-12-10T13:31:13Z",
+  "distanceKm": 26.15,
+  "maxSpeedKmh": 72.8
+ },
+ {
+  "id": "tr001751",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2025-12-10T10:30:13Z",
+  "stop": "2025-12-10T13:49:30Z",
+  "distanceKm": 29.01,
+  "maxSpeedKmh": 54.6
+ },
+ {
+  "id": "tr001589",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-10"
+  },
+  "start": "2025-12-10T10:33:26Z",
+  "stop": "2025-12-10T14:17:39Z",
+  "distanceKm": 27.14,
+  "maxSpeedKmh": 77.2
+ },
+ {
+  "id": "tr001563",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2025-12-10T10:35:07Z",
+  "stop": "2025-12-10T15:32:34Z",
+  "distanceKm": 36.41,
+  "maxSpeedKmh": 56.8
+ },
+ {
+  "id": "tr003566",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-17"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T06:57:49Z",
+  "distanceKm": 22.35,
+  "maxSpeedKmh": 59.4
+ },
+ {
+  "id": "tr003579",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:22:20Z",
+  "distanceKm": 24.7,
+  "maxSpeedKmh": 55.9
+ },
+ {
+  "id": "tr003595",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T06:52:37Z",
+  "distanceKm": 21.49,
+  "maxSpeedKmh": 69
+ },
+ {
+  "id": "tr003613",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:23:34Z",
+  "distanceKm": 24.41,
+  "maxSpeedKmh": 54.4
+ },
+ {
+  "id": "tr003628",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-13"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:34:43Z",
+  "distanceKm": 26.26,
+  "maxSpeedKmh": 64.7
+ },
+ {
+  "id": "tr003644",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-36"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:09:09Z",
+  "distanceKm": 25.14,
+  "maxSpeedKmh": 56.4
+ },
+ {
+  "id": "tr003660",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-25"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T06:45:00Z",
+  "distanceKm": 17.09,
+  "maxSpeedKmh": 76.6
+ },
+ {
+  "id": "tr003667",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-44"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T06:40:08Z",
+  "distanceKm": 18.78,
+  "maxSpeedKmh": 53.4
+ },
+ {
+  "id": "tr003679",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-21"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:11:01Z",
+  "distanceKm": 22.66,
+  "maxSpeedKmh": 62.9
+ },
+ {
+  "id": "tr003693",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-06"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T09:07:21Z",
+  "distanceKm": 34.74,
+  "maxSpeedKmh": 70.7
+ },
+ {
+  "id": "tr003701",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T06:45:06Z",
+  "distanceKm": 19.3,
+  "maxSpeedKmh": 65.7
+ },
+ {
+  "id": "tr003714",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:44:49Z",
+  "distanceKm": 26.01,
+  "maxSpeedKmh": 53.7
+ },
+ {
+  "id": "tr003724",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T06:53:34Z",
+  "distanceKm": 21.84,
+  "maxSpeedKmh": 63.6
+ },
+ {
+  "id": "tr003738",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-16"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:54:48Z",
+  "distanceKm": 26.16,
+  "maxSpeedKmh": 73.2
+ },
+ {
+  "id": "tr003745",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T08:37:39Z",
+  "distanceKm": 34.48,
+  "maxSpeedKmh": 55.3
+ },
+ {
+  "id": "tr003758",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:18:00Z",
+  "distanceKm": 17.96,
+  "maxSpeedKmh": 52.9
+ },
+ {
+  "id": "tr003770",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:12:58Z",
+  "distanceKm": 23.64,
+  "maxSpeedKmh": 60
+ },
+ {
+  "id": "tr003779",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:46:31Z",
+  "distanceKm": 24.58,
+  "maxSpeedKmh": 72.2
+ },
+ {
+  "id": "tr003787",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-43"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T08:12:45Z",
+  "distanceKm": 30,
+  "maxSpeedKmh": 71.3
+ },
+ {
+  "id": "tr003803",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-15"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:40:50Z",
+  "distanceKm": 25.14,
+  "maxSpeedKmh": 67.5
+ },
+ {
+  "id": "tr003812",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:20:17Z",
+  "distanceKm": 24.24,
+  "maxSpeedKmh": 63.2
+ },
+ {
+  "id": "tr003826",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "D-35"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T08:18:40Z",
+  "distanceKm": 31.38,
+  "maxSpeedKmh": 77
+ },
+ {
+  "id": "tr003837",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-24"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T08:18:55Z",
+  "distanceKm": 29.88,
+  "maxSpeedKmh": 67.5
+ },
+ {
+  "id": "tr003845",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-07"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:32:18Z",
+  "distanceKm": 25.99,
+  "maxSpeedKmh": 55.4
+ },
+ {
+  "id": "tr003853",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-28"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:18:21Z",
+  "distanceKm": 23.86,
+  "maxSpeedKmh": 72.4
+ },
+ {
+  "id": "tr003866",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-37"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T08:30:02Z",
+  "distanceKm": 31.92,
+  "maxSpeedKmh": 71.1
+ },
+ {
+  "id": "tr003877",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-04"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:48:29Z",
+  "distanceKm": 30.17,
+  "maxSpeedKmh": 69.9
+ },
+ {
+  "id": "tr003889",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-45"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:44:10Z",
+  "distanceKm": 24.54,
+  "maxSpeedKmh": 60.2
+ },
+ {
+  "id": "tr003899",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-23T05:15:00Z",
+  "stop": "2025-12-23T07:49:48Z",
+  "distanceKm": 26.14,
+  "maxSpeedKmh": 66.8
+ },
+ {
+  "id": "tr003794",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-23T05:40:00Z",
+  "stop": "2025-12-23T08:05:34Z",
+  "distanceKm": 23.44,
+  "maxSpeedKmh": 76.7
+ },
+ {
+  "id": "tr003668",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-44"
+  },
+  "start": "2025-12-23T06:50:08Z",
+  "stop": "2025-12-23T10:09:08Z",
+  "distanceKm": 28.62,
+  "maxSpeedKmh": 68.9
+ },
+ {
+  "id": "tr003702",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2025-12-23T06:55:06Z",
+  "stop": "2025-12-23T10:27:31Z",
+  "distanceKm": 30.96,
+  "maxSpeedKmh": 60.4
+ },
+ {
+  "id": "tr003725",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-23T07:03:34Z",
+  "stop": "2025-12-23T10:31:59Z",
+  "distanceKm": 29.49,
+  "maxSpeedKmh": 59.1
+ },
+ {
+  "id": "tr003567",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-17"
+  },
+  "start": "2025-12-23T07:07:49Z",
+  "stop": "2025-12-23T10:39:04Z",
+  "distanceKm": 26.3,
+  "maxSpeedKmh": 65.3
+ },
+ {
+  "id": "tr003596",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2025-12-23T07:15:00Z",
+  "stop": "2025-12-23T08:03:50Z",
+  "distanceKm": 9.46,
+  "maxSpeedKmh": 77.6
+ },
+ {
+  "id": "tr003854",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-28"
+  },
+  "start": "2025-12-23T07:28:21Z",
+  "stop": "2025-12-23T10:41:32Z",
+  "distanceKm": 28.43,
+  "maxSpeedKmh": 57.6
+ },
+ {
+  "id": "tr003813",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-23T07:30:17Z",
+  "stop": "2025-12-23T10:37:40Z",
+  "distanceKm": 26.36,
+  "maxSpeedKmh": 65.3
+ },
+ {
+  "id": "tr003580",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2025-12-23T07:32:20Z",
+  "stop": "2025-12-23T12:23:51Z",
+  "distanceKm": 37.67,
+  "maxSpeedKmh": 73.1
+ },
+ {
+  "id": "tr003614",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2025-12-23T07:33:34Z",
+  "stop": "2025-12-23T11:10:44Z",
+  "distanceKm": 27.57,
+  "maxSpeedKmh": 59.2
+ },
+ {
+  "id": "tr003645",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-36"
+  },
+  "start": "2025-12-23T07:48:00Z",
+  "stop": "2025-12-23T09:22:36Z",
+  "distanceKm": 14.5,
+  "maxSpeedKmh": 73.2
+ },
+ {
+  "id": "tr003597",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2025-12-23T08:13:50Z",
+  "stop": "2025-12-23T13:06:14Z",
+  "distanceKm": 37.92,
+  "maxSpeedKmh": 75.8
+ },
+ {
+  "id": "tr003646",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-36"
+  },
+  "start": "2025-12-23T09:32:36Z",
+  "stop": "2025-12-23T12:56:18Z",
+  "distanceKm": 28.68,
+  "maxSpeedKmh": 55.3
+ },
+ {
+  "id": "tr004327",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-07"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:00:04Z",
+  "distanceKm": 21.99,
+  "maxSpeedKmh": 54.8
+ },
+ {
+  "id": "tr004337",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:26:47Z",
+  "distanceKm": 24.18,
+  "maxSpeedKmh": 76.3
+ },
+ {
+  "id": "tr004350",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-27"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:03:06Z",
+  "distanceKm": 22.14,
+  "maxSpeedKmh": 76.2
+ },
+ {
+  "id": "tr004360",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-30"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T16:26:37Z",
+  "distanceKm": 30.18,
+  "maxSpeedKmh": 69.5
+ },
+ {
+  "id": "tr004366",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-35"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:00:50Z",
+  "distanceKm": 21.6,
+  "maxSpeedKmh": 63.6
+ },
+ {
+  "id": "tr004376",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T16:05:28Z",
+  "distanceKm": 27.21,
+  "maxSpeedKmh": 65.4
+ },
+ {
+  "id": "tr004382",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-03"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:42:28Z",
+  "distanceKm": 26.88,
+  "maxSpeedKmh": 70.4
+ },
+ {
+  "id": "tr004395",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-06"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:56:00Z",
+  "distanceKm": 26.46,
+  "maxSpeedKmh": 58.2
+ },
+ {
+  "id": "tr004403",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-47"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:40:09Z",
+  "distanceKm": 27.24,
+  "maxSpeedKmh": 62
+ },
+ {
+  "id": "tr004410",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:34:31Z",
+  "distanceKm": 24.79,
+  "maxSpeedKmh": 77.6
+ },
+ {
+  "id": "tr004421",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-13"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T16:55:46Z",
+  "distanceKm": 33.58,
+  "maxSpeedKmh": 58.4
+ },
+ {
+  "id": "tr004434",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:54:53Z",
+  "distanceKm": 24.6,
+  "maxSpeedKmh": 65.3
+ },
+ {
+  "id": "tr004441",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-23"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:39:35Z",
+  "distanceKm": 26.15,
+  "maxSpeedKmh": 75.9
+ },
+ {
+  "id": "tr004452",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-05"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:57:16Z",
+  "distanceKm": 25.49,
+  "maxSpeedKmh": 73
+ },
+ {
+  "id": "tr004458",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T14:46:00Z",
+  "distanceKm": 18.07,
+  "maxSpeedKmh": 71.3
+ },
+ {
+  "id": "tr004466",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-43"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:24:47Z",
+  "distanceKm": 23.45,
+  "maxSpeedKmh": 64.5
+ },
+ {
+  "id": "tr004472",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:27:48Z",
+  "distanceKm": 24.27,
+  "maxSpeedKmh": 73.2
+ },
+ {
+  "id": "tr004484",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T16:32:20Z",
+  "distanceKm": 31.24,
+  "maxSpeedKmh": 54.5
+ },
+ {
+  "id": "tr004497",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:15:22Z",
+  "distanceKm": 25.01,
+  "maxSpeedKmh": 73.1
+ },
+ {
+  "id": "tr004505",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T16:32:22Z",
+  "distanceKm": 32.03,
+  "maxSpeedKmh": 63.6
+ },
+ {
+  "id": "tr004518",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-16"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:20:52Z",
+  "distanceKm": 24.01,
+  "maxSpeedKmh": 71.6
+ },
+ {
+  "id": "tr004529",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:53:22Z",
+  "distanceKm": 24.73,
+  "maxSpeedKmh": 59.1
+ },
+ {
+  "id": "tr004535",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-04"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T17:25:03Z",
+  "distanceKm": 33.52,
+  "maxSpeedKmh": 63.9
+ },
+ {
+  "id": "tr004541",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T15:20:36Z",
+  "distanceKm": 23.31,
+  "maxSpeedKmh": 66.1
+ },
+ {
+  "id": "tr004550",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T16:00:43Z",
+  "distanceKm": 25.37,
+  "maxSpeedKmh": 64.4
+ },
+ {
+  "id": "tr004557",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-01"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T16:31:32Z",
+  "distanceKm": 29.96,
+  "maxSpeedKmh": 75.4
+ },
+ {
+  "id": "tr004563",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T17:08:54Z",
+  "distanceKm": 32.34,
+  "maxSpeedKmh": 68.9
+ },
+ {
+  "id": "tr004569",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-25"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T14:49:38Z",
+  "distanceKm": 19.3,
+  "maxSpeedKmh": 71.6
+ },
+ {
+  "id": "tr004578",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-28"
+  },
+  "start": "2025-12-26T13:15:00Z",
+  "stop": "2025-12-26T16:03:09Z",
+  "distanceKm": 30.52,
+  "maxSpeedKmh": 60.9
+ },
+ {
+  "id": "tr004446",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-46"
+  },
+  "start": "2025-12-26T13:40:00Z",
+  "stop": "2025-12-26T15:12:00Z",
+  "distanceKm": 14.19,
+  "maxSpeedKmh": 55.4
+ },
+ {
+  "id": "tr004459",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2025-12-26T14:56:00Z",
+  "stop": "2025-12-26T18:23:11Z",
+  "distanceKm": 29.64,
+  "maxSpeedKmh": 66
+ },
+ {
+  "id": "tr004570",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-25"
+  },
+  "start": "2025-12-26T14:59:38Z",
+  "stop": "2025-12-26T18:48:36Z",
+  "distanceKm": 30.54,
+  "maxSpeedKmh": 77.2
+ },
+ {
+  "id": "tr004328",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-07"
+  },
+  "start": "2025-12-26T15:10:04Z",
+  "stop": "2025-12-26T18:45:53Z",
+  "distanceKm": 25.96,
+  "maxSpeedKmh": 62.7
+ },
+ {
+  "id": "tr004367",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-35"
+  },
+  "start": "2025-12-26T15:10:50Z",
+  "stop": "2025-12-26T20:25:37Z",
+  "distanceKm": 36.81,
+  "maxSpeedKmh": 61.7
+ },
+ {
+  "id": "tr004498",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2025-12-26T15:25:22Z",
+  "stop": "2025-12-26T19:02:02Z",
+  "distanceKm": 29.28,
+  "maxSpeedKmh": 53.3
+ },
+ {
+  "id": "tr004519",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-16"
+  },
+  "start": "2025-12-26T15:30:52Z",
+  "stop": "2025-12-26T18:37:17Z",
+  "distanceKm": 27.21,
+  "maxSpeedKmh": 73.3
+ },
+ {
+  "id": "tr004338",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2025-12-26T15:36:47Z",
+  "stop": "2025-12-26T20:54:21Z",
+  "distanceKm": 37.3,
+  "maxSpeedKmh": 77.2
+ },
+ {
+  "id": "tr004473",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2025-12-26T15:37:48Z",
+  "stop": "2025-12-26T19:06:08Z",
+  "distanceKm": 28.92,
+  "maxSpeedKmh": 69.3
+ },
+ {
+  "id": "tr004351",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-27"
+  },
+  "start": "2025-12-26T15:42:00Z",
+  "stop": "2025-12-26T16:46:32Z",
+  "distanceKm": 9.9,
+  "maxSpeedKmh": 54.6
+ },
+ {
+  "id": "tr004411",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2025-12-26T15:44:31Z",
+  "stop": "2025-12-26T19:37:40Z",
+  "distanceKm": 27.64,
+  "maxSpeedKmh": 74.7
+ },
+ {
+  "id": "tr004352",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-27"
+  },
+  "start": "2025-12-26T16:56:32Z",
+  "stop": "2025-12-26T20:32:15Z",
+  "distanceKm": 30.1,
+  "maxSpeedKmh": 68.5
+ },
+ {
+  "id": "tr005003",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-13"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:31:29Z",
+  "distanceKm": 21.98,
+  "maxSpeedKmh": 68.7
+ },
+ {
+  "id": "tr005012",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:50:00Z",
+  "distanceKm": 25.34,
+  "maxSpeedKmh": 66.6
+ },
+ {
+  "id": "tr005021",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-41"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:34:28Z",
+  "distanceKm": 22.32,
+  "maxSpeedKmh": 64.4
+ },
+ {
+  "id": "tr005030",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:11:17Z",
+  "distanceKm": 30.63,
+  "maxSpeedKmh": 68
+ },
+ {
+  "id": "tr005038",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-07"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:58:56Z",
+  "distanceKm": 26.73,
+  "maxSpeedKmh": 59.6
+ },
+ {
+  "id": "tr005045",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:12:55Z",
+  "distanceKm": 26.02,
+  "maxSpeedKmh": 75.9
+ },
+ {
+  "id": "tr005050",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-31"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:56:40Z",
+  "distanceKm": 26.26,
+  "maxSpeedKmh": 77.3
+ },
+ {
+  "id": "tr005055",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:53:20Z",
+  "distanceKm": 24.87,
+  "maxSpeedKmh": 65
+ },
+ {
+  "id": "tr005064",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-25"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:32:59Z",
+  "distanceKm": 31.62,
+  "maxSpeedKmh": 67.9
+ },
+ {
+  "id": "tr005072",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-34"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:39:39Z",
+  "distanceKm": 24.71,
+  "maxSpeedKmh": 76.6
+ },
+ {
+  "id": "tr005080",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:23:58Z",
+  "distanceKm": 19.56,
+  "maxSpeedKmh": 61.6
+ },
+ {
+  "id": "tr005087",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:12:35Z",
+  "distanceKm": 26.77,
+  "maxSpeedKmh": 64.4
+ },
+ {
+  "id": "tr005094",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-27"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:31:22Z",
+  "distanceKm": 22.3,
+  "maxSpeedKmh": 76.6
+ },
+ {
+  "id": "tr005106",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-10"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:11:54Z",
+  "distanceKm": 25.96,
+  "maxSpeedKmh": 73.8
+ },
+ {
+  "id": "tr005110",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-45"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:42:17Z",
+  "distanceKm": 23.08,
+  "maxSpeedKmh": 54.7
+ },
+ {
+  "id": "tr005114",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T17:11:35Z",
+  "distanceKm": 33.2,
+  "maxSpeedKmh": 58.7
+ },
+ {
+  "id": "tr005120",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-01"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:05:11Z",
+  "distanceKm": 25.03,
+  "maxSpeedKmh": 69.5
+ },
+ {
+  "id": "tr005136",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:47:08Z",
+  "distanceKm": 24.42,
+  "maxSpeedKmh": 55.3
+ },
+ {
+  "id": "tr005142",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:45:44Z",
+  "distanceKm": 24.22,
+  "maxSpeedKmh": 70.7
+ },
+ {
+  "id": "tr005150",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-37"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:36:38Z",
+  "distanceKm": 31.49,
+  "maxSpeedKmh": 61.2
+ },
+ {
+  "id": "tr005158",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:50:03Z",
+  "distanceKm": 24.15,
+  "maxSpeedKmh": 68.2
+ },
+ {
+  "id": "tr005166",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "D-21"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:58:56Z",
+  "distanceKm": 25.79,
+  "maxSpeedKmh": 55
+ },
+ {
+  "id": "tr005172",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-30"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:09:18Z",
+  "distanceKm": 25.5,
+  "maxSpeedKmh": 77.6
+ },
+ {
+  "id": "tr005177",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-23"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:48:08Z",
+  "distanceKm": 34.19,
+  "maxSpeedKmh": 66.8
+ },
+ {
+  "id": "tr005185",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-24"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T17:06:30Z",
+  "distanceKm": 32.18,
+  "maxSpeedKmh": 76.4
+ },
+ {
+  "id": "tr005190",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-05"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:07:22Z",
+  "distanceKm": 24.35,
+  "maxSpeedKmh": 68.8
+ },
+ {
+  "id": "tr005196",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T15:17:02Z",
+  "distanceKm": 18.92,
+  "maxSpeedKmh": 74.2
+ },
+ {
+  "id": "tr005204",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:33:19Z",
+  "distanceKm": 30.32,
+  "maxSpeedKmh": 61
+ },
+ {
+  "id": "tr005212",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2025-12-29T14:15:00Z",
+  "stop": "2025-12-29T16:35:10Z",
+  "distanceKm": 30.87,
+  "maxSpeedKmh": 65.5
+ },
+ {
+  "id": "tr005127",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-36"
+  },
+  "start": "2025-12-29T14:40:00Z",
+  "stop": "2025-12-29T16:29:31Z",
+  "distanceKm": 24.1,
+  "maxSpeedKmh": 66.1
+ },
+ {
+  "id": "tr005197",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2025-12-29T15:27:02Z",
+  "stop": "2025-12-29T17:56:48Z",
+  "distanceKm": 29.21,
+  "maxSpeedKmh": 55.5
+ },
+ {
+  "id": "tr005081",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2025-12-29T15:33:58Z",
+  "stop": "2025-12-29T18:17:05Z",
+  "distanceKm": 29.6,
+  "maxSpeedKmh": 56.8
+ },
+ {
+  "id": "tr005095",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-27"
+  },
+  "start": "2025-12-29T15:41:22Z",
+  "stop": "2025-12-29T19:19:17Z",
+  "distanceKm": 37.2,
+  "maxSpeedKmh": 68.1
+ },
+ {
+  "id": "tr005004",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-13"
+  },
+  "start": "2025-12-29T15:41:29Z",
+  "stop": "2025-12-29T18:15:18Z",
+  "distanceKm": 29.58,
+  "maxSpeedKmh": 59.7
+ },
+ {
+  "id": "tr005022",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-41"
+  },
+  "start": "2025-12-29T15:44:28Z",
+  "stop": "2025-12-29T18:24:05Z",
+  "distanceKm": 26.48,
+  "maxSpeedKmh": 76.1
+ },
+ {
+  "id": "tr005073",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-34"
+  },
+  "start": "2025-12-29T15:49:39Z",
+  "stop": "2025-12-29T18:17:46Z",
+  "distanceKm": 29.39,
+  "maxSpeedKmh": 75.9
+ },
+ {
+  "id": "tr005143",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2025-12-29T15:55:44Z",
+  "stop": "2025-12-29T18:21:29Z",
+  "distanceKm": 28.62,
+  "maxSpeedKmh": 72.7
+ },
+ {
+  "id": "tr005013",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2025-12-29T16:00:00Z",
+  "stop": "2025-12-29T19:40:47Z",
+  "distanceKm": 36.09,
+  "maxSpeedKmh": 69.6
+ },
+ {
+  "id": "tr005159",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2025-12-29T16:00:03Z",
+  "stop": "2025-12-29T18:18:34Z",
+  "distanceKm": 26.7,
+  "maxSpeedKmh": 72
+ },
+ {
+  "id": "tr005056",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2025-12-29T16:03:20Z",
+  "stop": "2025-12-29T18:43:40Z",
+  "distanceKm": 27.22,
+  "maxSpeedKmh": 65.7
+ },
+ {
+  "id": "tr006160",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:45:23Z",
+  "distanceKm": 32.02,
+  "maxSpeedKmh": 64.1
+ },
+ {
+  "id": "tr006173",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:57:18Z",
+  "distanceKm": 24.42,
+  "maxSpeedKmh": 76.6
+ },
+ {
+  "id": "tr006183",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:06:09Z",
+  "distanceKm": 26.68,
+  "maxSpeedKmh": 75.6
+ },
+ {
+  "id": "tr006193",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:22:42Z",
+  "distanceKm": 25.84,
+  "maxSpeedKmh": 66
+ },
+ {
+  "id": "tr006199",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-41"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:06:27Z",
+  "distanceKm": 27.54,
+  "maxSpeedKmh": 52.3
+ },
+ {
+  "id": "tr006208",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-34"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T14:08:09Z",
+  "distanceKm": 31.55,
+  "maxSpeedKmh": 72
+ },
+ {
+  "id": "tr006215",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-27"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:34:04Z",
+  "distanceKm": 22.25,
+  "maxSpeedKmh": 67.5
+ },
+ {
+  "id": "tr006226",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:55:11Z",
+  "distanceKm": 24.78,
+  "maxSpeedKmh": 71.4
+ },
+ {
+  "id": "tr006236",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-21"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:35:43Z",
+  "distanceKm": 22.19,
+  "maxSpeedKmh": 59.2
+ },
+ {
+  "id": "tr006255",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-36"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:17:29Z",
+  "distanceKm": 25.62,
+  "maxSpeedKmh": 59.8
+ },
+ {
+  "id": "tr006261",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-05"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:39:27Z",
+  "distanceKm": 29.69,
+  "maxSpeedKmh": 72.4
+ },
+ {
+  "id": "tr006278",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-01"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:36:01Z",
+  "distanceKm": 21.47,
+  "maxSpeedKmh": 64.1
+ },
+ {
+  "id": "tr006288",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-10"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:44:53Z",
+  "distanceKm": 24.83,
+  "maxSpeedKmh": 56.7
+ },
+ {
+  "id": "tr006298",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-45"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T14:00:45Z",
+  "distanceKm": 33.41,
+  "maxSpeedKmh": 71.2
+ },
+ {
+  "id": "tr006308",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-04"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T14:17:08Z",
+  "distanceKm": 34.2,
+  "maxSpeedKmh": 71
+ },
+ {
+  "id": "tr006316",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:13:17Z",
+  "distanceKm": 25.4,
+  "maxSpeedKmh": 67.1
+ },
+ {
+  "id": "tr006323",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-28"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:54:29Z",
+  "distanceKm": 24.58,
+  "maxSpeedKmh": 74.9
+ },
+ {
+  "id": "tr006332",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-03"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:01:43Z",
+  "distanceKm": 26.88,
+  "maxSpeedKmh": 55.8
+ },
+ {
+  "id": "tr006341",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-14"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:17:44Z",
+  "distanceKm": 30.16,
+  "maxSpeedKmh": 77.9
+ },
+ {
+  "id": "tr006347",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-35"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:22:24Z",
+  "distanceKm": 19.98,
+  "maxSpeedKmh": 64.4
+ },
+ {
+  "id": "tr006359",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-46"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:22:42Z",
+  "distanceKm": 18.97,
+  "maxSpeedKmh": 63.6
+ },
+ {
+  "id": "tr006370",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "D-23"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:11:05Z",
+  "distanceKm": 25.06,
+  "maxSpeedKmh": 75.5
+ },
+ {
+  "id": "tr006378",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:42:03Z",
+  "distanceKm": 30.61,
+  "maxSpeedKmh": 64.1
+ },
+ {
+  "id": "tr006386",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-47"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:53:14Z",
+  "distanceKm": 24.62,
+  "maxSpeedKmh": 56.2
+ },
+ {
+  "id": "tr006393",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:17:09Z",
+  "distanceKm": 25.47,
+  "maxSpeedKmh": 67.2
+ },
+ {
+  "id": "tr006399",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-11"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:42:44Z",
+  "distanceKm": 30.79,
+  "maxSpeedKmh": 62.3
+ },
+ {
+  "id": "tr006410",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:52:48Z",
+  "distanceKm": 23.22,
+  "maxSpeedKmh": 61.2
+ },
+ {
+  "id": "tr006421",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-07"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T12:47:51Z",
+  "distanceKm": 22.27,
+  "maxSpeedKmh": 76.2
+ },
+ {
+  "id": "tr006430",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-05T11:15:00Z",
+  "stop": "2026-01-05T13:10:28Z",
+  "distanceKm": 24.69,
+  "maxSpeedKmh": 55.3
+ },
+ {
+  "id": "tr006268",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2026-01-05T11:40:00Z",
+  "stop": "2026-01-05T13:35:41Z",
+  "distanceKm": 23.78,
+  "maxSpeedKmh": 58.9
+ },
+ {
+  "id": "tr006348",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-35"
+  },
+  "start": "2026-01-05T12:32:24Z",
+  "stop": "2026-01-05T15:23:14Z",
+  "distanceKm": 30.43,
+  "maxSpeedKmh": 60.3
+ },
+ {
+  "id": "tr006360",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-46"
+  },
+  "start": "2026-01-05T12:32:42Z",
+  "stop": "2026-01-05T15:16:06Z",
+  "distanceKm": 28.94,
+  "maxSpeedKmh": 74.2
+ },
+ {
+  "id": "tr006216",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-27"
+  },
+  "start": "2026-01-05T12:44:04Z",
+  "stop": "2026-01-05T16:27:32Z",
+  "distanceKm": 37.87,
+  "maxSpeedKmh": 72.7
+ },
+ {
+  "id": "tr006237",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-21"
+  },
+  "start": "2026-01-05T12:45:43Z",
+  "stop": "2026-01-05T15:38:12Z",
+  "distanceKm": 26.45,
+  "maxSpeedKmh": 53.7
+ },
+ {
+  "id": "tr006279",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-01"
+  },
+  "start": "2026-01-05T12:46:01Z",
+  "stop": "2026-01-05T15:28:16Z",
+  "distanceKm": 29.88,
+  "maxSpeedKmh": 65.2
+ },
+ {
+  "id": "tr006289",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-10"
+  },
+  "start": "2026-01-05T12:54:53Z",
+  "stop": "2026-01-05T15:37:25Z",
+  "distanceKm": 29.08,
+  "maxSpeedKmh": 63.8
+ },
+ {
+  "id": "tr006411",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2026-01-05T13:02:48Z",
+  "stop": "2026-01-05T15:36:54Z",
+  "distanceKm": 28.93,
+  "maxSpeedKmh": 67.1
+ },
+ {
+  "id": "tr006324",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-28"
+  },
+  "start": "2026-01-05T13:04:29Z",
+  "stop": "2026-01-05T15:28:48Z",
+  "distanceKm": 26,
+  "maxSpeedKmh": 54.4
+ },
+ {
+  "id": "tr006227",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-05T13:05:11Z",
+  "stop": "2026-01-05T17:05:09Z",
+  "distanceKm": 36.64,
+  "maxSpeedKmh": 74.4
+ },
+ {
+  "id": "tr006174",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2026-01-05T13:07:18Z",
+  "stop": "2026-01-05T15:58:41Z",
+  "distanceKm": 27.82,
+  "maxSpeedKmh": 69
+ },
+ {
+  "id": "tr007602",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-21"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:34:35Z",
+  "distanceKm": 22.18,
+  "maxSpeedKmh": 77
+ },
+ {
+  "id": "tr007630",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:48:56Z",
+  "distanceKm": 24.52,
+  "maxSpeedKmh": 72.8
+ },
+ {
+  "id": "tr007644",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:02:13Z",
+  "distanceKm": 26.6,
+  "maxSpeedKmh": 61.9
+ },
+ {
+  "id": "tr007650",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:19:38Z",
+  "distanceKm": 18.98,
+  "maxSpeedKmh": 71.4
+ },
+ {
+  "id": "tr007660",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:44:58Z",
+  "distanceKm": 31.3,
+  "maxSpeedKmh": 71.6
+ },
+ {
+  "id": "tr007671",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:37:47Z",
+  "distanceKm": 30.44,
+  "maxSpeedKmh": 58.3
+ },
+ {
+  "id": "tr007680",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-11"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:33:06Z",
+  "distanceKm": 22.88,
+  "maxSpeedKmh": 66.4
+ },
+ {
+  "id": "tr007692",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:11:40Z",
+  "distanceKm": 25.16,
+  "maxSpeedKmh": 75.5
+ },
+ {
+  "id": "tr007700",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:58:40Z",
+  "distanceKm": 27.09,
+  "maxSpeedKmh": 64.8
+ },
+ {
+  "id": "tr007711",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:54:55Z",
+  "distanceKm": 25.16,
+  "maxSpeedKmh": 61.7
+ },
+ {
+  "id": "tr007724",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:09:37Z",
+  "distanceKm": 24.43,
+  "maxSpeedKmh": 76
+ },
+ {
+  "id": "tr007744",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-03"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:59:12Z",
+  "distanceKm": 27.22,
+  "maxSpeedKmh": 65.7
+ },
+ {
+  "id": "tr007753",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:50:50Z",
+  "distanceKm": 23.52,
+  "maxSpeedKmh": 62.8
+ },
+ {
+  "id": "tr007766",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-15"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:09:40Z",
+  "distanceKm": 24.19,
+  "maxSpeedKmh": 75.3
+ },
+ {
+  "id": "tr007773",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-10"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:08:04Z",
+  "distanceKm": 24.24,
+  "maxSpeedKmh": 76.3
+ },
+ {
+  "id": "tr007780",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-37"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:50:40Z",
+  "distanceKm": 34.6,
+  "maxSpeedKmh": 71.9
+ },
+ {
+  "id": "tr007790",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-34"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:13:47Z",
+  "distanceKm": 25,
+  "maxSpeedKmh": 68.2
+ },
+ {
+  "id": "tr007799",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-25"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:37:02Z",
+  "distanceKm": 30.34,
+  "maxSpeedKmh": 59.9
+ },
+ {
+  "id": "tr007806",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T11:08:39Z",
+  "distanceKm": 31.98,
+  "maxSpeedKmh": 74.4
+ },
+ {
+  "id": "tr007816",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-45"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:26:20Z",
+  "distanceKm": 19.03,
+  "maxSpeedKmh": 62.3
+ },
+ {
+  "id": "tr007829",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:48:13Z",
+  "distanceKm": 23.55,
+  "maxSpeedKmh": 65.2
+ },
+ {
+  "id": "tr007840",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "D-05"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:46:00Z",
+  "distanceKm": 22.73,
+  "maxSpeedKmh": 62.4
+ },
+ {
+  "id": "tr007848",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-36"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T11:17:37Z",
+  "distanceKm": 33.35,
+  "maxSpeedKmh": 68.8
+ },
+ {
+  "id": "tr007857",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-43"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:36:13Z",
+  "distanceKm": 30.85,
+  "maxSpeedKmh": 64.6
+ },
+ {
+  "id": "tr007866",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-30"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:14:13Z",
+  "distanceKm": 29.24,
+  "maxSpeedKmh": 72.4
+ },
+ {
+  "id": "tr007872",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-13"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:32:01Z",
+  "distanceKm": 21.85,
+  "maxSpeedKmh": 74
+ },
+ {
+  "id": "tr007886",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:44:03Z",
+  "distanceKm": 24.76,
+  "maxSpeedKmh": 53.6
+ },
+ {
+  "id": "tr007897",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-35"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T09:51:34Z",
+  "distanceKm": 23.46,
+  "maxSpeedKmh": 74.7
+ },
+ {
+  "id": "tr007904",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-06"
+  },
+  "start": "2026-01-14T08:15:00Z",
+  "stop": "2026-01-14T10:21:41Z",
+  "distanceKm": 26.9,
+  "maxSpeedKmh": 56.4
+ },
+ {
+  "id": "tr007732",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2026-01-14T08:40:00Z",
+  "stop": "2026-01-14T10:35:36Z",
+  "distanceKm": 23.95,
+  "maxSpeedKmh": 73.1
+ },
+ {
+  "id": "tr007651",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-14T09:29:38Z",
+  "stop": "2026-01-14T12:05:26Z",
+  "distanceKm": 29.88,
+  "maxSpeedKmh": 62
+ },
+ {
+  "id": "tr007817",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-45"
+  },
+  "start": "2026-01-14T09:36:20Z",
+  "stop": "2026-01-14T12:14:38Z",
+  "distanceKm": 31.26,
+  "maxSpeedKmh": 75.4
+ },
+ {
+  "id": "tr007873",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-13"
+  },
+  "start": "2026-01-14T09:42:01Z",
+  "stop": "2026-01-14T12:17:00Z",
+  "distanceKm": 28.98,
+  "maxSpeedKmh": 72
+ },
+ {
+  "id": "tr007681",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-11"
+  },
+  "start": "2026-01-14T09:43:06Z",
+  "stop": "2026-01-14T12:31:20Z",
+  "distanceKm": 26.3,
+  "maxSpeedKmh": 77.8
+ },
+ {
+  "id": "tr007603",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-21"
+  },
+  "start": "2026-01-14T09:44:35Z",
+  "stop": "2026-01-14T13:32:58Z",
+  "distanceKm": 36.79,
+  "maxSpeedKmh": 76.1
+ },
+ {
+  "id": "tr007887",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-14T09:54:03Z",
+  "stop": "2026-01-14T12:29:26Z",
+  "distanceKm": 29.89,
+  "maxSpeedKmh": 56.8
+ },
+ {
+  "id": "tr007830",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2026-01-14T09:58:13Z",
+  "stop": "2026-01-14T12:21:22Z",
+  "distanceKm": 26.96,
+  "maxSpeedKmh": 56.5
+ },
+ {
+  "id": "tr007631",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2026-01-14T09:58:56Z",
+  "stop": "2026-01-14T12:46:35Z",
+  "distanceKm": 27.91,
+  "maxSpeedKmh": 68.8
+ },
+ {
+  "id": "tr007754",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2026-01-14T10:00:50Z",
+  "stop": "2026-01-14T12:33:43Z",
+  "distanceKm": 28.55,
+  "maxSpeedKmh": 65.6
+ },
+ {
+  "id": "tr007712",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2026-01-14T10:04:55Z",
+  "stop": "2026-01-14T13:57:24Z",
+  "distanceKm": 36.28,
+  "maxSpeedKmh": 65.4
+ },
+ {
+  "id": "tr008088",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-37"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:26:07Z",
+  "distanceKm": 21.92,
+  "maxSpeedKmh": 58
+ },
+ {
+  "id": "tr008105",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-44"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T08:51:00Z",
+  "distanceKm": 26.27,
+  "maxSpeedKmh": 73.1
+ },
+ {
+  "id": "tr008115",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T08:10:21Z",
+  "distanceKm": 26.77,
+  "maxSpeedKmh": 72.6
+ },
+ {
+  "id": "tr008124",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-10"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:58:13Z",
+  "distanceKm": 24.03,
+  "maxSpeedKmh": 72.5
+ },
+ {
+  "id": "tr008139",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-17"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:31:08Z",
+  "distanceKm": 22.16,
+  "maxSpeedKmh": 60.5
+ },
+ {
+  "id": "tr008156",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-36"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T08:37:54Z",
+  "distanceKm": 26.1,
+  "maxSpeedKmh": 63.3
+ },
+ {
+  "id": "tr008165",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-21"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T09:29:21Z",
+  "distanceKm": 30.98,
+  "maxSpeedKmh": 61.6
+ },
+ {
+  "id": "tr008193",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-34"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T06:37:00Z",
+  "distanceKm": 12.09,
+  "maxSpeedKmh": 66.8
+ },
+ {
+  "id": "tr008200",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-35"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T08:21:24Z",
+  "distanceKm": 26.33,
+  "maxSpeedKmh": 56.4
+ },
+ {
+  "id": "tr008211",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:58:14Z",
+  "distanceKm": 24.82,
+  "maxSpeedKmh": 55.2
+ },
+ {
+  "id": "tr008227",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:07:55Z",
+  "distanceKm": 19.86,
+  "maxSpeedKmh": 76.3
+ },
+ {
+  "id": "tr008249",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-16"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:59:13Z",
+  "distanceKm": 24.6,
+  "maxSpeedKmh": 71
+ },
+ {
+  "id": "tr008263",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-15"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T09:45:08Z",
+  "distanceKm": 34.61,
+  "maxSpeedKmh": 60.5
+ },
+ {
+  "id": "tr008275",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-28"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T08:28:28Z",
+  "distanceKm": 30.5,
+  "maxSpeedKmh": 60.8
+ },
+ {
+  "id": "tr008285",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-01"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:55:07Z",
+  "distanceKm": 24.25,
+  "maxSpeedKmh": 70.5
+ },
+ {
+  "id": "tr008294",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-06"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T09:13:08Z",
+  "distanceKm": 30.92,
+  "maxSpeedKmh": 64.5
+ },
+ {
+  "id": "tr008305",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:16:00Z",
+  "distanceKm": 15.17,
+  "maxSpeedKmh": 60.3
+ },
+ {
+  "id": "tr008314",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-03"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:47:21Z",
+  "distanceKm": 22.58,
+  "maxSpeedKmh": 59.5
+ },
+ {
+  "id": "tr008337",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T09:12:27Z",
+  "distanceKm": 31.17,
+  "maxSpeedKmh": 74.5
+ },
+ {
+  "id": "tr008351",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T08:29:48Z",
+  "distanceKm": 24.81,
+  "maxSpeedKmh": 62.2
+ },
+ {
+  "id": "tr008370",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T06:31:00Z",
+  "distanceKm": 10.83,
+  "maxSpeedKmh": 60.6
+ },
+ {
+  "id": "tr008380",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:44:50Z",
+  "distanceKm": 24.39,
+  "maxSpeedKmh": 73.2
+ },
+ {
+  "id": "tr008402",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-25"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:33:40Z",
+  "distanceKm": 21.62,
+  "maxSpeedKmh": 62.1
+ },
+ {
+  "id": "tr008419",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T07:10:08Z",
+  "distanceKm": 18.13,
+  "maxSpeedKmh": 63.5
+ },
+ {
+  "id": "tr008445",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-31"
+  },
+  "start": "2026-01-15T05:15:00Z",
+  "stop": "2026-01-15T09:20:37Z",
+  "distanceKm": 31.04,
+  "maxSpeedKmh": 74.7
+ },
+ {
+  "id": "tr008329",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-04"
+  },
+  "start": "2026-01-15T05:40:00Z",
+  "stop": "2026-01-15T08:56:14Z",
+  "distanceKm": 24.58,
+  "maxSpeedKmh": 55.3
+ },
+ {
+  "id": "tr008456",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2026-01-15T05:40:00Z",
+  "stop": "2026-01-15T08:53:22Z",
+  "distanceKm": 24.32,
+  "maxSpeedKmh": 65.6
+ },
+ {
+  "id": "tr008420",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-15T07:20:08Z",
+  "stop": "2026-01-15T08:40:53Z",
+  "distanceKm": 11.81,
+  "maxSpeedKmh": 73.7
+ },
+ {
+  "id": "tr008089",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-37"
+  },
+  "start": "2026-01-15T07:36:07Z",
+  "stop": "2026-01-15T14:05:32Z",
+  "distanceKm": 36.56,
+  "maxSpeedKmh": 72.2
+ },
+ {
+  "id": "tr008140",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-17"
+  },
+  "start": "2026-01-15T07:41:08Z",
+  "stop": "2026-01-15T12:13:02Z",
+  "distanceKm": 29.89,
+  "maxSpeedKmh": 72.1
+ },
+ {
+  "id": "tr008403",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-25"
+  },
+  "start": "2026-01-15T07:43:40Z",
+  "stop": "2026-01-15T12:24:42Z",
+  "distanceKm": 30.44,
+  "maxSpeedKmh": 55.6
+ },
+ {
+  "id": "tr008381",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-15T07:54:50Z",
+  "stop": "2026-01-15T12:43:34Z",
+  "distanceKm": 27.35,
+  "maxSpeedKmh": 72.3
+ },
+ {
+  "id": "tr008315",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-03"
+  },
+  "start": "2026-01-15T07:57:21Z",
+  "stop": "2026-01-15T12:41:03Z",
+  "distanceKm": 26.18,
+  "maxSpeedKmh": 62.8
+ },
+ {
+  "id": "tr008125",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-10"
+  },
+  "start": "2026-01-15T08:08:13Z",
+  "stop": "2026-01-15T12:08:55Z",
+  "distanceKm": 26.55,
+  "maxSpeedKmh": 66.6
+ },
+ {
+  "id": "tr008212",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2026-01-15T08:08:14Z",
+  "stop": "2026-01-15T12:12:35Z",
+  "distanceKm": 28.27,
+  "maxSpeedKmh": 63.2
+ },
+ {
+  "id": "tr008250",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-16"
+  },
+  "start": "2026-01-15T08:09:13Z",
+  "stop": "2026-01-15T12:24:40Z",
+  "distanceKm": 29.42,
+  "maxSpeedKmh": 59.5
+ },
+ {
+  "id": "tr008228",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-15T08:11:00Z",
+  "stop": "2026-01-15T09:37:27Z",
+  "distanceKm": 10.87,
+  "maxSpeedKmh": 65.9
+ },
+ {
+  "id": "tr008352",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2026-01-15T08:39:48Z",
+  "stop": "2026-01-15T15:13:36Z",
+  "distanceKm": 35.69,
+  "maxSpeedKmh": 71.6
+ },
+ {
+  "id": "tr008421",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-15T08:50:53Z",
+  "stop": "2026-01-15T13:13:53Z",
+  "distanceKm": 28.48,
+  "maxSpeedKmh": 66.5
+ },
+ {
+  "id": "tr008229",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-15T09:47:27Z",
+  "stop": "2026-01-15T11:27:12Z",
+  "distanceKm": 15.31,
+  "maxSpeedKmh": 62.9
+ },
+ {
+  "id": "tr008230",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-15T11:37:12Z",
+  "stop": "2026-01-15T14:43:35Z",
+  "distanceKm": 24,
+  "maxSpeedKmh": 61.5
+ },
+ {
+  "id": "tr008382",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-15T12:53:34Z",
+  "stop": "2026-01-15T17:54:46Z",
+  "distanceKm": 31.72,
+  "maxSpeedKmh": 70.5
+ },
+ {
+  "id": "tr008422",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-15T13:23:53Z",
+  "stop": "2026-01-15T18:30:41Z",
+  "distanceKm": 34.26,
+  "maxSpeedKmh": 59.6
+ },
+ {
+  "id": "tr008643",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:33:30Z",
+  "distanceKm": 22.12,
+  "maxSpeedKmh": 66
+ },
+ {
+  "id": "tr008664",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:55:14Z",
+  "distanceKm": 24.61,
+  "maxSpeedKmh": 55.8
+ },
+ {
+  "id": "tr008676",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:35:02Z",
+  "distanceKm": 22.18,
+  "maxSpeedKmh": 66.5
+ },
+ {
+  "id": "tr008687",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-04"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:54:20Z",
+  "distanceKm": 24.42,
+  "maxSpeedKmh": 74.3
+ },
+ {
+  "id": "tr008698",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-15"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:00:11Z",
+  "distanceKm": 26.79,
+  "maxSpeedKmh": 75.4
+ },
+ {
+  "id": "tr008705",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:50:45Z",
+  "distanceKm": 24.48,
+  "maxSpeedKmh": 63.6
+ },
+ {
+  "id": "tr008717",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-17"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:01:59Z",
+  "distanceKm": 26.32,
+  "maxSpeedKmh": 62.3
+ },
+ {
+  "id": "tr008725",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-41"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:36:47Z",
+  "distanceKm": 22.27,
+  "maxSpeedKmh": 56.2
+ },
+ {
+  "id": "tr008737",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-46"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:20:10Z",
+  "distanceKm": 18.63,
+  "maxSpeedKmh": 76.5
+ },
+ {
+  "id": "tr008747",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:31:22Z",
+  "distanceKm": 30.5,
+  "maxSpeedKmh": 72.3
+ },
+ {
+  "id": "tr008756",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:41:06Z",
+  "distanceKm": 24.75,
+  "maxSpeedKmh": 71.4
+ },
+ {
+  "id": "tr008768",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:47:18Z",
+  "distanceKm": 22.23,
+  "maxSpeedKmh": 57.7
+ },
+ {
+  "id": "tr008792",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-11"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:59:53Z",
+  "distanceKm": 26.55,
+  "maxSpeedKmh": 55.5
+ },
+ {
+  "id": "tr008798",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-14"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:12:52Z",
+  "distanceKm": 29.71,
+  "maxSpeedKmh": 64.9
+ },
+ {
+  "id": "tr008805",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-03"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:26:05Z",
+  "distanceKm": 18.99,
+  "maxSpeedKmh": 53.1
+ },
+ {
+  "id": "tr008821",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:36:18Z",
+  "distanceKm": 30.37,
+  "maxSpeedKmh": 69.8
+ },
+ {
+  "id": "tr008830",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-35"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:51:35Z",
+  "distanceKm": 23.65,
+  "maxSpeedKmh": 66.4
+ },
+ {
+  "id": "tr008839",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-43"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:41:56Z",
+  "distanceKm": 30.8,
+  "maxSpeedKmh": 62.4
+ },
+ {
+  "id": "tr008848",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:15:58Z",
+  "distanceKm": 26.42,
+  "maxSpeedKmh": 65.5
+ },
+ {
+  "id": "tr008860",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "D-01"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:36:13Z",
+  "distanceKm": 30.12,
+  "maxSpeedKmh": 74.7
+ },
+ {
+  "id": "tr008868",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:21:35Z",
+  "distanceKm": 26.19,
+  "maxSpeedKmh": 58
+ },
+ {
+  "id": "tr008875",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-34"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:12:47Z",
+  "distanceKm": 24.67,
+  "maxSpeedKmh": 52.9
+ },
+ {
+  "id": "tr008886",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-25"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:11:36Z",
+  "distanceKm": 24.92,
+  "maxSpeedKmh": 72.7
+ },
+ {
+  "id": "tr008896",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-06"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:14:09Z",
+  "distanceKm": 25.46,
+  "maxSpeedKmh": 57.2
+ },
+ {
+  "id": "tr008903",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-05"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T10:55:37Z",
+  "distanceKm": 34.42,
+  "maxSpeedKmh": 74.2
+ },
+ {
+  "id": "tr008912",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2026-01-16T08:15:00Z",
+  "stop": "2026-01-16T09:50:15Z",
+  "distanceKm": 24.3,
+  "maxSpeedKmh": 59.2
+ },
+ {
+  "id": "tr008782",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-16"
+  },
+  "start": "2026-01-16T08:40:00Z",
+  "stop": "2026-01-16T10:35:09Z",
+  "distanceKm": 24.59,
+  "maxSpeedKmh": 76.9
+ },
+ {
+  "id": "tr008738",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-46"
+  },
+  "start": "2026-01-16T09:30:10Z",
+  "stop": "2026-01-16T12:30:44Z",
+  "distanceKm": 33.61,
+  "maxSpeedKmh": 53.1
+ },
+ {
+  "id": "tr008806",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-03"
+  },
+  "start": "2026-01-16T09:36:05Z",
+  "stop": "2026-01-16T11:28:57Z",
+  "distanceKm": 23.98,
+  "maxSpeedKmh": 59.7
+ },
+ {
+  "id": "tr008644",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2026-01-16T09:43:30Z",
+  "stop": "2026-01-16T12:27:51Z",
+  "distanceKm": 31.02,
+  "maxSpeedKmh": 75.7
+ },
+ {
+  "id": "tr008677",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-16T09:45:02Z",
+  "stop": "2026-01-16T12:21:43Z",
+  "distanceKm": 28.52,
+  "maxSpeedKmh": 65.2
+ },
+ {
+  "id": "tr008726",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-41"
+  },
+  "start": "2026-01-16T09:46:47Z",
+  "stop": "2026-01-16T13:35:12Z",
+  "distanceKm": 36.38,
+  "maxSpeedKmh": 56.4
+ },
+ {
+  "id": "tr008757",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2026-01-16T09:51:06Z",
+  "stop": "2026-01-16T12:43:49Z",
+  "distanceKm": 33.1,
+  "maxSpeedKmh": 59.2
+ },
+ {
+  "id": "tr008769",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-16T09:57:18Z",
+  "stop": "2026-01-16T12:40:50Z",
+  "distanceKm": 27.19,
+  "maxSpeedKmh": 76.7
+ },
+ {
+  "id": "tr008913",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2026-01-16T10:00:15Z",
+  "stop": "2026-01-16T12:37:17Z",
+  "distanceKm": 30.12,
+  "maxSpeedKmh": 59
+ },
+ {
+  "id": "tr008706",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-16T10:00:45Z",
+  "stop": "2026-01-16T12:41:15Z",
+  "distanceKm": 29.91,
+  "maxSpeedKmh": 52.3
+ },
+ {
+  "id": "tr008688",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-04"
+  },
+  "start": "2026-01-16T10:04:20Z",
+  "stop": "2026-01-16T12:36:57Z",
+  "distanceKm": 29.33,
+  "maxSpeedKmh": 60.8
+ },
+ {
+  "id": "tr008665",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2026-01-16T10:05:14Z",
+  "stop": "2026-01-16T12:31:24Z",
+  "distanceKm": 26.73,
+  "maxSpeedKmh": 63.3
+ },
+ {
+  "id": "tr008876",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-34"
+  },
+  "start": "2026-01-16T10:22:47Z",
+  "stop": "2026-01-16T14:02:57Z",
+  "distanceKm": 36.2,
+  "maxSpeedKmh": 77
+ },
+ {
+  "id": "tr008849",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2026-01-16T10:25:58Z",
+  "stop": "2026-01-16T13:21:05Z",
+  "distanceKm": 26.76,
+  "maxSpeedKmh": 63
+ },
+ {
+  "id": "tr009597",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T13:39:23Z",
+  "distanceKm": 22.43,
+  "maxSpeedKmh": 52.4
+ },
+ {
+  "id": "tr009610",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T13:57:00Z",
+  "distanceKm": 23.54,
+  "maxSpeedKmh": 64.8
+ },
+ {
+  "id": "tr009621",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-35"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:13:11Z",
+  "distanceKm": 26.24,
+  "maxSpeedKmh": 58.3
+ },
+ {
+  "id": "tr009637",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:12:50Z",
+  "distanceKm": 26.19,
+  "maxSpeedKmh": 59
+ },
+ {
+  "id": "tr009642",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:04:20Z",
+  "distanceKm": 25.04,
+  "maxSpeedKmh": 73.6
+ },
+ {
+  "id": "tr009653",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-47"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:06:40Z",
+  "distanceKm": 26.44,
+  "maxSpeedKmh": 72.9
+ },
+ {
+  "id": "tr009660",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-46"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T13:50:01Z",
+  "distanceKm": 24.85,
+  "maxSpeedKmh": 59.2
+ },
+ {
+  "id": "tr009668",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-23"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T13:39:46Z",
+  "distanceKm": 21.98,
+  "maxSpeedKmh": 54.5
+ },
+ {
+  "id": "tr009677",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:02:13Z",
+  "distanceKm": 24.81,
+  "maxSpeedKmh": 73.6
+ },
+ {
+  "id": "tr009688",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "D-21"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:43:09Z",
+  "distanceKm": 30.21,
+  "maxSpeedKmh": 69.7
+ },
+ {
+  "id": "tr009699",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:46:15Z",
+  "distanceKm": 31.27,
+  "maxSpeedKmh": 66.4
+ },
+ {
+  "id": "tr009705",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:58:07Z",
+  "distanceKm": 34.17,
+  "maxSpeedKmh": 66.3
+ },
+ {
+  "id": "tr009717",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T13:59:32Z",
+  "distanceKm": 23.91,
+  "maxSpeedKmh": 53.1
+ },
+ {
+  "id": "tr009728",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-37"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T13:39:17Z",
+  "distanceKm": 21.8,
+  "maxSpeedKmh": 66.3
+ },
+ {
+  "id": "tr009737",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:22:18Z",
+  "distanceKm": 25.8,
+  "maxSpeedKmh": 73.4
+ },
+ {
+  "id": "tr009744",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-43"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:23:10Z",
+  "distanceKm": 24.85,
+  "maxSpeedKmh": 69.5
+ },
+ {
+  "id": "tr009753",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T13:26:53Z",
+  "distanceKm": 18.9,
+  "maxSpeedKmh": 75.1
+ },
+ {
+  "id": "tr009761",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-29"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:22:03Z",
+  "distanceKm": 23.91,
+  "maxSpeedKmh": 59
+ },
+ {
+  "id": "tr009768",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-10"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:26:07Z",
+  "distanceKm": 25.81,
+  "maxSpeedKmh": 52.3
+ },
+ {
+  "id": "tr009773",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:04:12Z",
+  "distanceKm": 23.6,
+  "maxSpeedKmh": 65.7
+ },
+ {
+  "id": "tr009784",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:25:00Z",
+  "distanceKm": 24.56,
+  "maxSpeedKmh": 69.2
+ },
+ {
+  "id": "tr009790",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:43:13Z",
+  "distanceKm": 30.04,
+  "maxSpeedKmh": 63
+ },
+ {
+  "id": "tr009799",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-44"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:28:45Z",
+  "distanceKm": 30.1,
+  "maxSpeedKmh": 58.1
+ },
+ {
+  "id": "tr009807",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-41"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:56:12Z",
+  "distanceKm": 30.84,
+  "maxSpeedKmh": 62.5
+ },
+ {
+  "id": "tr009815",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-24"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T15:31:23Z",
+  "distanceKm": 33.55,
+  "maxSpeedKmh": 62
+ },
+ {
+  "id": "tr009821",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T13:31:47Z",
+  "distanceKm": 19.28,
+  "maxSpeedKmh": 55
+ },
+ {
+  "id": "tr009829",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-48"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T15:20:10Z",
+  "distanceKm": 31.96,
+  "maxSpeedKmh": 62.5
+ },
+ {
+  "id": "tr009836",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T13:51:20Z",
+  "distanceKm": 22.67,
+  "maxSpeedKmh": 72.3
+ },
+ {
+  "id": "tr009841",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-06"
+  },
+  "start": "2026-01-21T12:15:00Z",
+  "stop": "2026-01-21T14:31:50Z",
+  "distanceKm": 25.92,
+  "maxSpeedKmh": 69.6
+ },
+ {
+  "id": "tr009626",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2026-01-21T12:40:00Z",
+  "stop": "2026-01-21T14:41:13Z",
+  "distanceKm": 23.92,
+  "maxSpeedKmh": 67.7
+ },
+ {
+  "id": "tr009754",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-21T13:36:53Z",
+  "stop": "2026-01-21T16:28:29Z",
+  "distanceKm": 29.54,
+  "maxSpeedKmh": 72
+ },
+ {
+  "id": "tr009822",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-21T13:41:47Z",
+  "stop": "2026-01-21T16:36:27Z",
+  "distanceKm": 29.82,
+  "maxSpeedKmh": 57.9
+ },
+ {
+  "id": "tr009729",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-37"
+  },
+  "start": "2026-01-21T13:49:17Z",
+  "stop": "2026-01-21T16:37:50Z",
+  "distanceKm": 28.74,
+  "maxSpeedKmh": 63.2
+ },
+ {
+  "id": "tr009598",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2026-01-21T13:49:23Z",
+  "stop": "2026-01-21T18:01:00Z",
+  "distanceKm": 38.07,
+  "maxSpeedKmh": 58.3
+ },
+ {
+  "id": "tr009669",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-23"
+  },
+  "start": "2026-01-21T13:49:46Z",
+  "stop": "2026-01-21T16:48:27Z",
+  "distanceKm": 26.74,
+  "maxSpeedKmh": 65.3
+ },
+ {
+  "id": "tr009661",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-46"
+  },
+  "start": "2026-01-21T14:00:01Z",
+  "stop": "2026-01-21T16:48:18Z",
+  "distanceKm": 29.49,
+  "maxSpeedKmh": 58.5
+ },
+ {
+  "id": "tr009611",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2026-01-21T14:07:00Z",
+  "stop": "2026-01-21T16:54:53Z",
+  "distanceKm": 28.88,
+  "maxSpeedKmh": 70.7
+ },
+ {
+  "id": "tr009718",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2026-01-21T14:09:32Z",
+  "stop": "2026-01-21T16:42:03Z",
+  "distanceKm": 26.94,
+  "maxSpeedKmh": 60.1
+ },
+ {
+  "id": "tr009678",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2026-01-21T14:12:13Z",
+  "stop": "2026-01-21T17:19:48Z",
+  "distanceKm": 27.03,
+  "maxSpeedKmh": 55.2
+ },
+ {
+  "id": "tr009643",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-38"
+  },
+  "start": "2026-01-21T14:14:20Z",
+  "stop": "2026-01-21T18:20:26Z",
+  "distanceKm": 37.73,
+  "maxSpeedKmh": 63.5
+ },
+ {
+  "id": "tr010012",
+  "device": {
+   "id": "b2A"
+  },
+  "driver": {
+   "id": "D-33"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:59:40Z",
+  "distanceKm": 26.67,
+  "maxSpeedKmh": 72.5
+ },
+ {
+  "id": "tr010022",
+  "device": {
+   "id": "b2B"
+  },
+  "driver": {
+   "id": "D-26"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:38:02Z",
+  "distanceKm": 31.13,
+  "maxSpeedKmh": 56
+ },
+ {
+  "id": "tr010031",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-29"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:33:07Z",
+  "distanceKm": 22.19,
+  "maxSpeedKmh": 66.3
+ },
+ {
+  "id": "tr010047",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:41:50Z",
+  "distanceKm": 24.59,
+  "maxSpeedKmh": 64.5
+ },
+ {
+  "id": "tr010060",
+  "device": {
+   "id": "b2E"
+  },
+  "driver": {
+   "id": "D-05"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:54:36Z",
+  "distanceKm": 33.67,
+  "maxSpeedKmh": 77.9
+ },
+ {
+  "id": "tr010070",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-28"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:54:11Z",
+  "distanceKm": 25.02,
+  "maxSpeedKmh": 71.4
+ },
+ {
+  "id": "tr010083",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:30:55Z",
+  "distanceKm": 22.8,
+  "maxSpeedKmh": 76.3
+ },
+ {
+  "id": "tr010107",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:52:21Z",
+  "distanceKm": 25.15,
+  "maxSpeedKmh": 61
+ },
+ {
+  "id": "tr010119",
+  "device": {
+   "id": "b32"
+  },
+  "driver": {
+   "id": "D-41"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:03:43Z",
+  "distanceKm": 26.22,
+  "maxSpeedKmh": 64
+ },
+ {
+  "id": "tr010140",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:31:08Z",
+  "distanceKm": 21.59,
+  "maxSpeedKmh": 66.9
+ },
+ {
+  "id": "tr010153",
+  "device": {
+   "id": "b35"
+  },
+  "driver": {
+   "id": "D-32"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:18:20Z",
+  "distanceKm": 27.17,
+  "maxSpeedKmh": 73.9
+ },
+ {
+  "id": "tr010160",
+  "device": {
+   "id": "b36"
+  },
+  "driver": {
+   "id": "D-11"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:39:15Z",
+  "distanceKm": 31.44,
+  "maxSpeedKmh": 76.9
+ },
+ {
+  "id": "tr010170",
+  "device": {
+   "id": "b37"
+  },
+  "driver": {
+   "id": "D-20"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:11:45Z",
+  "distanceKm": 25.79,
+  "maxSpeedKmh": 53
+ },
+ {
+  "id": "tr010176",
+  "device": {
+   "id": "b38"
+  },
+  "driver": {
+   "id": "D-19"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:06:26Z",
+  "distanceKm": 24.94,
+  "maxSpeedKmh": 67.7
+ },
+ {
+  "id": "tr010183",
+  "device": {
+   "id": "b39"
+  },
+  "driver": {
+   "id": "D-08"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T08:10:24Z",
+  "distanceKm": 34.5,
+  "maxSpeedKmh": 72.4
+ },
+ {
+  "id": "tr010191",
+  "device": {
+   "id": "b3A"
+  },
+  "driver": {
+   "id": "D-23"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:47:02Z",
+  "distanceKm": 23.39,
+  "maxSpeedKmh": 70.6
+ },
+ {
+  "id": "tr010199",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:22:43Z",
+  "distanceKm": 18.33,
+  "maxSpeedKmh": 59.8
+ },
+ {
+  "id": "tr010208",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-15"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:23:53Z",
+  "distanceKm": 19.29,
+  "maxSpeedKmh": 59.3
+ },
+ {
+  "id": "tr010218",
+  "device": {
+   "id": "b3D"
+  },
+  "driver": {
+   "id": "D-04"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:09:11Z",
+  "distanceKm": 25.16,
+  "maxSpeedKmh": 74.7
+ },
+ {
+  "id": "tr010224",
+  "device": {
+   "id": "b3E"
+  },
+  "driver": {
+   "id": "D-01"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:35:41Z",
+  "distanceKm": 30.48,
+  "maxSpeedKmh": 52.2
+ },
+ {
+  "id": "tr010232",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:49:59Z",
+  "distanceKm": 23.69,
+  "maxSpeedKmh": 74.1
+ },
+ {
+  "id": "tr010244",
+  "device": {
+   "id": "b40"
+  },
+  "driver": {
+   "id": "D-45"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:12:44Z",
+  "distanceKm": 25.16,
+  "maxSpeedKmh": 71.7
+ },
+ {
+  "id": "tr010251",
+  "device": {
+   "id": "b41"
+  },
+  "driver": {
+   "id": "D-12"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:15:49Z",
+  "distanceKm": 25.71,
+  "maxSpeedKmh": 72.1
+ },
+ {
+  "id": "tr010260",
+  "device": {
+   "id": "b42"
+  },
+  "driver": {
+   "id": "D-47"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:02:09Z",
+  "distanceKm": 27.09,
+  "maxSpeedKmh": 64.8
+ },
+ {
+  "id": "tr010267",
+  "device": {
+   "id": "b43"
+  },
+  "driver": {
+   "id": "D-42"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:17:39Z",
+  "distanceKm": 29.71,
+  "maxSpeedKmh": 57.6
+ },
+ {
+  "id": "tr010274",
+  "device": {
+   "id": "b44"
+  },
+  "driver": {
+   "id": "D-09"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T07:37:02Z",
+  "distanceKm": 30.03,
+  "maxSpeedKmh": 53.6
+ },
+ {
+  "id": "tr010286",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:50:09Z",
+  "distanceKm": 24.73,
+  "maxSpeedKmh": 65.8
+ },
+ {
+  "id": "tr010300",
+  "device": {
+   "id": "b3B"
+  },
+  "driver": {
+   "id": "D-13"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T06:44:33Z",
+  "distanceKm": 23.12,
+  "maxSpeedKmh": 62.1
+ },
+ {
+  "id": "tr010311",
+  "device": {
+   "id": "b47"
+  },
+  "driver": {
+   "id": "D-40"
+  },
+  "start": "2026-01-22T05:15:00Z",
+  "stop": "2026-01-22T08:05:21Z",
+  "distanceKm": 31.39,
+  "maxSpeedKmh": 54.4
+ },
+ {
+  "id": "tr010129",
+  "device": {
+   "id": "b33"
+  },
+  "driver": {
+   "id": "D-44"
+  },
+  "start": "2026-01-22T05:40:00Z",
+  "stop": "2026-01-22T07:35:40Z",
+  "distanceKm": 24.21,
+  "maxSpeedKmh": 75
+ },
+ {
+  "id": "tr010200",
+  "device": {
+   "id": "b46"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-22T06:32:43Z",
+  "stop": "2026-01-22T09:05:49Z",
+  "distanceKm": 29.14,
+  "maxSpeedKmh": 75.9
+ },
+ {
+  "id": "tr010209",
+  "device": {
+   "id": "b3C"
+  },
+  "driver": {
+   "id": "D-15"
+  },
+  "start": "2026-01-22T06:33:53Z",
+  "stop": "2026-01-22T09:15:34Z",
+  "distanceKm": 31.01,
+  "maxSpeedKmh": 74
+ },
+ {
+  "id": "tr010084",
+  "device": {
+   "id": "b30"
+  },
+  "driver": {
+   "id": "D-39"
+  },
+  "start": "2026-01-22T06:40:55Z",
+  "stop": "2026-01-22T09:21:43Z",
+  "distanceKm": 26.24,
+  "maxSpeedKmh": 53.6
+ },
+ {
+  "id": "tr010141",
+  "device": {
+   "id": "b34"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-22T06:41:08Z",
+  "stop": "2026-01-22T09:17:18Z",
+  "distanceKm": 29.42,
+  "maxSpeedKmh": 56.6
+ },
+ {
+  "id": "tr010032",
+  "device": {
+   "id": "b2C"
+  },
+  "driver": {
+   "id": "D-29"
+  },
+  "start": "2026-01-22T06:43:07Z",
+  "stop": "2026-01-22T10:33:15Z",
+  "distanceKm": 36.97,
+  "maxSpeedKmh": 78
+ },
+ {
+  "id": "tr010048",
+  "device": {
+   "id": "b2D"
+  },
+  "driver": {
+   "id": "D-22"
+  },
+  "start": "2026-01-22T06:51:50Z",
+  "stop": "2026-01-22T09:29:13Z",
+  "distanceKm": 29.81,
+  "maxSpeedKmh": 75.3
+ },
+ {
+  "id": "tr010233",
+  "device": {
+   "id": "b3F"
+  },
+  "driver": {
+   "id": "UnknownDriverId"
+  },
+  "start": "2026-01-22T06:59:59Z",
+  "stop": "2026-01-22T09:32:05Z",
+  "distanceKm": 28.05,
+  "maxSpeedKmh": 66.8
+ },
+ {
+  "id": "tr010287",
+  "device": {
+   "id": "b45"
+  },
+  "driver": {
+   "id": "D-18"
+  },
+  "start": "2026-01-22T07:00:09Z",
+  "stop": "2026-01-22T09:18:16Z",
+  "distanceKm": 26.93,
+  "maxSpeedKmh": 75.4
+ },
+ {
+  "id": "tr010108",
+  "device": {
+   "id": "b31"
+  },
+  "driver": {
+   "id": "D-02"
+  },
+  "start": "2026-01-22T07:02:21Z",
+  "stop": "2026-01-22T09:50:05Z",
+  "distanceKm": 26.76,
+  "maxSpeedKmh": 61.8
+ },
+ {
+  "id": "tr010071",
+  "device": {
+   "id": "b2F"
+  },
+  "driver": {
+   "id": "D-28"
+  },
+  "start": "2026-01-22T07:04:11Z",
+  "stop": "2026-01-22T10:45:04Z",
+  "distanceKm": 37.27,
+  "maxSpeedKmh": 76.4
+ }
+]

@@ -191,8 +191,10 @@ def list_remote_entities(api_key, settings):
     except LoadError as exc:
         log.warning("Could not list entities from the API root: %s", exc)
         return None
-    # The docs don't specify the listing shape, so accept a list, {"data": [...]}, or a dict of names.
-    items = listing.get("data", listing) if isinstance(listing, dict) else listing
+    # Observed shape: {"entities": [...names], "meta": {...}, "docs": ...}. Fall back to {"data": [...]} or a bare list.
+    items = listing
+    if isinstance(listing, dict):
+        items = listing.get("entities", listing.get("data", listing))
     if isinstance(items, dict):
         return set(items.keys())
     if isinstance(items, list):

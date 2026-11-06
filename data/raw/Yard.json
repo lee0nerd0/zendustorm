@@ -1,0 +1,14 @@
+[
+ {
+  "id": "YARD-N",
+  "name": "North Yard",
+  "latitude": 43.792,
+  "longitude": -79.741
+ },
+ {
+  "id": "YARD-S",
+  "name": "South Yard",
+  "latitude": 43.684,
+  "longitude": -79.672
+ }
+]

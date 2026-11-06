@@ -1,0 +1,242 @@
+[
+ {
+  "id": "T-101",
+  "name": "T-101",
+  "yard": "YARD-N",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FV4G7VRB2CF06BPE",
+  "year": 2021
+ },
+ {
+  "id": "T-102",
+  "name": "T-102",
+  "yard": "YARD-S",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FVB25NG9TV7Z70B5",
+  "year": 2019
+ },
+ {
+  "id": "T-103",
+  "name": "T-103",
+  "yard": "YARD-N",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FV267523KSP4X3LX",
+  "year": 2021
+ },
+ {
+  "id": "T-104",
+  "name": "T-104",
+  "yard": "YARD-S",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FVDBF006WVJZ577T",
+  "year": 2014
+ },
+ {
+  "id": "T-105",
+  "name": "T-105",
+  "yard": "YARD-N",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FV36LVU07GYJ0DXW",
+  "year": 2017
+ },
+ {
+  "id": "T-106",
+  "name": "T-106",
+  "yard": "YARD-S",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FVWKJGVEAVR5F01Y",
+  "year": 2016
+ },
+ {
+  "id": "T-107",
+  "name": "T-107",
+  "yard": "YARD-N",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FVSLZ6Z54S6W1R2K",
+  "year": 2019
+ },
+ {
+  "id": "T-108",
+  "name": "T-108",
+  "yard": "YARD-S",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FV6GY0JK6B2WAN31",
+  "year": 2014
+ },
+ {
+  "id": "T-109",
+  "name": "T-109",
+  "yard": "YARD-N",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FV6M0YP6GK8C3UG3",
+  "year": 2016
+ },
+ {
+  "id": "T-110",
+  "name": "T-110",
+  "yard": "YARD-S",
+  "bodyType": "Tandem axle plow",
+  "vin": "1FVBHZ02VW63C73H6",
+  "year": 2022
+ },
+ {
+  "id": "T-111",
+  "name": "T-111",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FVVWYELRYVBX51CU",
+  "year": 2019
+ },
+ {
+  "id": "T-112",
+  "name": "T-112",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FVL708REHMW196MR",
+  "year": 2022
+ },
+ {
+  "id": "T-113",
+  "name": "T-113",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FV3BAH35FY8NGA7Z",
+  "year": 2014
+ },
+ {
+  "id": "T-114",
+  "name": "T-114",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FVRY85JK8ES3FWPE",
+  "year": 2017
+ },
+ {
+  "id": "T-115",
+  "name": "T-115",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FV2UBJGHTLU5YZU6",
+  "year": 2022
+ },
+ {
+  "id": "T-116",
+  "name": "T-116",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FVSTKXF11KWMB0TU",
+  "year": 2017
+ },
+ {
+  "id": "T-117",
+  "name": "T-117",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FVMW5A8NK1H10YBZ",
+  "year": 2016
+ },
+ {
+  "id": "T-118",
+  "name": "T-118",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FVEMJ5DCA0FFGVEC",
+  "year": 2019
+ },
+ {
+  "id": "T-119",
+  "name": "T-119",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FVG06S8WZ33D63PA",
+  "year": 2019
+ },
+ {
+  "id": "T-120",
+  "name": "T-120",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FV0JZYSN9T4APCPN",
+  "year": 2019
+ },
+ {
+  "id": "T-121",
+  "name": "T-121",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FVKDCJ9KYSVAJPBJ",
+  "year": 2014
+ },
+ {
+  "id": "T-122",
+  "name": "T-122",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FV3SXRBY9A2TF994",
+  "year": 2022
+ },
+ {
+  "id": "T-123",
+  "name": "T-123",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FV4F02V7HPMBZ9WJ",
+  "year": 2019
+ },
+ {
+  "id": "T-124",
+  "name": "T-124",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FVKWBP9YESA0CK1P",
+  "year": 2021
+ },
+ {
+  "id": "T-125",
+  "name": "T-125",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FVPS0X5M6R4P9VNE",
+  "year": 2022
+ },
+ {
+  "id": "T-126",
+  "name": "T-126",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FVF0YVZR5J5UVX9S",
+  "year": 2016
+ },
+ {
+  "id": "T-127",
+  "name": "T-127",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FV59VY3W6SE0HJ96",
+  "year": 2019
+ },
+ {
+  "id": "T-128",
+  "name": "T-128",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FVL6GKD8DNNS400G",
+  "year": 2022
+ },
+ {
+  "id": "T-129",
+  "name": "T-129",
+  "yard": "YARD-N",
+  "bodyType": "Single axle plow",
+  "vin": "1FVF2JKTTL3FAMDTJ",
+  "year": 2022
+ },
+ {
+  "id": "T-130",
+  "name": "T-130",
+  "yard": "YARD-S",
+  "bodyType": "Single axle plow",
+  "vin": "1FVY7E8MV708VL1KK",
+  "year": 2022
+ }
+]
