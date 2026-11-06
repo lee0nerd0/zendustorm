@@ -24,8 +24,11 @@ python -m stormtwin evidence
 # 3. replay: works offline from data/ (command is in REPLAY_COMMAND)
 python -m stormtwin replay --input replay/input.json --output replay/output.json
 
-# 4. what-if: answer a question about tonight                          [next step]
-#    python -m stormtwin whatif --low -19 ...
+# 4. what-if: tonight's action list (defaults = bulletin: callout 02:00, low -14 °C, 20 cm; see config "scenario")
+python -m stormtwin whatif
+python -m stormtwin whatif --low -19 --snow 30 --callout 00:30
+python -m stormtwin whatif --fix T-109:battery T-114:hydraulic        # simulate repairs
+python -m stormtwin whatif --forecast config/forecast.json --json out/tonight.json   # 2:15 update, no code change
 
 # tests (offline, mock API)
 python -m unittest discover -s tests -t . -v

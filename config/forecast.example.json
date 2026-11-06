@@ -1,0 +1,6 @@
+{
+  "_readme": "At 2:15 copy to config/forecast.json with the new numbers, then: python -m stormtwin whatif --forecast config/forecast.json. Scalars win over the weather block.",
+  "callout_local": "2026-12-16T01:00:00",
+  "night_low_c": -19.0,
+  "snow_cm": 30.0
+}

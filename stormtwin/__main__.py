@@ -6,7 +6,7 @@ Commands
     weather Download Environment Canada weather into data/weather/ (no key needed).
     evidence Re-derive the hidden rules from history and backtest them (offline).
     replay  Predict ok / no_start / hydraulic per truck for a replay input file (offline).
-    (whatif is added in a later step.)
+    whatif  Tonight's action list under a weather scenario / forecast file / repairs.
 """
 
 # =============================================================================
@@ -21,6 +21,7 @@ from .load import LoadError, run_load
 from .replay import ReplayError, run_replay
 from .weather import run_weather
 from .evidence import run_evidence
+from .whatif import WhatIfError, run_whatif
 
 
 # =============================================================================
@@ -42,6 +43,14 @@ def build_parser():
     p_replay = sub.add_parser("replay", help="Predict per-truck outcome for a replay input (offline)")
     p_replay.add_argument("--input", required=True, help="Replay input JSON (maintenance_input.json)")
     p_replay.add_argument("--output", required=True, help="Where to write the prediction JSON")
+
+    p_wi = sub.add_parser("whatif", help="Tonight's maintenance action list under a scenario")
+    p_wi.add_argument("--callout", help="HH:MM on the planned night, or full YYYY-MM-DDTHH:MM:SS")
+    p_wi.add_argument("--low", type=float, help="Night low, °C")
+    p_wi.add_argument("--snow", type=float, help="Snowfall, cm")
+    p_wi.add_argument("--forecast", help="JSON with callout_local/night_low_c/snow_cm and/or a weather block")
+    p_wi.add_argument("--fix", nargs="+", metavar="TRUCK[:battery|hydraulic|all]", help="Simulate repairs")
+    p_wi.add_argument("--json", dest="json_out", help="Also write the full report as JSON")
     return parser
 
 
@@ -62,12 +71,17 @@ def cmd_evidence(args, settings):
     return 0
 
 
+def cmd_whatif(args, settings):
+    run_whatif(settings, args.callout, args.low, args.snow, args.forecast, args.fix, args.json_out)
+    return 0
+
+
 def cmd_replay(args, settings):
     run_replay(args.input, args.output, settings)
     return 0
 
 
-COMMANDS = {"load": cmd_load, "weather": cmd_weather, "evidence": cmd_evidence, "replay": cmd_replay}
+COMMANDS = {"load": cmd_load, "weather": cmd_weather, "evidence": cmd_evidence, "replay": cmd_replay, "whatif": cmd_whatif}
 
 
 # =============================================================================
@@ -83,7 +97,7 @@ def main(argv=None):
     try:
         settings = load_settings(args.config)
         return COMMANDS[args.command](args, settings)
-    except (ConfigError, LoadError, ReplayError) as exc:
+    except (ConfigError, LoadError, ReplayError, WhatIfError) as exc:
         logging.getLogger("stormtwin").error("%s", exc)
         return 2
 
