@@ -14,8 +14,8 @@ python -m stormtwin load --only WorkOrder      # re-fetch a subset
 #    -> data/raw/<Entity>.json + data/raw/_manifest.json (row counts, sha256, warnings)
 #    Settings (URL, page size, timeouts, retries) are in config/settings.json.
 
-# 3. replay: works offline from data/ (command is in REPLAY_COMMAND)   [next step]
-#    python -m stormtwin replay --input replay/input.json --output replay/output.json
+# 3. replay: works offline from data/ (command is in REPLAY_COMMAND)
+python -m stormtwin replay --input replay/input.json --output replay/output.json
 
 # 4. what-if: answer a question about tonight                          [next step]
 #    python -m stormtwin whatif --low -19 ...

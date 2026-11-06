@@ -3,7 +3,8 @@
 Commands
 --------
     load    Download the fleet API into data/raw/ (needs the FLEET_API_KEY env var).
-    (replay and whatif are added in later steps.)
+    replay  Predict ok / no_start / hydraulic per truck for a replay input file (offline).
+    (whatif is added in a later step.)
 """
 
 # =============================================================================
@@ -15,6 +16,7 @@ import sys
 
 from .config import ConfigError, load_settings
 from .load import LoadError, run_load
+from .replay import ReplayError, run_replay
 
 
 # =============================================================================
@@ -28,6 +30,10 @@ def build_parser():
 
     p_load = sub.add_parser("load", help="Download the fleet API into data/raw/")
     p_load.add_argument("--only", nargs="+", metavar="ENTITY", help="Fetch only these entities, e.g. --only Vehicle WorkOrder")
+
+    p_replay = sub.add_parser("replay", help="Predict per-truck outcome for a replay input (offline)")
+    p_replay.add_argument("--input", required=True, help="Replay input JSON (maintenance_input.json)")
+    p_replay.add_argument("--output", required=True, help="Where to write the prediction JSON")
     return parser
 
 
@@ -38,7 +44,12 @@ def cmd_load(args, settings):
     return 0 if run_load(settings, only=args.only) else 1
 
 
-COMMANDS = {"load": cmd_load}
+def cmd_replay(args, settings):
+    run_replay(args.input, args.output, settings)
+    return 0
+
+
+COMMANDS = {"load": cmd_load, "replay": cmd_replay}
 
 
 # =============================================================================
@@ -54,7 +65,7 @@ def main(argv=None):
     try:
         settings = load_settings(args.config)
         return COMMANDS[args.command](args, settings)
-    except (ConfigError, LoadError) as exc:
+    except (ConfigError, LoadError, ReplayError) as exc:
         logging.getLogger("stormtwin").error("%s", exc)
         return 2
 
