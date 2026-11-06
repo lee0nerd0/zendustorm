@@ -1,0 +1,2137 @@
+{
+ "township": "Credit Valley Township",
+ "night": "2026-01-25",
+ "callout_local": "2026-01-25T04:00:00",
+ "timezone": "America/Toronto",
+ "weather": {
+  "source": "Environment and Climate Change Canada, station 51459",
+  "daily": [
+   {
+    "date": "2026-01-24",
+    "min_temp_c": -20.8,
+    "max_temp_c": -10.5,
+    "mean_temp_c": -15.7,
+    "total_snow_cm": 0.0,
+    "total_precip_mm": 0.0
+   },
+   {
+    "date": "2026-01-25",
+    "min_temp_c": -14.1,
+    "max_temp_c": -9.0,
+    "mean_temp_c": -11.6,
+    "total_snow_cm": 46.2,
+    "total_precip_mm": 17.8
+   },
+   {
+    "date": "2026-01-26",
+    "min_temp_c": -15.7,
+    "max_temp_c": -8.8,
+    "mean_temp_c": -12.3,
+    "total_snow_cm": 0.2,
+    "total_precip_mm": 0.2
+   }
+  ],
+  "hourly": [
+   {
+    "datetime_local": "2026-01-24T00:00",
+    "temp_c": -17.2,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T01:00",
+    "temp_c": -17.9,
+    "weather": "Clear"
+   },
+   {
+    "datetime_local": "2026-01-24T02:00",
+    "temp_c": -18.5,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T03:00",
+    "temp_c": -19.4,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T04:00",
+    "temp_c": -19.5,
+    "weather": "Mostly Cloudy"
+   },
+   {
+    "datetime_local": "2026-01-24T05:00",
+    "temp_c": -19.5,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T06:00",
+    "temp_c": -19.8,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T07:00",
+    "temp_c": -20.2,
+    "weather": "Mainly Clear"
+   },
+   {
+    "datetime_local": "2026-01-24T08:00",
+    "temp_c": -20.1,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T09:00",
+    "temp_c": -19.0,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T10:00",
+    "temp_c": -16.9,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-24T11:00",
+    "temp_c": -13.4,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T12:00",
+    "temp_c": -11.8,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T13:00",
+    "temp_c": -11.4,
+    "weather": "Mostly Cloudy"
+   },
+   {
+    "datetime_local": "2026-01-24T14:00",
+    "temp_c": -11.0,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T15:00",
+    "temp_c": -10.9,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T16:00",
+    "temp_c": -10.9,
+    "weather": "Mostly Cloudy"
+   },
+   {
+    "datetime_local": "2026-01-24T17:00",
+    "temp_c": -11.6,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T18:00",
+    "temp_c": -11.6,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T19:00",
+    "temp_c": -12.2,
+    "weather": "Mostly Cloudy"
+   },
+   {
+    "datetime_local": "2026-01-24T20:00",
+    "temp_c": -12.1,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T21:00",
+    "temp_c": -12.2,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-24T22:00",
+    "temp_c": -12.1,
+    "weather": "Mostly Cloudy"
+   },
+   {
+    "datetime_local": "2026-01-24T23:00",
+    "temp_c": -12.1,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-25T00:00",
+    "temp_c": -11.9,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-25T01:00",
+    "temp_c": -12.0,
+    "weather": "Mostly Cloudy"
+   },
+   {
+    "datetime_local": "2026-01-25T02:00",
+    "temp_c": -12.0,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-25T03:00",
+    "temp_c": -12.2,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-25T04:00",
+    "temp_c": -12.4,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T05:00",
+    "temp_c": -12.3,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T06:00",
+    "temp_c": -11.8,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T07:00",
+    "temp_c": -9.4,
+    "weather": "Cloudy"
+   },
+   {
+    "datetime_local": "2026-01-25T08:00",
+    "temp_c": -9.6,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T09:00",
+    "temp_c": -9.8,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T10:00",
+    "temp_c": -9.5,
+    "weather": "Moderate Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T11:00",
+    "temp_c": -10.9,
+    "weather": "Heavy Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T12:00",
+    "temp_c": -11.9,
+    "weather": "Heavy Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T13:00",
+    "temp_c": -12.1,
+    "weather": "Heavy Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T14:00",
+    "temp_c": -11.9,
+    "weather": "Heavy Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T15:00",
+    "temp_c": -12.0,
+    "weather": "Heavy Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T16:00",
+    "temp_c": -12.3,
+    "weather": "Heavy Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T17:00",
+    "temp_c": -12.4,
+    "weather": "Heavy Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T18:00",
+    "temp_c": -12.3,
+    "weather": "Heavy Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T19:00",
+    "temp_c": -13.0,
+    "weather": "Heavy Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T20:00",
+    "temp_c": -12.5,
+    "weather": "Moderate Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T21:00",
+    "temp_c": -13.0,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T22:00",
+    "temp_c": -13.3,
+    "weather": "Snow,Drifting Snow"
+   },
+   {
+    "datetime_local": "2026-01-25T23:00",
+    "temp_c": -13.3,
+    "weather": "Drifting Snow"
+   },
+   {
+    "datetime_local": "2026-01-26T00:00",
+    "temp_c": -13.8,
+    "weather": "Drifting Snow"
+   },
+   {
+    "datetime_local": "2026-01-26T01:00",
+    "temp_c": -14.0,
+    "weather": "Drifting Snow"
+   },
+   {
+    "datetime_local": "2026-01-26T02:00",
+    "temp_c": -14.3,
+    "weather": "Drifting Snow"
+   },
+   {
+    "datetime_local": "2026-01-26T03:00",
+    "temp_c": -14.3,
+    "weather": "Drifting Snow"
+   },
+   {
+    "datetime_local": "2026-01-26T04:00",
+    "temp_c": -14.5,
+    "weather": "Snow,Drifting Snow"
+   },
+   {
+    "datetime_local": "2026-01-26T05:00",
+    "temp_c": -14.6,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T06:00",
+    "temp_c": -14.9,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-26T07:00",
+    "temp_c": -14.9,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-26T08:00",
+    "temp_c": -15.2,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T09:00",
+    "temp_c": -14.0,
+    "weather": "Snow"
+   },
+   {
+    "datetime_local": "2026-01-26T10:00",
+    "temp_c": -13.8,
+    "weather": "Mostly Cloudy"
+   },
+   {
+    "datetime_local": "2026-01-26T11:00",
+    "temp_c": -11.9,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T12:00",
+    "temp_c": -10.3,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T13:00",
+    "temp_c": -9.6,
+    "weather": "Mostly Cloudy"
+   },
+   {
+    "datetime_local": "2026-01-26T14:00",
+    "temp_c": -9.0,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T15:00",
+    "temp_c": -9.2,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T16:00",
+    "temp_c": -9.4,
+    "weather": "Mainly Clear"
+   },
+   {
+    "datetime_local": "2026-01-26T17:00",
+    "temp_c": -9.8,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T18:00",
+    "temp_c": -11.9,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T19:00",
+    "temp_c": -12.8,
+    "weather": "Mainly Clear"
+   },
+   {
+    "datetime_local": "2026-01-26T20:00",
+    "temp_c": -13.0,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T21:00",
+    "temp_c": -11.8,
+    "weather": "NA"
+   },
+   {
+    "datetime_local": "2026-01-26T22:00",
+    "temp_c": -12.1,
+    "weather": "Mainly Clear"
+   },
+   {
+    "datetime_local": "2026-01-26T23:00",
+    "temp_c": -12.2,
+    "weather": "NA"
+   }
+  ]
+ },
+ "note": "Everything your system needs for this night is in this file plus the data you committed before the freeze. No network.",
+ "persona": "maintenance",
+ "question": "For every truck, will it be ok tonight, fail to start, or lose its hydraulics during the storm?",
+ "answer_values": [
+  "ok",
+  "no_start",
+  "hydraulic"
+ ],
+ "trucks": [
+  "T-101",
+  "T-102",
+  "T-103",
+  "T-104",
+  "T-105",
+  "T-106",
+  "T-107",
+  "T-108",
+  "T-109",
+  "T-110",
+  "T-111",
+  "T-112",
+  "T-113",
+  "T-114",
+  "T-115",
+  "T-116",
+  "T-117",
+  "T-118",
+  "T-119",
+  "T-120",
+  "T-121",
+  "T-122",
+  "T-123",
+  "T-124",
+  "T-125",
+  "T-126",
+  "T-127",
+  "T-128",
+  "T-129",
+  "T-130"
+ ],
+ "records_since_your_data_ends": {
+  "StatusData": [
+   {
+    "id": "st010605",
+    "device": {
+     "id": "b2A"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 12.79
+   },
+   {
+    "id": "st010606",
+    "device": {
+     "id": "b2A"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 9911.1
+   },
+   {
+    "id": "st010607",
+    "device": {
+     "id": "b2A"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 3827.4
+   },
+   {
+    "id": "st010608",
+    "device": {
+     "id": "b2A"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 71002.8
+   },
+   {
+    "id": "st010609",
+    "device": {
+     "id": "b2B"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:06:00Z",
+    "data": 12.71
+   },
+   {
+    "id": "st010610",
+    "device": {
+     "id": "b2B"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:06:00Z",
+    "data": 8000.5
+   },
+   {
+    "id": "st010611",
+    "device": {
+     "id": "b2B"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:06:00Z",
+    "data": 2063.9
+   },
+   {
+    "id": "st010612",
+    "device": {
+     "id": "b2B"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:06:00Z",
+    "data": 85607.3
+   },
+   {
+    "id": "st010613",
+    "device": {
+     "id": "b2C"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:04:00Z",
+    "data": 12.64
+   },
+   {
+    "id": "st010614",
+    "device": {
+     "id": "b2C"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:04:00Z",
+    "data": 12417.8
+   },
+   {
+    "id": "st010615",
+    "device": {
+     "id": "b2C"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:04:00Z",
+    "data": 3924.4
+   },
+   {
+    "id": "st010616",
+    "device": {
+     "id": "b2C"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:04:00Z",
+    "data": 210261.0
+   },
+   {
+    "id": "st010617",
+    "device": {
+     "id": "b2D"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:09:00Z",
+    "data": 12.48
+   },
+   {
+    "id": "st010618",
+    "device": {
+     "id": "b2D"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:09:00Z",
+    "data": 14006.4
+   },
+   {
+    "id": "st010619",
+    "device": {
+     "id": "b2D"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:09:00Z",
+    "data": 1514.0
+   },
+   {
+    "id": "st010620",
+    "device": {
+     "id": "b2D"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:09:00Z",
+    "data": 163931.6
+   },
+   {
+    "id": "st010621",
+    "device": {
+     "id": "b2E"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 12.79
+   },
+   {
+    "id": "st010622",
+    "device": {
+     "id": "b2E"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 11053.7
+   },
+   {
+    "id": "st010623",
+    "device": {
+     "id": "b2E"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 3444.2
+   },
+   {
+    "id": "st010624",
+    "device": {
+     "id": "b2E"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 80806.4
+   },
+   {
+    "id": "st010625",
+    "device": {
+     "id": "b2F"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 12.79
+   },
+   {
+    "id": "st010626",
+    "device": {
+     "id": "b2F"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 10824.4
+   },
+   {
+    "id": "st010627",
+    "device": {
+     "id": "b2F"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 1912.5
+   },
+   {
+    "id": "st010628",
+    "device": {
+     "id": "b2F"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 167846.0
+   },
+   {
+    "id": "st010629",
+    "device": {
+     "id": "b30"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 12.71
+   },
+   {
+    "id": "st010630",
+    "device": {
+     "id": "b30"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 11914.7
+   },
+   {
+    "id": "st010631",
+    "device": {
+     "id": "b30"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 2826.9
+   },
+   {
+    "id": "st010632",
+    "device": {
+     "id": "b30"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 227971.5
+   },
+   {
+    "id": "st010633",
+    "device": {
+     "id": "b31"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:01:00Z",
+    "data": 12.74
+   },
+   {
+    "id": "st010634",
+    "device": {
+     "id": "b31"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:01:00Z",
+    "data": 13246.8
+   },
+   {
+    "id": "st010635",
+    "device": {
+     "id": "b31"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:01:00Z",
+    "data": 1478.2
+   },
+   {
+    "id": "st010636",
+    "device": {
+     "id": "b31"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:01:00Z",
+    "data": 158752.4
+   },
+   {
+    "id": "st010637",
+    "device": {
+     "id": "b32"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 12.59
+   },
+   {
+    "id": "st010638",
+    "device": {
+     "id": "b32"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 12295.2
+   },
+   {
+    "id": "st010639",
+    "device": {
+     "id": "b32"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 3250.5
+   },
+   {
+    "id": "st010640",
+    "device": {
+     "id": "b32"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 202711.2
+   },
+   {
+    "id": "st010641",
+    "device": {
+     "id": "b33"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 12.69
+   },
+   {
+    "id": "st010642",
+    "device": {
+     "id": "b33"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 9907.2
+   },
+   {
+    "id": "st010643",
+    "device": {
+     "id": "b33"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 3314.9
+   },
+   {
+    "id": "st010644",
+    "device": {
+     "id": "b33"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 180794.5
+   },
+   {
+    "id": "st010645",
+    "device": {
+     "id": "b34"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 12.74
+   },
+   {
+    "id": "st010646",
+    "device": {
+     "id": "b34"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 8861.4
+   },
+   {
+    "id": "st010647",
+    "device": {
+     "id": "b34"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 2765.4
+   },
+   {
+    "id": "st010648",
+    "device": {
+     "id": "b34"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 66138.6
+   },
+   {
+    "id": "st010649",
+    "device": {
+     "id": "b35"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 12.73
+   },
+   {
+    "id": "st010650",
+    "device": {
+     "id": "b35"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 8434.1
+   },
+   {
+    "id": "st010651",
+    "device": {
+     "id": "b35"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 3257.2
+   },
+   {
+    "id": "st010652",
+    "device": {
+     "id": "b35"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 142967.4
+   },
+   {
+    "id": "st010653",
+    "device": {
+     "id": "b36"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:01:00Z",
+    "data": 12.79
+   },
+   {
+    "id": "st010654",
+    "device": {
+     "id": "b36"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:01:00Z",
+    "data": 8876.6
+   },
+   {
+    "id": "st010655",
+    "device": {
+     "id": "b36"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:01:00Z",
+    "data": 3745.0
+   },
+   {
+    "id": "st010656",
+    "device": {
+     "id": "b36"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:01:00Z",
+    "data": 166653.3
+   },
+   {
+    "id": "st010657",
+    "device": {
+     "id": "b37"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 12.7
+   },
+   {
+    "id": "st010658",
+    "device": {
+     "id": "b37"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 8904.1
+   },
+   {
+    "id": "st010659",
+    "device": {
+     "id": "b37"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 3766.7
+   },
+   {
+    "id": "st010660",
+    "device": {
+     "id": "b37"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 229465.3
+   },
+   {
+    "id": "st010661",
+    "device": {
+     "id": "b38"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 12.33
+   },
+   {
+    "id": "st010662",
+    "device": {
+     "id": "b38"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 12618.0
+   },
+   {
+    "id": "st010663",
+    "device": {
+     "id": "b38"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 3454.1
+   },
+   {
+    "id": "st010664",
+    "device": {
+     "id": "b38"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 166056.6
+   },
+   {
+    "id": "st010665",
+    "device": {
+     "id": "b39"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 12.73
+   },
+   {
+    "id": "st010666",
+    "device": {
+     "id": "b39"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 7577.2
+   },
+   {
+    "id": "st010667",
+    "device": {
+     "id": "b39"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 2068.3
+   },
+   {
+    "id": "st010668",
+    "device": {
+     "id": "b39"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 209817.4
+   },
+   {
+    "id": "st010669",
+    "device": {
+     "id": "b46"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 12.08
+   },
+   {
+    "id": "st010670",
+    "device": {
+     "id": "b46"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 13691.3
+   },
+   {
+    "id": "st010671",
+    "device": {
+     "id": "b46"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 2581.5
+   },
+   {
+    "id": "st010672",
+    "device": {
+     "id": "b46"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 92599.0
+   },
+   {
+    "id": "st010673",
+    "device": {
+     "id": "b3C"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 12.46
+   },
+   {
+    "id": "st010674",
+    "device": {
+     "id": "b3C"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 12832.3
+   },
+   {
+    "id": "st010675",
+    "device": {
+     "id": "b3C"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 4063.8
+   },
+   {
+    "id": "st010676",
+    "device": {
+     "id": "b3C"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 168219.8
+   },
+   {
+    "id": "st010677",
+    "device": {
+     "id": "b3D"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 12.8
+   },
+   {
+    "id": "st010678",
+    "device": {
+     "id": "b3D"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 10215.8
+   },
+   {
+    "id": "st010679",
+    "device": {
+     "id": "b3D"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 3916.8
+   },
+   {
+    "id": "st010680",
+    "device": {
+     "id": "b3D"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 85199.4
+   },
+   {
+    "id": "st010681",
+    "device": {
+     "id": "b3E"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 12.65
+   },
+   {
+    "id": "st010682",
+    "device": {
+     "id": "b3E"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 7309.3
+   },
+   {
+    "id": "st010683",
+    "device": {
+     "id": "b3E"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 1512.3
+   },
+   {
+    "id": "st010684",
+    "device": {
+     "id": "b3E"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:03:00Z",
+    "data": 88135.9
+   },
+   {
+    "id": "st010685",
+    "device": {
+     "id": "b3F"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 12.14
+   },
+   {
+    "id": "st010686",
+    "device": {
+     "id": "b3F"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 10673.2
+   },
+   {
+    "id": "st010687",
+    "device": {
+     "id": "b3F"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 1527.0
+   },
+   {
+    "id": "st010688",
+    "device": {
+     "id": "b3F"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 238153.9
+   },
+   {
+    "id": "st010689",
+    "device": {
+     "id": "b40"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 12.79
+   },
+   {
+    "id": "st010690",
+    "device": {
+     "id": "b40"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 14735.7
+   },
+   {
+    "id": "st010691",
+    "device": {
+     "id": "b40"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 2536.5
+   },
+   {
+    "id": "st010692",
+    "device": {
+     "id": "b40"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 205631.5
+   },
+   {
+    "id": "st010693",
+    "device": {
+     "id": "b41"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:04:00Z",
+    "data": 12.51
+   },
+   {
+    "id": "st010694",
+    "device": {
+     "id": "b41"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:04:00Z",
+    "data": 13713.0
+   },
+   {
+    "id": "st010695",
+    "device": {
+     "id": "b41"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:04:00Z",
+    "data": 1499.8
+   },
+   {
+    "id": "st010696",
+    "device": {
+     "id": "b41"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:04:00Z",
+    "data": 85474.0
+   },
+   {
+    "id": "st010697",
+    "device": {
+     "id": "b42"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 12.42
+   },
+   {
+    "id": "st010698",
+    "device": {
+     "id": "b42"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 14448.4
+   },
+   {
+    "id": "st010699",
+    "device": {
+     "id": "b42"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 4182.4
+   },
+   {
+    "id": "st010700",
+    "device": {
+     "id": "b42"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 155358.5
+   },
+   {
+    "id": "st010701",
+    "device": {
+     "id": "b43"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 12.81
+   },
+   {
+    "id": "st010702",
+    "device": {
+     "id": "b43"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 11716.5
+   },
+   {
+    "id": "st010703",
+    "device": {
+     "id": "b43"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 2479.6
+   },
+   {
+    "id": "st010704",
+    "device": {
+     "id": "b43"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 202698.1
+   },
+   {
+    "id": "st010705",
+    "device": {
+     "id": "b44"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 12.72
+   },
+   {
+    "id": "st010706",
+    "device": {
+     "id": "b44"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 7789.1
+   },
+   {
+    "id": "st010707",
+    "device": {
+     "id": "b44"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 2111.7
+   },
+   {
+    "id": "st010708",
+    "device": {
+     "id": "b44"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:02:00Z",
+    "data": 162145.8
+   },
+   {
+    "id": "st010709",
+    "device": {
+     "id": "b45"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 12.79
+   },
+   {
+    "id": "st010710",
+    "device": {
+     "id": "b45"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 13395.4
+   },
+   {
+    "id": "st010711",
+    "device": {
+     "id": "b45"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 3046.5
+   },
+   {
+    "id": "st010712",
+    "device": {
+     "id": "b45"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:05:00Z",
+    "data": 201857.1
+   },
+   {
+    "id": "st010713",
+    "device": {
+     "id": "b3B"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 12.7
+   },
+   {
+    "id": "st010714",
+    "device": {
+     "id": "b3B"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 13882.6
+   },
+   {
+    "id": "st010715",
+    "device": {
+     "id": "b3B"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 3676.9
+   },
+   {
+    "id": "st010716",
+    "device": {
+     "id": "b3B"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:00:00Z",
+    "data": 143375.3
+   },
+   {
+    "id": "st010717",
+    "device": {
+     "id": "b47"
+    },
+    "diagnostic": {
+     "id": "DiagnosticBatteryRestingVoltageId"
+    },
+    "dateTime": "2026-01-24T23:08:00Z",
+    "data": 12.74
+   },
+   {
+    "id": "st010718",
+    "device": {
+     "id": "b47"
+    },
+    "diagnostic": {
+     "id": "DiagnosticEngineHoursId"
+    },
+    "dateTime": "2026-01-24T23:08:00Z",
+    "data": 13844.6
+   },
+   {
+    "id": "st010719",
+    "device": {
+     "id": "b47"
+    },
+    "diagnostic": {
+     "id": "DiagnosticPtoHoursId"
+    },
+    "dateTime": "2026-01-24T23:08:00Z",
+    "data": 1478.1
+   },
+   {
+    "id": "st010720",
+    "device": {
+     "id": "b47"
+    },
+    "diagnostic": {
+     "id": "DiagnosticOdometerId"
+    },
+    "dateTime": "2026-01-24T23:08:00Z",
+    "data": 233525.1
+   }
+  ],
+  "FaultData": [
+   {
+    "id": "fa010596",
+    "device": {
+     "id": "b2A"
+    },
+    "diagnostic": {
+     "id": "HYD-PRESS-LOW"
+    },
+    "dateTime": "2026-01-25T02:44:14Z",
+    "severity": "low",
+    "description": "Hydraulic pressure below expected range"
+   },
+   {
+    "id": "fa010597",
+    "device": {
+     "id": "b2B"
+    },
+    "diagnostic": {
+     "id": "HYD-PRESS-LOW"
+    },
+    "dateTime": "2026-01-24T11:19:11Z",
+    "severity": "low",
+    "description": "Hydraulic pressure below expected range"
+   },
+   {
+    "id": "fa010598",
+    "device": {
+     "id": "b30"
+    },
+    "diagnostic": {
+     "id": "IMPACT-G"
+    },
+    "dateTime": "2026-01-24T19:43:56Z",
+    "severity": "critical",
+    "description": "Impact detected (accelerometer)"
+   },
+   {
+    "id": "fa010599",
+    "device": {
+     "id": "b35"
+    },
+    "diagnostic": {
+     "id": "HYD-PRESS-LOW"
+    },
+    "dateTime": "2026-01-24T15:47:31Z",
+    "severity": "low",
+    "description": "Hydraulic pressure below expected range"
+   },
+   {
+    "id": "fa010600",
+    "device": {
+     "id": "b40"
+    },
+    "diagnostic": {
+     "id": "HYD-PRESS-LOW"
+    },
+    "dateTime": "2026-01-24T19:35:13Z",
+    "severity": "low",
+    "description": "Hydraulic pressure below expected range"
+   },
+   {
+    "id": "fa010601",
+    "device": {
+     "id": "b44"
+    },
+    "diagnostic": {
+     "id": "HYD-PRESS-LOW"
+    },
+    "dateTime": "2026-01-25T00:35:25Z",
+    "severity": "low",
+    "description": "Hydraulic pressure below expected range"
+   },
+   {
+    "id": "fa010602",
+    "device": {
+     "id": "b44"
+    },
+    "diagnostic": {
+     "id": "GO-DEVICE-RESTART"
+    },
+    "dateTime": "2026-01-24T23:29:15Z",
+    "severity": "low",
+    "description": "Telematics device restarted"
+   },
+   {
+    "id": "fa010603",
+    "device": {
+     "id": "b3B"
+    },
+    "diagnostic": {
+     "id": "HYD-PRESS-LOW"
+    },
+    "dateTime": "2026-01-24T23:53:04Z",
+    "severity": "low",
+    "description": "Hydraulic pressure below expected range"
+   },
+   {
+    "id": "fa010604",
+    "device": {
+     "id": "b47"
+    },
+    "diagnostic": {
+     "id": "HYD-PRESS-LOW"
+    },
+    "dateTime": "2026-01-24T13:29:13Z",
+    "severity": "low",
+    "description": "Hydraulic pressure below expected range"
+   }
+  ],
+  "WorkOrder": [
+   {
+    "id": "wo010568",
+    "vehicleName": "T-101",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:20:00",
+    "closedLocal": "2026-01-24T06:43:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010569",
+    "vehicleName": "T-101",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:23:00",
+    "closedLocal": "2026-01-24T11:13:00",
+    "meterReadings": {
+     "engineHours": 9909.6,
+     "ptoHours": 3826.2
+    },
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010570",
+    "vehicleName": "T-102",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:15:00",
+    "closedLocal": "2026-01-24T06:00:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010571",
+    "vehicleName": "T-102",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:18:00",
+    "closedLocal": "2026-01-24T11:08:00",
+    "meterReadings": {
+     "engineHours": 7995.3,
+     "ptoHours": 2059.0
+    },
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010572",
+    "vehicleName": "T-105",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:14:00",
+    "closedLocal": "2026-01-24T06:42:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010573",
+    "vehicleName": "T-105",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:33:00",
+    "closedLocal": "2026-01-24T11:23:00",
+    "meterReadings": {
+     "engineHours": 11052.1,
+     "ptoHours": 3442.9
+    },
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010574",
+    "vehicleName": "T-107",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:10:00",
+    "closedLocal": "2026-01-24T06:40:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010575",
+    "vehicleName": "T-107",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:41:00",
+    "closedLocal": "2026-01-24T11:31:00",
+    "meterReadings": {
+     "engineHours": 11913.2,
+     "ptoHours": 2825.8
+    },
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010576",
+    "vehicleName": "T-108",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:15:00",
+    "closedLocal": "2026-01-24T06:15:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010577",
+    "vehicleName": "T-108",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:13:00",
+    "closedLocal": "2026-01-24T11:03:00",
+    "meterReadings": {
+     "engineHours": 13244.8,
+     "ptoHours": 1476.6
+    },
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010578",
+    "vehicleName": "T-110",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:24:00",
+    "closedLocal": "2026-01-24T06:21:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010579",
+    "vehicleName": "T-110",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:03:00",
+    "closedLocal": "2026-01-24T10:53:00",
+    "meterReadings": null,
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010580",
+    "vehicleName": "T-113",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:16:00",
+    "closedLocal": "2026-01-24T06:08:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010581",
+    "vehicleName": "T-113",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:46:00",
+    "closedLocal": "2026-01-24T11:36:00",
+    "meterReadings": null,
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010582",
+    "vehicleName": "T-116",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:09:00",
+    "closedLocal": "2026-01-24T06:32:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010583",
+    "vehicleName": "T-116",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:31:00",
+    "closedLocal": "2026-01-24T11:21:00",
+    "meterReadings": {
+     "engineHours": 7576.1,
+     "ptoHours": 2067.5
+    },
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010584",
+    "vehicleName": "T-120",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:24:00",
+    "closedLocal": "2026-01-24T06:48:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010585",
+    "vehicleName": "T-120",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:35:00",
+    "closedLocal": "2026-01-24T11:25:00",
+    "meterReadings": {
+     "engineHours": 10214.1,
+     "ptoHours": 3915.4
+    },
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010586",
+    "vehicleName": "T-123",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:11:00",
+    "closedLocal": "2026-01-24T06:10:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010587",
+    "vehicleName": "T-123",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:13:00",
+    "closedLocal": "2026-01-24T11:03:00",
+    "meterReadings": null,
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010588",
+    "vehicleName": "T-126",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:18:00",
+    "closedLocal": "2026-01-24T06:36:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010589",
+    "vehicleName": "T-126",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:23:00",
+    "closedLocal": "2026-01-24T11:13:00",
+    "meterReadings": {
+     "engineHours": 11714.9,
+     "ptoHours": 2478.3
+    },
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010590",
+    "vehicleName": "T-127",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:13:00",
+    "closedLocal": "2026-01-24T06:11:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010591",
+    "vehicleName": "T-127",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:05:00",
+    "closedLocal": "2026-01-24T10:55:00",
+    "meterReadings": null,
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010592",
+    "vehicleName": "T-128",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:19:00",
+    "closedLocal": "2026-01-24T06:31:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010593",
+    "vehicleName": "T-128",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:10:00",
+    "closedLocal": "2026-01-24T11:00:00",
+    "meterReadings": null,
+    "notes": "Batteries replaced (2x group 31)."
+   },
+   {
+    "id": "wo010594",
+    "vehicleName": "T-130",
+    "type": "ROAD_CALL",
+    "reason": "NO_START",
+    "openedLocal": "2026-01-24T05:24:00",
+    "closedLocal": "2026-01-24T06:17:00",
+    "meterReadings": null,
+    "notes": "Unit would not crank. Boosted and returned to yard."
+   },
+   {
+    "id": "wo010595",
+    "vehicleName": "T-130",
+    "type": "BATTERY_REPLACED",
+    "reason": "Failed start",
+    "openedLocal": "2026-01-24T10:38:00",
+    "closedLocal": "2026-01-24T11:28:00",
+    "meterReadings": {
+     "engineHours": 13843.2,
+     "ptoHours": 1477.0
+    },
+    "notes": "Batteries replaced (2x group 31)."
+   }
+  ]
+ },
+ "records_note": "API-format records for the day before the storm (your API history stops the day before this)."
+}
