@@ -1,0 +1,1 @@
+python -m stormtwin replay --input {input} --output {output}

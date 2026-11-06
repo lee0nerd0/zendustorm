@@ -1,0 +1,2 @@
+# Runtime: Python 3.10+ standard library only (no third-party packages).
+# The offline replay must run in a clean container, so we keep dependencies at zero.
