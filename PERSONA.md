@@ -94,4 +94,4 @@ python -m stormtwin weather
 
 ## How it works (in my words)
 
-<!-- Write 3–5 lines here: load → history → rules → replay / what-if. -->
+This system first loads the data from the API and env canada weather, then combines the various data into more useful per-truck metrics that can be reported at any given time (last recorded battery voltage, PTO hours since last service, etc.). It applies 2 rules found in historical data and gives recommendations on what to fix before callout, what trucks to hold back, and what trucks are near next maintenance.
